@@ -21,8 +21,7 @@ This feature is only enabled if [`ENABLE_TOOLJET_DB`](/docs/setup/env-vars#enabl
 
 <div>
 
-##
-# PostgREST server
+### PostgREST server
 
 PostgREST is a standalone web server that turns your PostgreSQL database directly into queryable RESTful APIs which is utilized for Tooljet Database. This server only talks with ToolJet server and therefore does not have to be publicly exposed.
 

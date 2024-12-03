@@ -11,7 +11,7 @@ The sidebar on the left can also be collapsed to give more space to the database
 
 <img className="screenshot-full" src="/img/v2-beta/database/ux2/collapse-v2.gif" alt="ToolJet database"/>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Create New Table
 
@@ -39,7 +39,7 @@ To create a new table in the ToolJet Database:
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Column Constraints
 
@@ -59,7 +59,7 @@ For a detailed overview of which constraints are allowed for each data type, ref
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Adding and Modifying Data
 
@@ -145,7 +145,7 @@ You can add as many filters as you want into the table by clicking on the **Filt
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Sort
 

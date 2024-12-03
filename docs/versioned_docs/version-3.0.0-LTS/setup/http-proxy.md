@@ -12,7 +12,7 @@ The server will connect to the internet via the configured HTTP proxy when the b
 *If you have any questions, feel free to join our [Slack Community](https://tooljet.com/slack) or send us an email at hello@tooljet.com.*
 
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Package Information
 
@@ -22,7 +22,7 @@ This package allows you to configure global HTTP/HTTPS proxies for your Node.js 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## URL Format
 

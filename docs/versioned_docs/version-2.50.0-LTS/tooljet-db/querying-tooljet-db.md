@@ -25,8 +25,7 @@ The selected operation should adhere to the column constraints of the selected t
 
 <div>
 
-##
-# List Rows
+### List Rows
 This operation returns all the records from the table.
 
 #### Optional Parameters
@@ -38,8 +37,7 @@ This operation returns all the records from the table.
 
 <div>
 
-##
-# Create row
+### Create row
 This operation creates a new record in the table. You can create a single record or multiple records at once.
 
 #### Required Parameters
@@ -49,8 +47,7 @@ This operation creates a new record in the table. You can create a single record
 
 <div>
 
-##
-# Update Row
+### Update Row
 This operation updates a record in the table. You can update a single record or multiple records at once.
 
 #### Required Parameter
@@ -61,8 +58,7 @@ This operation updates a record in the table. You can update a single record or 
 
 <div>
 
-##
-# Delete Row
+### Delete Row
 This operation deletes a record in the table. You can delete a single record or multiple records at once.
 
 #### Required Parameters
@@ -84,8 +80,7 @@ When you are creating, updating, or deleting records in a table that has a forei
 
 <div>
 
-##
-# Join Tables
+### Join Tables
 
 You can join two or more tables in the ToolJet database by using the **Join** operation.
 

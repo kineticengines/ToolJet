@@ -5,7 +5,7 @@ title: WooCommerce
 
 ToolJet can connect to WooCommerce databases to read and write data.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -24,7 +24,7 @@ NOTE: For generating keys visit admin dashboard of woocommerce , more info: http
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying WooCommerce
 
@@ -39,7 +39,7 @@ Query results can be transformed using transformations. Read our transformations
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Resource
 

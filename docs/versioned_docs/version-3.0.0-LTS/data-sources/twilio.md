@@ -5,7 +5,7 @@ title: Twilio
 
 ToolJet can connect to Twilio account to send sms.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -28,7 +28,7 @@ For **Messaging Service SID**, you'll need to create a messaging service first f
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Twilio
 
@@ -39,7 +39,7 @@ For **Messaging Service SID**, you'll need to create a messaging service first f
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported operations
 

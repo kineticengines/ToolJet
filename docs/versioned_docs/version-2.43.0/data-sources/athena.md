@@ -63,8 +63,7 @@ You can also configure for **[additional optional parameters](https://github.com
 
 <div>
 
-##
-# Basic Queries
+### Basic Queries
 
 #### Creating Table 
 

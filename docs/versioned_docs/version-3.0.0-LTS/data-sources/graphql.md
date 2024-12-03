@@ -5,7 +5,7 @@ title: GraphQL
 
 ToolJet can establish connections with GraphQL endpoints, enabling the execution of queries and mutations.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -30,7 +30,7 @@ ToolJet requires the following to connect to a GraphQL datasource:
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying GraphQL
 

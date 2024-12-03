@@ -25,7 +25,7 @@ ToolJet supports the following REST HTTP methods:
 
 <img className="screenshot-full" src="/img/datasource-reference/rest-api/restquery.png" alt="ToolJet - Data source - REST API" />
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ### Additional header
 

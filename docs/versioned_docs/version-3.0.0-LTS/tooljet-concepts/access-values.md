@@ -10,7 +10,7 @@ In ToolJet, double curly braces `{{}}` can be used to retrieve data returned by 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hMzkNaHMFr0?si=s5WeHv2hY6rBrvE_&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Accessing Values
 
@@ -25,7 +25,7 @@ Similarly, the **components** keyword can be used to access data in the componen
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Writing Custom Code 
 

@@ -9,7 +9,7 @@ ToolJet can connect to your Stripe account to read or write customers' and payme
 Check out the **[Stripe Refund App tutorial](https://blog.tooljet.com/build-a-stripe-refund-tool-using-low-code/)**
 :::
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -26,7 +26,7 @@ You can get the Stripe API key from the dashboard of your Stripe account. Go to 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Stripe
 
@@ -41,7 +41,7 @@ Query results can be transformed using transformations. Read our transformations
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported Operations
 

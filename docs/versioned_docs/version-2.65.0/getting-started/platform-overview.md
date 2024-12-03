@@ -46,8 +46,7 @@ Enables the creation of visually appealing front-ends with a drag-and-drop inter
 
 <div>
 
-##
-# Integrations
+### Integrations
 Offers seamless integration with a wide range of data sources, including over 50 applications, databases, and APIs. 
 
 <div style={{textAlign: 'center'}}>
@@ -58,8 +57,7 @@ Offers seamless integration with a wide range of data sources, including over 50
 
 <div>
 
-##
-# ToolJet Database
+### ToolJet Database
 A robust, scalable database solution built atop PostgreSQL. It allows for no-code database management, enabling users to build, manage, and scale databases effortlessly.
 
 <div style={{textAlign: 'center'}}>
@@ -70,8 +68,7 @@ A robust, scalable database solution built atop PostgreSQL. It allows for no-cod
 
 <div>
 
-##
-# Workflow Automation
+### Workflow Automation
 Simplifies the automation of complex manual business processes, reducing the engineering effort required. 
 <!-- This feature is particularly useful for streamlining enterprise workflows and improving operational efficiency. -->
 
@@ -83,8 +80,7 @@ Simplifies the automation of complex manual business processes, reducing the eng
 
 <div>
 
-##
-# Enterprise-Grade Security
+### Enterprise-Grade Security
 Designed with advanced security features and a scalable infrastructure to meet the needs of enterprise teams. 
 <!-- This ensures the protection of sensitive data and the reliability of the platform in handling large-scale applications. -->
 
@@ -96,8 +92,7 @@ Designed with advanced security features and a scalable infrastructure to meet t
 
 <div>
 
-##
-# SSO Support
+### SSO Support
 
 Single Sign-On (SSO) capabilities, supporting a variety of providers including Okta, Google, Azure AD, and OpenID Connect. 
 
@@ -109,8 +104,7 @@ Single Sign-On (SSO) capabilities, supporting a variety of providers including O
 
 <div>
 
-##
-# Multiple Environments
+### Multiple Environments
 Creation and management of multiple environments for efficient application lifecycle management, allowing different stages like development, testing, and production to be handled seamlessly.
 
 <div style={{textAlign: 'center'}}>
@@ -121,8 +115,7 @@ Creation and management of multiple environments for efficient application lifec
 
 <div>
 
-##
-# Multiplayer Editing
+### Multiplayer Editing
 
 Multiple users can collaboratively work on app development in real-time. Simultaneous edits and contributions from different team members streamlines the development process and fosters a more dynamic and interactive workspace
 

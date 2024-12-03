@@ -12,7 +12,7 @@ This guide introduces **Inspector** in the app-builder, a feature that lets you 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Sections
 
@@ -27,7 +27,7 @@ The Inspector panel has 6 main sections:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Queries
 
@@ -35,7 +35,7 @@ Queries allow you to inspect the specifics of your queries. However, the data re
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Components
 
@@ -43,7 +43,7 @@ Under Components, you can view and analyze the properties and values of the comp
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Globals
 
@@ -64,7 +64,7 @@ All the global variables can be accessed anywhere within ToolJet applications. H
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Variables
 
@@ -72,14 +72,14 @@ Variables shows user-defined variables in a key-value format. These variables, s
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Page
 Page lets you view page-specific properties like page name, handle and variables. Page variables are restricted to their respective pages and are not accessible application-wide.
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Constants
 

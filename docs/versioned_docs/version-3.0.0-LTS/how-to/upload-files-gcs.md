@@ -10,7 +10,7 @@ Before adding the new data source we will need to have a private key for our GCS
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Setting up Google Cloud Storage Data Source
 
@@ -27,7 +27,7 @@ Before adding the new data source we will need to have a private key for our GCS
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Adding a File Picker
 
@@ -59,7 +59,7 @@ Before adding the new data source we will need to have a private key for our GCS
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Creating a Query
 
@@ -74,7 +74,7 @@ Before adding the new data source we will need to have a private key for our GCS
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Running the Query
 1. Add a **button** that will fire the query to upload the file

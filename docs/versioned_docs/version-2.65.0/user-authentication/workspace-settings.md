@@ -35,8 +35,7 @@ When the workspace login state is `Inherited`, the workspace login settings are 
 
 <div>
 
-##
-# Allowed Domains
+### Allowed Domains
 
 The allowed domains field is used to specify the domains that are allowed to access the workspace. If the allowed domains field is empty, all domains are allowed to access the workspace. If the allowed domains field is not empty, only the specified domains are allowed to access the workspace. The allowed domains field can be a comma-separated list of domains.
 
@@ -44,8 +43,7 @@ The allowed domains field is used to specify the domains that are allowed to acc
 
 <div>
 
-##
-# Login URL
+### Login URL
 
 Login URL is automatically generated and can be used to login directly to the workspace. The login URL is unique to the workspace and can be shared with the users to access the workspace.
 
@@ -53,8 +51,7 @@ Login URL is automatically generated and can be used to login directly to the wo
 
 <div>
 
-##
-# Enable Sign-up
+### Enable Sign-up
 
 The enable sign-up toggle is used to enable or disable the sign-up option for the workspace. If the enable sign-up toggle is enabled, new users can sign up for the workspace. If the enable sign-up toggle is disabled, new users cannot sign up for the workspace.
 
@@ -72,8 +69,7 @@ Password login is a method of user authentication where user can login using the
 
 <div>
 
-##
-# Retry Limits
+### Retry Limits
 
 The user password authentication method will be disabled after predefined numbers of wrong password attempts. This feature can be disabled using setting `DISABLE_PASSWORD_RETRY_LIMIT` to `true` in environment variables. Number of retries allowed will be 5 by default, it can be override by `PASSWORD_RETRY_LIMIT` environment variable.
 
@@ -81,8 +77,7 @@ The user password authentication method will be disabled after predefined number
 
 <div>
 
-##
-# Reset Password
+### Reset Password
 
 There are two ways through which a user can reset their password. The first method is where user can reset their password by themselves. The second method is where a **Super Admin** can reset password for a user.
 

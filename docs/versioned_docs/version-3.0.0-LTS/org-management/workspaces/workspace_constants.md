@@ -7,7 +7,7 @@ title: Workspace Constants and Secrets
 
 Workspace constants and secrets are predefined values that can be used across your application to maintain consistency, facilitate easy updates, and securely store sensitive information. This document will guide you through the usage and management of workspace constants and secrets within your workspaces.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Types of Constants
 
@@ -38,7 +38,7 @@ Secrets cannot be used in RunJS or RunPy queries.
 :::
 
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Environment-Specific Configurations
 
@@ -49,7 +49,7 @@ Users can define environment-specific configurations by setting different values
 <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/env-specific-const.png" alt="Environment-Specific Constants"/>
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Server-Side Resolution and Security
 
@@ -57,7 +57,7 @@ Both workspace constants and secrets are resolved on the server side only. This 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Access Control
 
@@ -65,7 +65,7 @@ Creating, updating, and deleting constants and secrets are exclusive privileges 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Creating Workspace Constants and Secrets
 
@@ -121,7 +121,7 @@ You can use global constants in datasource connection forms and queries using th
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Using Secrets
 

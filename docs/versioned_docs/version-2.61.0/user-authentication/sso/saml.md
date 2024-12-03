@@ -7,8 +7,7 @@ ToolJet supports SAML authentication for your workspace. The supported SAML prov
 
 <div>
 
-##
-# Configuring SAML
+### Configuring SAML
 
 To enable SAML authentication, you need to configure the following workspace settings:
 
@@ -55,8 +54,7 @@ To enable SAML authentication, you need to configure the following workspace set
 
 <div>
 
-##
-# Logging in with SAML
+### Logging in with SAML
 
 1. Go to the **[General Settings](/docs/user-authentication/general-settings)** and copy the **Login URL** provided. Furthermore, you have the flexibility to choose whether to turn on 'Enable Signups,' allowing users to signup without an invite. Through SSO authentication, we check if the user already exists; if so, they can sign in seamlessly. Otherwise, an error will be displayed. Conversely, with this option disabled, only invited users can log in, provided SSO authentication is successful.
   

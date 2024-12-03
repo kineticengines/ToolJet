@@ -27,8 +27,7 @@ ToolJet supports the following REST HTTP methods:
 
 <div>
 
-##
-# Additional header
+### Additional header
 
 Whenever a request is made to the REST API, a **tj-x-forwarded-for** header is added to the request, the value of the header will be the IP address of the user who is logged in to the ToolJet application. This header can be used to identify the user who is making the request to the REST API.
 

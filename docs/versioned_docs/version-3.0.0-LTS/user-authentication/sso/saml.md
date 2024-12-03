@@ -5,7 +5,7 @@ title: SAML
 
 ToolJet supports SAML authentication for your workspace. The supported SAML providers are: Okta, Active Directory Federation Services, Azure AD, Auth0 and other SAML SSO providers.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Configuring SAML
 
@@ -40,7 +40,7 @@ To enable SAML authentication, you need to configure the following workspace set
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Logging in with SAML
 

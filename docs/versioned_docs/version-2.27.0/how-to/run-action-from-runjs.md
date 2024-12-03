@@ -261,8 +261,7 @@ async function countdown() {
 
 <div>
 
-##
-# Switch page
+### Switch page
 
 To switch to a page from the JavaScript query, use the following syntax:
 
@@ -274,8 +273,7 @@ await actions.switchPage('<page-handle>')
 
 <div>
 
-##
-# Switch page with query parameters
+### Switch page with query parameters
 
 Query parameters can be passed through action such as Switch Page. The parameters are appended to the end of the application URL and are preceded by a question mark (?). Multiple parameters are separated by an ampersand (&).
 
@@ -289,8 +287,7 @@ actions.switchPage('<pageHandle>', [['param1', 'value1'], ['param2', 'value2']])
 
 <div>
 
-##
-# Set page variable
+### Set page variable
 
 Page variables are restricted to the page where they are created and cannot be accessed throughout the entire application like regular variables.
 

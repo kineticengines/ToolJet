@@ -23,7 +23,7 @@ Once you have successfully added the AWS data source, build a basic UI using the
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Queries
 
@@ -36,7 +36,7 @@ We'll create the following queries:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### getBuckets
 
@@ -64,7 +64,7 @@ You can later add an event handler for running the **listObject** query whenever
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### listObjects
 
@@ -92,7 +92,7 @@ Edit the properties of **table** widget:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### download
 
@@ -108,7 +108,7 @@ Edit the **properties** of the table, add a Event handler for running the `downl
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### uploadToS3
 
@@ -127,7 +127,7 @@ Create a new query, select the **Upload object** operation. Enter the following 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 #### Configure the File Picker:
 

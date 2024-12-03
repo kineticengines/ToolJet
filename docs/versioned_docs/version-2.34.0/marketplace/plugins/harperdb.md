@@ -49,8 +49,7 @@ To perform queries on HarperDB, click the `+Add` button in the query manager loc
 
 <div>
 
-##
-# SQL Mode
+### SQL Mode
 
 SQL mode enables you to perform various operations on the database using SQL statements.
 
@@ -119,8 +118,7 @@ DELETE FROM sampleorg.people WHERE id = 5
 
 <div>
 
-##
-# NoSQL Mode
+### NoSQL Mode
 
 NoSQL mode enables you to perform schema-less storage and retrieval of JSON documents.
 

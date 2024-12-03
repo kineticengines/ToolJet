@@ -5,7 +5,7 @@ title: n8n
 
 ToolJet can trigger n8n workflows using webhook URLs. Please refer [this](https://docs.n8n.io/) to know more about n8n.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -40,7 +40,7 @@ Webhook credentials and instance credentials are different. Please use the crede
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Trigger Workflow
 

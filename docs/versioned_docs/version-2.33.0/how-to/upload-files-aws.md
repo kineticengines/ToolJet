@@ -38,8 +38,7 @@ We'll create the following queries:
 
 <div>
 
-##
-# getBuckets
+### getBuckets
 
 This query will fetch the list of all the buckets in your S3. Just create a new query, select AWS S3 data source, and choose **List buckets** operation. Name the query **getBuckets** and click **Save**.
 
@@ -67,8 +66,7 @@ You can later add an event handler for running the **listObject** query whenever
 
 <div>
 
-##
-# listObjects
+### listObjects
 
 This query will list all the objects inside the selected Bucket in dropdown. Select **List objects in a bucket** operation, enter `{{components.dropdown1.value}}` in the Bucket field - this will dynamically get the field value from the selected option in dropdown.
 
@@ -96,8 +94,7 @@ Edit the properties of **table** widget:
 
 <div>
 
-##
-# download
+### download
 
 Create a new query and select **Signed URL for download** operation. In the Bucket field, enter `{{components.dropdown1.value}}` and in Key enter `{{components.table1.selectedRow.Key}}`.
 
@@ -113,8 +110,7 @@ Edit the **properties** of the table, add a Event handler for running the `downl
 
 <div>
 
-##
-# uploadToS3
+### uploadToS3
 
 Create a new query, select the **Upload object** operation. Enter the following values in their respective fields:
 - **Bucket**: `{{components.dropdown1.value}}`
@@ -133,8 +129,7 @@ Create a new query, select the **Upload object** operation. Enter the following 
 
 <div>
 
-##
-## Configure the File Picker:
+#### Configure the File Picker:
 
 Click on the widget handle to edit the file picker properties: 
 

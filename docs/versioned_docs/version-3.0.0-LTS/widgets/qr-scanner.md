@@ -9,7 +9,7 @@ Scan QR codes using device camera and hold the data they carry.
 You might have to stick to the Safari browser in IOS as camera access is restricted for third-party browsers.
 :::
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Events
 
@@ -30,7 +30,7 @@ So if you're testing it out, be sure to either use `localhost` or `https`.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -38,7 +38,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -48,7 +48,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 ### Tooltip
@@ -61,7 +61,7 @@ Now hovering over the component will display the string as the tooltip.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -72,7 +72,7 @@ Now hovering over the component will display the string as the tooltip.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 --- 
 

@@ -9,7 +9,7 @@ title: Pagination
 You can club the Pagination component with the List View component.
 :::
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Properties
 
@@ -20,7 +20,7 @@ You can club the Pagination component with the List View component.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Event
 
@@ -30,7 +30,7 @@ You can club the Pagination component with the List View component.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -38,7 +38,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -49,7 +49,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 ### Tooltip
@@ -60,7 +60,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -71,7 +71,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ---
 

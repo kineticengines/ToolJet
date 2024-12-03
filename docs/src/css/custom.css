@@ -49,7 +49,15 @@
   --ifm-link-menu-color-background-hover: #f0f4ff;
 }
 
-h2:not(:first-of-type) {  
+h2 {
+  margin-top: 35px !important;
+}
+
+body > h2:first-of-type:not(.video-container h2) {
+  margin-top: 0 !important;
+}
+
+.video-container h2 {
   margin-top: 35px !important;
 }
 

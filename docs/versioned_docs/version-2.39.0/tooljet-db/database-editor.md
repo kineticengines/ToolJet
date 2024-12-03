@@ -17,8 +17,7 @@ The sidebar on the left can also be collapsed to give more space to the database
 
 <div>
 
-##
-# Create New Table
+### Create New Table
 
 To create a new table in ToolJet Database, click on the **Create New Table** button on the top left corner of the Database editor.
 
@@ -40,8 +39,7 @@ When you click the **Create New Table** button, a drawer opens from the right, a
 
 <div>
 
-##
-# Supported Data Types
+### Supported Data Types
 
 | <div style={{ width:"100px"}}> Data Type </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"100px"}}> Example </div> |
 |:--------- |:----------- |:------- |
@@ -60,8 +58,7 @@ When you click the **Create New Table** button, a drawer opens from the right, a
 
 <div>
 
-##
-# Search Table
+### Search Table
 
 Open the Search bar by clicking on the **Search** button and search for a table in the ToolJet database by entering the table name.
 
@@ -73,8 +70,7 @@ Open the Search bar by clicking on the **Search** button and search for a table 
 
 <div>
 
-##
-# Rename Table
+### Rename Table
 
 To rename a table, click on the kebab menu icon on the right of the table name and then select the **Rename table** option. A drawer will open from the right from where you can edit the table name.
 
@@ -86,8 +82,7 @@ To rename a table, click on the kebab menu icon on the right of the table name a
 
 <div>
 
-##
-# Add New Column
+### Add New Column
 
 To add a new column on a table, either click on the kebab menu icon on the right of the table name and then select the **Add new column** option or click on the **+** button present at the end of the column header.
 
@@ -110,8 +105,7 @@ A drawer from the right will open up where you can enter the details for the new
 
 <div>
 
-##
-# Export Schema
+### Export Schema
 
 The export schema option allows you to download the selected table schema in a JSON file. This does not export the table data.
 
@@ -127,8 +121,7 @@ To export the table schema, click on the three vertical dots icon on the right o
 
 <div>
 
-##
-# Delete Table
+### Delete Table
 
 To delete a table, click on the three vertical dots icon on the right of the table name and then click on the **Delete** option. A confirmation modal will appear, click on the **Delete** button to delete the table.
 
@@ -140,8 +133,7 @@ To delete a table, click on the three vertical dots icon on the right of the tab
 
 <div>
 
-##
-# Edit Column
+### Edit Column
 
 To edit a column, click on the kebab menu on the column name and select the option to **Edit column**. When you edit the column, the data type cannot be changed.
 
@@ -153,8 +145,7 @@ To edit a column, click on the kebab menu on the column name and select the opti
 
 <div>
 
-##
-# Delete Column
+### Delete Column
 
 To delete a column, click on the kebab menu on the column name and select the option to **Delete**.
 
@@ -166,8 +157,7 @@ To delete a column, click on the kebab menu on the column name and select the op
 
 <div>
 
-##
-# Add New Data
+### Add New Data
 
 The Add new data button on the top of the table editor allows you to add data to the table. You can either **[Add new row](#add-new-row)** or **[Bulk upload data](#bulk-upload-data)** to add the data to the table.
 
@@ -179,8 +169,7 @@ The Add new data button on the top of the table editor allows you to add data to
 
 <div>
 
-##
-# Add New Row
+### Add New Row
 
 To add a new row on a table, either click on the `Add new data` button on top and then select the **Add new row** option or click on the **+** button present at the bottom left.
 
@@ -198,8 +187,7 @@ A drawer from the right will open up where the values for the new row can be pro
 
 <div>
 
-##
-# Edit Row
+### Edit Row
 
 To edit a row, hover on the row that you want to edit and the expand icon will appear next to the checkbox of that row. Click on the Expand icon to open the drawer and edit the row.
 
@@ -211,8 +199,7 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 
 <div>
 
-##
-# Edit a Cell
+### Edit a Cell
 
 1. **Double-Click**: Double-click on the cell you want to edit.
 2. **Enter Value**: Input the new value.
@@ -226,8 +213,7 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 
 <div>
 
-##
-# Bulk Upload Data
+### Bulk Upload Data
 
 You can bulk upload data to the ToolJet database by clicking the **Bulk upload data** button at the top of the database editor. On clicking the button, a drawer will open from the right from where you can upload a **CSV** file. This file is used to upsert records onto the table. If data for the id column is missing, it will insert a new record with the row data; if the id is present, it will update the corresponding record with the row data.
 
@@ -251,8 +237,7 @@ Once the CSV file is ready, click on the file picker to select the file or drag 
 
 <div>
 
-##
-# Delete Records
+### Delete Records
 
 To delete one or many records/rows, click the checkbox to the right of the record or records you want to delete. As soon as you select a single record, the button to delete record will appear on the top, click on the **Delete record** button to delete the selected records.
 
@@ -264,8 +249,7 @@ To delete one or many records/rows, click the checkbox to the right of the recor
 
 <div>
 
-##
-# Filter
+### Filter
 
 You can add as many filter as you want into the table by clicking on the **Filter** button present on the top of the database editor.
 
@@ -298,8 +282,7 @@ You can add as many filter as you want into the table by clicking on the **Filte
 
 <div>
 
-##
-# Sort
+### Sort
 
 To sort the table data, click on the **Sort** button on top, select a **column** from the dropdown, and then choose an order **ascending** or **descending**.
 

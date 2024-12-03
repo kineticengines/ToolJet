@@ -5,7 +5,7 @@ title: Snowflake
 
 ToolJet can connect to Snowflake databases to read and write data.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -31,7 +31,7 @@ You can also configure for **[additional optional parameters](https://docs.snowf
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Snowflake
 

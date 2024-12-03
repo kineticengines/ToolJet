@@ -8,7 +8,7 @@ In this guide, we'll walk through the process of building a ToolJet application 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 1: Create a New Application
 
@@ -20,7 +20,7 @@ Begin by creating a new application in the ToolJet dashboard. Once the app build
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 2: Set Up a REST API Query
 
@@ -32,7 +32,7 @@ From the query panel, create a new REST API query. Utilize mock REST API data by
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 3: Configure Table Properties
 
@@ -44,7 +44,7 @@ In the Table properties, link the query data to the table by setting the 'table 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 4: Implement the RunJS Query
 
@@ -71,7 +71,7 @@ async function countdown(){
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 5: Advanced Configuration
 
@@ -84,7 +84,7 @@ From the Settings section of the RunJS query, enable 'Run query on page load.' T
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 6: Prevent Indefinite Triggering
 
@@ -96,7 +96,7 @@ clearInterval(variables.interval);
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Step 7: Add a Button
 
@@ -108,7 +108,7 @@ Drag a button on the canvas to act as a user-triggered stop mechanism. Attach an
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 By following these steps, your ToolJet application will dynamically fetch data at specified intervals, providing an efficient and automated user experience.
 

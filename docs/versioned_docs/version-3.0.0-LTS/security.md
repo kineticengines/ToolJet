@@ -6,7 +6,7 @@ slug: /security
 
 # Security
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Uncompromised Data Security with SOC 2 Compliance
 
@@ -14,7 +14,7 @@ With SOC 2 compliance, ToolJet ensures the highest level of data security. The a
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Data Storage
 
@@ -22,14 +22,14 @@ ToolJet does not store data returned from your data sources. ToolJet server acts
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Datasource Credentials
 All the datasource credentials are securely encrypted using `aes-256-gcm`. The credentials are never exposed to the frontend ( ToolJet client ).
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Other Security Features
 - **TLS**: If you are using ToolJet cloud, all connections are encrypted using TLS. We also have documentation for setting up TLS for self-hosted installations of ToolJet.

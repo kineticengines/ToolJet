@@ -7,7 +7,7 @@ In ToolJet, custom **Run Python Code** can be used to interact with components a
 
 <img className="screenshot-full" src="/img/datasource-reference/custom-python/add-run-py.png" alt="Run Python code" />
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Using Python Code to Trigger Component Specific Actions
 
@@ -38,7 +38,7 @@ components.text1.setText(p1.myfunc())
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Trigger Queries Using Run Python Code
 
@@ -56,7 +56,7 @@ queries.getSalesData.run()
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Get Query Data
 
@@ -100,7 +100,7 @@ value
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Get Variables
 
@@ -142,7 +142,7 @@ actions.getPageVariable('number')
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Using Transformations With Python
 
@@ -190,7 +190,7 @@ return sum(product["price"] for product in data["products"] if product["category
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Refer Python Query Data in Components
 

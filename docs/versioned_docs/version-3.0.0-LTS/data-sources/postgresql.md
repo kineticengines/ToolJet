@@ -5,7 +5,7 @@ title: PostgreSQL
 
 ToolJet has the capability to connect to PostgreSQL databases for data retrieval and modification.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Establishing a Connection
 
@@ -49,7 +49,7 @@ Please make sure the **Host/IP** of the database is accessible from your VPC if 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying PostgreSQL
 

@@ -6,7 +6,7 @@ title: Vertical Divider
 
 The **Vertical Divider** component creates a clear visual separation between two adjacent components by adding a vertical separator. It's commonly used to enhance layout structure, improve readability, and organize content by providing a distinct division between sections within a user interface.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -14,7 +14,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -22,7 +22,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 ### Tooltip
@@ -33,7 +33,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -45,7 +45,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 </div>
 
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Styles
 

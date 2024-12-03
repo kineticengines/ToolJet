@@ -7,7 +7,7 @@ title: Versioning and Release
 
 Versioning and Release lets you version control your apps and release app changes to the users. 
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Versioning
 
@@ -15,7 +15,7 @@ Versioning is really useful if multiple developers are working on an app, it all
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Creating a Version
 
@@ -37,7 +37,7 @@ You can create new versions from **App Version Manager** on the top-right corner
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Renaming a Version
 
@@ -51,7 +51,7 @@ If you want to change the name of an app version, navigate to the **version mana
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Deleting a Version
 
@@ -65,7 +65,7 @@ If you want to remove an app version, go to the **version manager** and locate t
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Release
 

@@ -72,8 +72,7 @@ https://fakestoreapi.com/products
 
 <div>
 
-##
-# Example 1: Changing Text Color Based on Cell Value
+### Example 1: Changing Text Color Based on Cell Value
 
 - Select the `Rate` column which has a column type of `Default`/`String`. This column contains the rating of each product on a scale of 1 to 5.
 
@@ -93,8 +92,7 @@ The above condition will change the text color to red if the cell value is less 
 
 <div>
 
-##
-# Example 2: Changing Cell Background Color Based on Cell Value
+### Example 2: Changing Cell Background Color Based on Cell Value
 
 - Select the `Rate` column, enter the following condition under the `Cell background color` property:
   
@@ -118,8 +116,7 @@ The above condition will change the cell background color to lightgreen if the c
 
 <div>
 
-##
-# Example 1: Changing Text Color Based on Row Data
+### Example 1: Changing Text Color Based on Row Data
 
 - Select the `Title` column, enter the following condition under the `Text color` property:
   
@@ -137,8 +134,7 @@ The above condition will change the text color of the `Title` based on the value
 
 <div>
 
-##
-# Example 2: Changing Cell Background Color based on Row Data
+### Example 2: Changing Cell Background Color based on Row Data
 
 - In this example, we will change the cell background color of the `Title` column based on the category of the product.
 

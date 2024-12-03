@@ -172,8 +172,7 @@ Super Admins have the authority to **archive** or **unarchive** workspaces of an
 
 <div>
 
-##
-# Current Workspace
+### Current Workspace
 
 The **Current Workspace** label will be displayed next to the workspace that the Super Admin has currently opened. If the Super Admin archives the current workspace, they will be prompted to switch to another active workspace to ensure continuous accessibility.
 
@@ -181,8 +180,7 @@ The **Current Workspace** label will be displayed next to the workspace that the
 
 <div>
 
-##
-# Open Active Workspaces
+### Open Active Workspaces
 
 In the list of active workspaces, there is an option to open the workspace directly. This feature helps superadmins to quickly navigate to the workspace on the new tab of the browser and manage the workspace.
 
@@ -190,8 +188,7 @@ In the list of active workspaces, there is an option to open the workspace direc
 
 <div>
 
-##
-# Archive Workspaces
+### Archive Workspaces
 
 The **Archive** button on the right of the workspace name allows Super Admins to archive the workspace. Once archived, the workspace will be moved to the **Archived Workspaces** section.
 
@@ -203,8 +200,7 @@ The **Archive** button on the right of the workspace name allows Super Admins to
 
 <div>
 
-##
-# Archived Workspaces
+### Archived Workspaces
 
 The **Archived** section displays a list of all archived workspaces. Super Admins can unarchive any workspace from this section by clicking the **Unarchive** button.
 
@@ -226,8 +222,7 @@ The **Archived** section displays a list of all archived workspaces. Super Admin
 
 <div>
 
-##
-# Restrict Creation of Personal Workspace of Users
+### Restrict Creation of Personal Workspace of Users
 
 When a user joins a workspace, they are provided with their own personal workspace and option to create new workspaces.
 
@@ -237,8 +232,7 @@ Super Admins can **control** this behavior from the Manage Settings page, they c
 
 <div>
 
-##
-# Enable Multiplayer Editing
+### Enable Multiplayer Editing
 
 Super Admins can enable multiplayer editing from the Manage Settings page. Once enabled, users will be able to edit the same app simultaneously resulting in real-time collaboration.
 
@@ -246,8 +240,7 @@ Super Admins can enable multiplayer editing from the Manage Settings page. Once 
 
 <div>
 
-##
-# Comments
+### Comments
 
 Super Admins can enable comments from the Manage Settings page. Once enabled, users will be able to collaborate by adding comments anywhere on the canvas.
 
@@ -272,8 +265,7 @@ Instance login configuration at the Settings level allows super admins to set up
 
 <div>
 
-##
-# Access and Permissions
+### Access and Permissions
 
 Only super admins have the authority to configure **Instance login** settings. This ensures centralized control over the default login method across the entire instance.
 
@@ -281,8 +273,7 @@ Only super admins have the authority to configure **Instance login** settings. T
 
 <div>
 
-##
-# Super Admin URL
+### Super Admin URL
 
 This URL serves as a fail-safe in scenarios where password login is disabled, SSO is not configured, or a paid plan expires. Importantly, this URL exclusively supports password login and is accessible only by the super admin, preventing any unauthorized access.
 
@@ -292,8 +283,7 @@ The default URL for super admin login is `https://<domain>/login/super-admin`. T
 
 <div>
 
-##
-# Enable sign-up
+### Enable sign-up
 
 The "Enable Sign Up" option allows users to sign up without being invited. It is important to note that this feature includes both password login and SSO, providing a seamless onboarding experience for users.
 
@@ -301,8 +291,7 @@ The "Enable Sign Up" option allows users to sign up without being invited. It is
 
 <div>
 
-##
-# Password login
+### Password login
 
 Super admins can enable or disable password login for the entire instance. This setting ensures that all workspaces within the instance adhere to the same login method, unless individual workspace admins choose to configure a different method for their specific workspace.
 
@@ -310,8 +299,7 @@ Super admins can enable or disable password login for the entire instance. This 
 
 <div>
 
-##
-# Enable Workspace Configuration
+### Enable Workspace Configuration
 
 Turning off this option restricts workspace admins from configuring the login method for their workspace. This configuration hides the Workspace Login option from the workspace settings tab.
 

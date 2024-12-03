@@ -15,7 +15,7 @@ HarperDB is a database and application development platform that is focused on p
 Before following this guide, it is recommended to check the following doc: **[Using Marketplace plugins](/docs/marketplace/marketplace-overview#using-marketplace-plugins)**.
 :::
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Connection
 
@@ -34,7 +34,7 @@ To establish a connection with HarperDB, you need the following credentials:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Querying HarperDB
 To perform queries on HarperDB, click the `+Add` button in the query manager located at the bottom panel of the app builder. Select the HarperDB from the Global Datasource section in the query editor.
@@ -47,7 +47,7 @@ To perform queries on HarperDB, click the `+Add` button in the query manager loc
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### SQL Mode
 
@@ -116,7 +116,7 @@ DELETE FROM sampleorg.people WHERE id = 5
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### NoSQL Mode
 

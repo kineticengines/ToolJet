@@ -10,7 +10,7 @@ For this guide, we are going to use one of the existing templates on ToolJet: **
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Create an App Using Templates
 
@@ -37,7 +37,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Get the Buckets
 
@@ -61,7 +61,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Get the Objects Inside the Bucket
 
@@ -77,7 +77,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Get the Signed URL for Downlaod
 
@@ -99,7 +99,7 @@ After setting up the parameters, click **Run** to run the query, and the URL can
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Upload Objects to the Bucket
 
@@ -123,7 +123,7 @@ Once the query has been created, choose the desired bucket, click on the **Uploa
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Access the Signed URL
 

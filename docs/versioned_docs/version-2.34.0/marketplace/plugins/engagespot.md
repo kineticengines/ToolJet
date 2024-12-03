@@ -65,8 +65,7 @@ You can create query for Engagespot data source to perform several actions such 
 
 <div>
 
-##
-# Create OR Update User
+### Create OR Update User
 
   #### Required Parameters:
   - **User Identifier** - Unique user identifier.
@@ -84,8 +83,7 @@ The user profile column accepts any key-value pairs in valid JSON object format.
 
 <div>
 
-##
-# Send Notification
+### Send Notification
 
   #### Required Parameters:
   - **Reciepient** - Unique user identifier. 
@@ -100,8 +98,7 @@ The user profile column accepts any key-value pairs in valid JSON object format.
 
 <div>
 
-##
-# Generate User Token
+### Generate User Token
 
   #### Required Parameters:
   - **User Identifier** - Unique user identifier.
@@ -119,8 +116,7 @@ To generate user tokens, ensure you provide a Signing Key when establishing a co
 
 <div>
 
-##
-# Adding the In-App Inbox element to your Tooljet app
+### Adding the In-App Inbox element to your Tooljet app
    To set up an In-App Inbox element in your ToolJet application, refer to the [Adding In-App](https://docs.engagespot.co/docs/plugins/tooljet/adding-the-inbox-component) guide.
 
 </div>

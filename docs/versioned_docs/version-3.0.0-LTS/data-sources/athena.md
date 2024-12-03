@@ -5,7 +5,7 @@ title: Athena
 
 ToolJet can connect to **Amazon Athena** which is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -31,7 +31,7 @@ You can also configure for **[additional optional parameters](https://github.com
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Amazon Athena
 
@@ -52,7 +52,7 @@ You can also configure for **[additional optional parameters](https://github.com
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Basic Queries
 

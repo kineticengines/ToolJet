@@ -46,8 +46,7 @@ Please check the detailed doc on **[Permissions](/docs/org-management/permission
 
 <div>
 
-##
-# Disabling Workspace Creation (Super Admin)
+### Disabling Workspace Creation (Super Admin)
 - Only **[Super Admins](/docs/Enterprise/superadmin#restrict-creation-of-personal-workspace-of-users)** can disable the option for creating personal workspaces for a user.
 - If the option to make personal workspaces is turned off for a user, the user won't be able to create new workspaces.
 

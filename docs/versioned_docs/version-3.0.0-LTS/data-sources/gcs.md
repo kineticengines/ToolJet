@@ -5,7 +5,7 @@ title: Google Cloud Storage
 
 ToolJet can connect to GCS buckets and perform various operation on them.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -20,7 +20,7 @@ You can follow the [google documentation](https://cloud.google.com/docs/authenti
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying GCS
 

@@ -24,8 +24,7 @@ Similarly, the **components** keyword can be used to access data in the componen
 
 <div>
 
-##
-# Writing Custom Code 
+### Writing Custom Code 
 
 You can write custom JavaScript code to set colors, enable or disable toggles and more by passing in JavaScript code inside double curly braces. To change Background Color of a button based on the light or dark theme using **fx** (next to properties in properties panel), you can use a code that returns a string value of hex code. <br/>
 

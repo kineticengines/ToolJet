@@ -5,7 +5,7 @@ title: Sort Operation
 
 This guide explains how to perform serverside sort operation on a **Table** component in ToolJet.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Add Table Component
 
@@ -27,7 +27,7 @@ Before performing the sort operation, lets setup the **Table** component and pop
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Serverside Sort
 

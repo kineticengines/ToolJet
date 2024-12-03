@@ -59,8 +59,7 @@ This operation returns all the records from the table.
 
 <div>
 
-##
-# Create row
+### Create row
 This operation creates a new record in the table. You can create a single record or multiple records at once.
 
 #### Required Parameters
@@ -70,8 +69,7 @@ This operation creates a new record in the table. You can create a single record
 
 <div>
 
-##
-# Update Row
+### Update Row
 This operation updates a record in the table. You can update a single record or multiple records at once.
 
 #### Required Parameter
@@ -82,8 +80,7 @@ This operation updates a record in the table. You can update a single record or 
 
 <div>
 
-##
-# Delete Row
+### Delete Row
 This operation deletes a record in the table. You can delete a single record or multiple records at once.
 
 #### Required Parameters

@@ -18,7 +18,7 @@ Let's look into three types of licenses:
 3. **Enterprise License**: This is a paid license with customizable options. To obtain this license, you have to contact our sales team.
 
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Updating Your Trial License Key (For Existing Users)
 
@@ -36,7 +36,7 @@ The trial license key will be valid for 14 days. To fully enjoy ToolJet, we reco
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Purchasing a Paid License
 
@@ -59,7 +59,7 @@ The business license key will be valid for 3 months only. You can renew it to co
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Updating License Key
 
@@ -87,7 +87,7 @@ As a super admin, you can conveniently view the remaining days of your enterpris
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Frequently Asked Questions (FAQs)
 

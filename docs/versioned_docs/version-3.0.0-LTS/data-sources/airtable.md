@@ -5,7 +5,7 @@ title: Airtable
 
 ToolJet can connect to your **Airtable** account to read and write data.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -27,7 +27,7 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 :::
 
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Airtable
 
@@ -40,7 +40,7 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported Operations
 

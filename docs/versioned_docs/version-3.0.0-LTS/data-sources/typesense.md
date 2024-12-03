@@ -5,7 +5,7 @@ title: TypeSense
 
 ToolJet can connect to your TypeSense deployment to read and write data.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection 
 
@@ -25,7 +25,7 @@ ToolJet requires the following to connect to TypeSense deployment:
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying TypeSense 
 
@@ -40,7 +40,7 @@ Query results can be transformed using transformations. Read our transformations
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported Operations
 

@@ -7,7 +7,7 @@ For the purpose of this guide, it's presumed that you've already established a s
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 1. Create a Query to Get the Data
 
@@ -25,7 +25,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 2. Display the Data on the Table
 
@@ -42,7 +42,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 3. Make the Columns Editable
 
@@ -55,7 +55,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 4. Enable Multiple Row Selection
 
@@ -67,7 +67,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 5. Create a Custom JS query
 
@@ -100,7 +100,7 @@ Here the unique identifier is **id** and Table component's name is **table1**. Y
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 6. Create an Update Query
 
@@ -118,7 +118,7 @@ Here the unique identifier is **id** and Table component's name is **table1**. Y
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## 7. Adding Event Handlers to Execute Queries in Sequence
 

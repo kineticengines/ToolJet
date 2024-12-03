@@ -17,8 +17,7 @@ Versioning is really useful if multiple developers are working on an app, it all
 
 <div>
 
-##
-# Creating a Version
+### Creating a Version
 
 You can create new versions from **App Version Manager** on the top-right corner. It displays the version of the app that you're currently working and can be used to switch between the different version of the app. To create a new version:
 
@@ -40,8 +39,7 @@ You can create new versions from **App Version Manager** on the top-right corner
 
 <div>
 
-##
-# Renaming a Version
+### Renaming a Version
 
 If you want to change the name of an app version, navigate to the **version manager** and select the version you wish to rename. From there, you can click on the rename button located beside the version name. This will open a modal where you can modify the version name to your desired choice.
 
@@ -55,8 +53,7 @@ If you want to change the name of an app version, navigate to the **version mana
 
 <div>
 
-##
-# Deleting a Version
+### Deleting a Version
 
 If you want to remove an app version, go to the **version manager** and locate the version you wish to delete from the dropdown menu. Next to the version, you will find a delete icon. Click on it to initiate the deletion process.
 

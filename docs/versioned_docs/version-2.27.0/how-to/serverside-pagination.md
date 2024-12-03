@@ -10,8 +10,7 @@ In this guide we will learn how to use server side pagination in table component
 
 <div>
 
-##
-# Loading data from PostgreSQL in chunks
+### Loading data from PostgreSQL in chunks
 
 - Let's say you have a table `users` in your PostgreSQL database and you want to load data from this table in chunks. You can use `limit` and `offset` to fetch data in chunks. Here is the SQL query to fetch data in chunks:
   ```sql title="PostgreSQL query"

@@ -8,7 +8,7 @@ Custom parameters in your queries offer a flexible way to introduce variables wi
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Adding Custom Parameters
 
@@ -25,7 +25,7 @@ Custom parameters in your queries offer a flexible way to introduce variables wi
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Syntax for Utilizing Parameters
 
@@ -37,7 +37,7 @@ Use `parameters.<identifier>` in your query to employ custom parameters. Note th
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Example: Create Row in ToolJetDB with Custom Parameters
 
@@ -70,7 +70,7 @@ Let's assume we have a ToolJetDB table with the following columns: `name`, `emai
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Example: Providing Custom Parameters Using Events
 

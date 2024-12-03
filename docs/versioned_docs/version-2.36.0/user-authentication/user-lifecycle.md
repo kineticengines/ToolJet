@@ -11,8 +11,7 @@ Check Workspace docs [here](/docs/tutorial/workspace_overview).
 
 <div>
 
-##
-# User Onboarding
+### User Onboarding
 
   - User can sign up using the sign up link provided on the login page, user will receive a welcome email with activation link. New workspace will be created for the user.
 
@@ -58,8 +57,7 @@ Check Workspace docs [here](/docs/tutorial/workspace_overview).
 
 <div>
 
-##
-# Archive User
+### Archive User
   - User can be archived by workspace admin from using `Manage User` page
 
     <div style={{textAlign: 'center'}}>
@@ -72,8 +70,7 @@ Check Workspace docs [here](/docs/tutorial/workspace_overview).
 
 <div>
 
-##
-# Unarchive User
+### Unarchive User
   - User can be unarchive by workspace admin from using `Manage User` page
 
     <div style={{textAlign: 'center'}}>
@@ -90,8 +87,7 @@ Check Workspace docs [here](/docs/tutorial/workspace_overview).
 
 <div>
 
-##
-# Switch Between Workspaces
+### Switch Between Workspaces
 
   <div style={{textAlign: 'center'}}>
 

@@ -6,7 +6,7 @@ title: Dropdown
 
 The **Dropdown** component can be used to collect user input from a list of options.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Properties
 
@@ -35,7 +35,7 @@ Each object in the array should include the following key-value pairs:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Events
 
@@ -46,7 +46,7 @@ Each object in the array should include the following key-value pairs:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -56,7 +56,7 @@ Each object in the array should include the following key-value pairs:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -70,7 +70,7 @@ Each object in the array should include the following key-value pairs:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Validation
 
@@ -80,7 +80,7 @@ Add a validation for the options in Dropdown widget using the ternary operator.
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## General
 ### Tooltip
@@ -91,7 +91,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Layout
 
@@ -102,7 +102,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Styles
 

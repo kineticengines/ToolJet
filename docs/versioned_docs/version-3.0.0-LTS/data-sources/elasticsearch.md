@@ -30,7 +30,7 @@ ToolJet also supports SSL certificate-based connections:
     <img className="screenshot-full" src="/img/datasource-reference/elasticsearch/ssl-v2.png" alt="Elastic SSL Connect" />
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Elasticsearch
 
@@ -43,7 +43,7 @@ Query results can be transformed using transformations. Refer to our transformat
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported Operations
 

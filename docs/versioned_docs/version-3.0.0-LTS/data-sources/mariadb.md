@@ -5,7 +5,7 @@ title: MariaDB
 
 ToolJet can connect to both self-hosted and cloud-based MariaDB servers to read and write data.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -29,7 +29,7 @@ To establish a connection with the MariaDB global datasource, you can either cli
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying MariaDB
 
@@ -52,7 +52,7 @@ Query results can be transformed using Transformation. For more information on t
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## CRUD Queries
 
@@ -179,7 +179,7 @@ Remember to adjust the values and conditions based on your specific needs. These
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Troubleshooting Tips
 If you are having trouble connecting a MariaDB data source to ToolJet, try the following:

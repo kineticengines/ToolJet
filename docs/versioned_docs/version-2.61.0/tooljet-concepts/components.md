@@ -13,8 +13,7 @@ These components range from basic UI elements like buttons, text fields, and tab
 
 <div>
 
-##
-# Customizing Components
+### Customizing Components
 
 Components are highly customizable and interactive. Once you place a component on the canvas, you can easily modify its properties, styles, and behaviors through the properties panel on the right side of the App-Builder. This allows you to make your application dynamic and responsive. 
 
@@ -26,8 +25,7 @@ Components are highly customizable and interactive. Once you place a component o
 
 <div>
 
-##
-# Using Components With Data
+### Using Components With Data
 
 In ToolJet, components can be easily connected to various data sources like databases, APIs, and third-party services through **[queries](what-are-queries)**. Once the data is fetched, you can bind it to components like tables, charts, and more. 
 

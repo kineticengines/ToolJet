@@ -5,7 +5,7 @@ title: Filter Operation
 
 This guide explains how to perform serverside filter operation on a **Table** component in ToolJet.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Add Table Component
 

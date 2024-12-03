@@ -7,7 +7,7 @@ title: Timer
 
 The **Timer** component allows users to track time by counting both upward and downward. It's useful for tasks like setting countdowns, tracking elapsed time, or timing events.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Properties
 
@@ -18,7 +18,7 @@ The **Timer** component allows users to track time by counting both upward and d
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Events
 
@@ -36,7 +36,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -44,7 +44,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -54,7 +54,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 
@@ -66,7 +66,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -79,7 +79,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 <hr/>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Styles
 

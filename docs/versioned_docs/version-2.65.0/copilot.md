@@ -43,8 +43,7 @@ Copilot's functionality relies on the provision of clear and concise plain Engli
 
 <div>
 
-##
-# Token Limit per Workspace
+### Token Limit per Workspace
 
 A token is a unit of text that language models like ChatGPT process, such as a word or a character. To ensure fair usage and resource allocation among workspaces, a token limit is implemented. Currently, the token limit is set to **400**. If the token limit is surpassed, the request is declined with the message **"Unable to process request. Max tokens exceeded."**
 
@@ -52,8 +51,7 @@ A token is a unit of text that language models like ChatGPT process, such as a w
 
 <div>
 
-##
-# Rate-Limiting
+### Rate-Limiting
 
 To prevent abuse or excessive usage of the Copilot API, rate-limiting measures are in place. The following rules apply:
 
@@ -69,8 +67,7 @@ When generating an API key, if a workspace has 5 editors, the daily request limi
 
 <div>
 
-##
-# Example: Generating a SQL statement 
+### Example: Generating a SQL statement 
 
 This example demonstrates the usage of copilot by generating a SQL query to fetch the order details from a PostgreSQL database based on the key provided in the REST API data.
 

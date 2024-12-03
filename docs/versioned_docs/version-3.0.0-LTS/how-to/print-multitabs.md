@@ -9,7 +9,7 @@ In this guide, we will implement printing data from multiple tabs in ToolJet. Th
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## UI of the App
 
@@ -27,7 +27,7 @@ In the example below, we have the **Tabs** component and each tab has a set of f
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Load Data from Database
 
@@ -44,7 +44,7 @@ Once the data is successfully loaded on the tabs and the app is working as expec
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Printing Data from Multiple Tabs
 
@@ -65,11 +65,11 @@ Before we start creating the JavaScript queries, we need to add a few events to 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Creating Queries
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### viewTabs Query
 
@@ -128,7 +128,7 @@ Now that we have created the *viewTabs* query, we can go to the **[Download PDF]
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### getTabsHTML Query
 
@@ -166,7 +166,7 @@ Now that we have created the *getTabsHTML* query, we can go to the *viewTabs* qu
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### printPDF Query
 

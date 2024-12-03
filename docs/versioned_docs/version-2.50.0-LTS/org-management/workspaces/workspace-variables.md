@@ -38,8 +38,7 @@ Suppose there is an `API key` or a value that you want to use in the queries or 
 
 <div>
 
-##
-# Types of variables
+### Types of variables
 
 - **Client**: The client variable can be utilized in components, queries, and global datasources.
 
@@ -59,8 +58,7 @@ Variable Type cannot be changed once it has been created.
 
 <div>
 
-##
-# Encryption
+### Encryption
 
 This feature enables us to add a client variable with and without `encryption`. The server variables are always encrypted by default.
 
@@ -68,8 +66,7 @@ This feature enables us to add a client variable with and without `encryption`. 
 
 <div>
 
-##
-# Using Variable in an App
+### Using Variable in an App
 
 Let's use the variable that we created [here](/docs/org-management/workspaces/workspace-variables#adding-the-environment-variable). If you have used ToolJet before, then you know that for getting the values from any variable we use JS notation i.e. `{{}}` but for using the Workspace variables we have different opening and closing notation `%% %%`. The environment variables will not work inside js code `{{}}`.
 

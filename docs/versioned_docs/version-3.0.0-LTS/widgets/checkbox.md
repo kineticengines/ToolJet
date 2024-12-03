@@ -6,7 +6,7 @@ title: Checkbox
 
 The **Checkbox** component allows users to make a binary choice, such as selecting or deselecting an option.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Properties
 
@@ -19,7 +19,7 @@ The **Checkbox** component allows users to make a binary choice, such as selecti
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Events
 
@@ -35,7 +35,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -53,7 +53,7 @@ Following actions of Checkbox component can be controlled using the component sp
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -69,7 +69,7 @@ Following actions of Checkbox component can be controlled using the component sp
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Validation
 

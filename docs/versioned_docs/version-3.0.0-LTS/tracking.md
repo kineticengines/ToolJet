@@ -10,7 +10,7 @@ slug: /tracking
 ToolJet does not store any data fetched from the data sources. ToolJet acts as a proxy and the data from data sources is sent to the client application without storing.
 :::
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Server
 
@@ -20,7 +20,7 @@ Self-hosted version of ToolJet pings our server to fetch the latest product upda
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Client 
 

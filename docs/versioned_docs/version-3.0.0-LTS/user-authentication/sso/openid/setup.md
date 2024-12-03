@@ -31,7 +31,7 @@ title: OpenID Setup
 
 - Find and set **Name**, **Client Id**, **Client Secret**, and **Well Known URL** from your Open Id provider.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Exposed ssoUserInfo
 

@@ -5,7 +5,7 @@ title: SMTP
 
 The SMTP datasource facilitates the connection between ToolJet applications and email servers, enabling the apps to send emails.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -45,7 +45,7 @@ The SMTP configuration details like host and port can usually be obtained from y
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying SMTP
 

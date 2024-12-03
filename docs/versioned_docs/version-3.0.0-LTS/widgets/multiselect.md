@@ -6,7 +6,7 @@ title: Multiselect
 
 The **Multiselect** widget can be used to collect multiple user inputs from a list of options.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Properties
 
@@ -19,7 +19,7 @@ The **Multiselect** widget can be used to collect multiple user inputs from a li
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Events
 
@@ -34,7 +34,7 @@ For comprehensive information on all available **Actions**, refer to the [Action
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 `await components.multiselect1.clearSelections()` <br/>
@@ -50,7 +50,7 @@ Following actions of Multiselect component can be controlled using the component
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -61,7 +61,7 @@ Following actions of Multiselect component can be controlled using the component
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## General
 ### Tooltip
@@ -72,7 +72,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Layout
 
@@ -83,7 +83,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Styles
 
@@ -95,7 +95,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Actions
 

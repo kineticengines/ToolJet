@@ -8,7 +8,7 @@ In this step-by-step guide, we'll walk you through the process of creating a Run
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Creating the Error-Throwing RunJS Query
 
@@ -21,7 +21,7 @@ In this step-by-step guide, we'll walk you through the process of creating a Run
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Adding an Event Handler for Failure
 

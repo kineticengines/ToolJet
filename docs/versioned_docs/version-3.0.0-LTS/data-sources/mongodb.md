@@ -5,7 +5,7 @@ title: MongoDB
 
 ToolJet can connect to MongoDB to read and write data.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Manual Connection
 
@@ -28,7 +28,7 @@ ToolJet requires the following to connect to your MongoDB.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connect Using Connecting String
 
@@ -49,7 +49,7 @@ For example: `mongodb+srv://tooljettest:dummypassword@cluster0.urul7.mongodb.net
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying MongoDB
 
@@ -63,7 +63,7 @@ For example: `mongodb+srv://tooljettest:dummypassword@cluster0.urul7.mongodb.net
 Query results can be transformed using transformations. Read our transformations documentation to see how: [link](/docs/tutorial/transformations)
 :::
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported Operations
 
@@ -500,7 +500,7 @@ Perform bulk operations. [Reference](https://docs.mongodb.com/drivers/node/v4.0/
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Dynamic Queries
 

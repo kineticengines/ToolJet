@@ -14,7 +14,7 @@ The audit log is the report of all the activities done in your ToolJet account. 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Date Range
 
@@ -32,7 +32,7 @@ Pagination at the bottom allows navigation through the pages, with each page dis
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Filter Audit Logs
 
@@ -79,7 +79,7 @@ The dropdown will display all the apps associated with your account. Select an a
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Understanding Log Information
 
@@ -104,7 +104,7 @@ The dropdown will display all the apps associated with your account. Select an a
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Log File
 

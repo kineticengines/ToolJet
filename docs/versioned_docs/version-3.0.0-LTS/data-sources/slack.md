@@ -5,7 +5,7 @@ title: Slack
 
 ToolJet can connect to your Slack workspace to send messages. 
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -25,7 +25,7 @@ The App (which credentials are provided) needs to be installed in the workspace 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Slack
 
@@ -38,7 +38,7 @@ The App (which credentials are provided) needs to be installed in the workspace 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Supported Operations
 

@@ -8,7 +8,7 @@ This guide shows how to change the text color and background color of certain ce
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Create a New Application and Set up the Data Source
 - Create a new app and add a **[Table](/docs/widgets/table)** component to the canvas.
@@ -22,7 +22,7 @@ https://fakestoreapi.com/products
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Display Data on the Table
 
@@ -37,7 +37,7 @@ https://fakestoreapi.com/products
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Change Text Color Based on Cell Value
 
@@ -58,7 +58,7 @@ Now, if the cell value is `electronics`, the text color will be red; otherwise, 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Change Text Color Using Row Data
 

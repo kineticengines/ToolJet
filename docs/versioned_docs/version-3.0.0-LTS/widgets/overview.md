@@ -7,7 +7,7 @@ title: Overview
 
 Components are used to build the user interface(UI) of the applications. They can be dragged onto the canvas from the **Component Library** and can be modified from the **Properties Panel** without needing to write any code. **[Event Handlers](/docs/widgets/overview#component-event-handlers)** in Components allow end users to trigger queries and other application events to perform the **[Actions](/docs/category/actions-reference)**.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Adding Components
 
@@ -21,7 +21,7 @@ Components can be dragged and dropped from the **Component Library**(from the ri
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Select Multiple Components
 
@@ -47,7 +47,7 @@ You can also use many other **[Keyboard Shortcuts](/docs/tutorial/keyboard-short
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Properties
 
@@ -55,7 +55,7 @@ Components can be customized and styled using the **Properties Panel** such as t
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Component Event Handlers
 
@@ -77,7 +77,7 @@ Event handlers for components have the following properties:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Using Run only if
 
@@ -112,7 +112,7 @@ or
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Bindings
 

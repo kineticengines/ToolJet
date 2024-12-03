@@ -9,7 +9,7 @@ title: gRPC
 Only self-hosted deployments will have access to a gRPC datasource that is capable of handling unary requests and responses.
 :::
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Setup
 
@@ -42,7 +42,7 @@ docker-compose up -d
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying gRPC
 

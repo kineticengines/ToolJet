@@ -5,7 +5,7 @@ title: AWS Lambda
 
 ToolJet can connect to AWS Lambda to run serverless functions.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Connection
 
@@ -21,7 +21,7 @@ To connect to AWS Lambda plugin, you need to provide the following details:
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Supported Queries
 

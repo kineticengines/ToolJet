@@ -244,8 +244,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 <div>
 
-##
-# Datepicker
+### Datepicker
 
 Properties that can be used in Datepicker schema are:
 
@@ -282,8 +281,7 @@ datepicker1: {
 
 <div>
 
-##
-# Number Input
+### Number Input
 
 **Properties**
 
@@ -326,8 +324,7 @@ numberInput1: {
 
 <div>
 
-##
-# Password
+### Password
 
 **Properties**
 
@@ -369,8 +366,7 @@ passwordInput1: {
 
 <div>
 
-##
-# Checkbox
+### Checkbox
 
 **Properties**
 
@@ -403,8 +399,7 @@ checkbox1: {
 
 <div>
 
-##
-# Toggle
+### Toggle
 
 **Properties**
 
@@ -437,8 +432,7 @@ toggleswitch1: {
 
 <div>
 
-##
-# Text Area
+### Text Area
 
 **Properties**
 
@@ -471,8 +465,7 @@ textArea1: {
 
 <div>
 
-##
-# Date Range Picker
+### Date Range Picker
 
 **Properties**
 
@@ -507,8 +500,7 @@ daterangepicker1: {
 
 <div>
 
-##
-# Multiselect
+### Multiselect
 
 **Properties**
 
@@ -545,8 +537,7 @@ multiselect1: {
 
 <div>
 
-##
-# Star Rating
+### Star Rating
 
 **Properties**
 
@@ -585,8 +576,7 @@ starRating1: {
 
 <div>
 
-##
-# File Picker
+### File Picker
 
 **Properties**
 
@@ -629,8 +619,7 @@ filepicker1: {
 
 <div>
 
-##
-# Text Input
+### Text Input
 
 **Properties**
 
@@ -674,8 +663,7 @@ textinput1: {
 
 <div>
 
-##
-# Dropdown
+### Dropdown
 
 **Properties**
 
@@ -714,8 +702,7 @@ dropdown1: {
 
 <div>
 
-##
-# Button
+### Button
 
 **Properties**
 
@@ -754,8 +741,7 @@ button1: {
 
 <div>
 
-##
-# Text
+### Text
 
 **Properties**
 
@@ -788,8 +774,7 @@ text1: {
 
 <div>
 
-##
-# Radio
+### Radio
 
 **Properties**
 

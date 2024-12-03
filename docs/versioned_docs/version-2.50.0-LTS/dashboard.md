@@ -29,8 +29,7 @@ The workspace manager is located on the bottom left corner of the dashboard. Cli
 
 <div>
 
-##
-# Add New Workspace
+### Add New Workspace
 
 On clicking the `Add new workspace` button, a modal will open where you can enter the name of the workspace, enter the unique workspace slug, and can see the preview of the workspace URL. Click on the `+ Create Workspace` button to create a new workspace.
 
@@ -54,8 +53,7 @@ Previously, the workspace slug was an automatically generated workspace ID, like
 
 <div>
 
-##
-# Edit Workspace
+### Edit Workspace
 
 Similar to the `Add new workspace` button, clicking on the `Edit workspace` button will open a modal where you can edit the name of the workspace and the workspace slug. Click on the `Save` button to update the changes.
 
@@ -83,8 +81,7 @@ There are three dots on the right side of the `Create new app` button. Clicking 
 
 <div>
 
-##
-# Choose from Templates
+### Choose from Templates
 
 This option will open a modal with a list of pre-built templates. You can choose any template from this list to create a new app.
 
@@ -98,8 +95,7 @@ This option will open a modal with a list of pre-built templates. You can choose
 
 <div>
 
-##
-# Import
+### Import
 
 This option will open a file picker to import a JSON file. This JSON file should contain the app data exported from ToolJet.
 
@@ -113,8 +109,7 @@ This option will open a file picker to import a JSON file. This JSON file should
 
 <div>
 
-##
-# Importing an App Connected to Marketplace Plugins
+### Importing an App Connected to Marketplace Plugins
 
 When importing an app with Marketplace plugins, the Marketplace plugin should be installed in the ToolJet workspace where the app is being imported. If the Marketplace plugin is not installed, the app will be imported without the queries for that plugin.
 
@@ -130,8 +125,7 @@ If you have an app with a query linked to a Marketplace plugin, and you import t
 
 <div>
 
-##
-# Importing App Connected to ToolJet Table
+### Importing App Connected to ToolJet Table
 
 When the app(JSON file) that includes the table schema is imported, and the table is not present in the ToolJet database of the workspace where the app is being imported, a new table will be created in the ToolJet database with the same name as the table in the imported app.
 
@@ -145,8 +139,7 @@ If the table with the same name is already present in the workspace, the new tab
 
 <div>
 
-##
-# Create a new folder
+### Create a new folder
 
 Folders can be created to organize your apps. To create a new folder, click on the `+` button on the left drawer of the dashboard. Clicking on this button will open a modal, enter the name of the folder and click on the `Create Folder` button to create a new folder.
 
@@ -154,8 +147,7 @@ Folders can be created to organize your apps. To create a new folder, click on t
 
 <div>
 
-##
-# Delete or Edit Folder
+### Delete or Edit Folder
 
 A folder can be **deleted** or **renamed**. To delete or rename a folder, click on the kebab menu on the right side of the folder name. Clicking on kebab menu will open a dropdown menu with two options:
 
@@ -172,8 +164,7 @@ A folder can be **deleted** or **renamed**. To delete or rename a folder, click 
 
 <div>
 
-##
-# Search Folders
+### Search Folders
 
 Folders can be searched by clicking on the search icon on the left drawer of the dashboard. Clicking on the search icon will open a search bar, enter the name of the folder to search.
 
@@ -187,8 +178,7 @@ Folders can be searched by clicking on the search icon on the left drawer of the
 
 <div>
 
-##
-# Slug for Folders
+### Slug for Folders
 
 The folder's URL slug is generated automatically from its name, providing direct access to the folder using the slug.
 
@@ -243,8 +233,7 @@ The app menu is located on the top right corner of the app card. Clicking on the
 
 <div>
 
-##
-# Rename App
+### Rename App
 
 This option will open a modal that will allow you to rename your app.
 
@@ -258,8 +247,7 @@ This option will open a modal that will allow you to rename your app.
 
 <div>
 
-##
-# Change Icon
+### Change Icon
 
 This option will open a modal with a list of icons. You can choose any icon from this list to change the app icon.
 
@@ -273,8 +261,7 @@ This option will open a modal with a list of icons. You can choose any icon from
 
 <div>
 
-##
-# Add to Folder
+### Add to Folder
 
 This option will open a modal with a list of folders. You can choose any folder from this list to add the app to the folder.
 
@@ -288,8 +275,7 @@ This option will open a modal with a list of folders. You can choose any folder 
 
 <div>
 
-##
-# Clone App
+### Clone App
 
 Selecting this option will open a modal where you can enter the desired name for the cloned app. After providing the desired name, click on the Clone app button. This will immediately open the cloned app in the app builder with the same configuration as the original app.
 
@@ -303,8 +289,7 @@ Selecting this option will open a modal where you can enter the desired name for
 
 <div>
 
-##
-# Export App
+### Export App
 
 This option downloads a JSON file containing the application data. This JSON file can be [imported](#import) to ToolJet to create a new app. The exported app will include all the queries connected to global data sources including the data source created from Marketplace plugins.
 
@@ -326,8 +311,7 @@ This JSON file can be used to [import](#importing-app-connected-to-tooljet-table
 
 <div>
 
-##
-# Delete App
+### Delete App
 
 This option will open a confirmation modal to delete the app. Click on the `Delete` button to delete the app.
 

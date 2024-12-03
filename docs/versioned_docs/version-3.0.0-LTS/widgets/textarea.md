@@ -7,7 +7,7 @@ title: Textarea
 
 The **Textarea** component allows users to enter text in an input field similar to the [Text Input](/docs/widgets/text-input) component. Textarea is generally preferred when we are expecting an input of multiple sentences. In this document, we'll go through all the configuration options for the **Textarea** component.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Properties
 
@@ -18,7 +18,7 @@ The **Textarea** component allows users to enter text in an input field similar 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -31,7 +31,7 @@ Following actions of the **Textarea** component can be controlled using Componen
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -41,7 +41,7 @@ Following actions of the **Textarea** component can be controlled using Componen
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 
@@ -53,7 +53,7 @@ In the input field under **Tooltip**, you can enter some text and the component 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -64,7 +64,7 @@ In the input field under **Tooltip**, you can enter some text and the component 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ---
 
@@ -78,7 +78,7 @@ In the input field under **Tooltip**, you can enter some text and the component 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 

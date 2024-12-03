@@ -16,7 +16,7 @@ Certain components are restricted from being placed within the **Popout** of the
 - Calendar, Kanban.
 :::
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Properties
 
@@ -27,7 +27,7 @@ Certain components are restricted from being placed within the **Popout** of the
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Events
 `Events` property should contain an array of objects, each of which describes the events that the calendar needs to display.
@@ -48,7 +48,7 @@ Assuming that you set the date format to `MM-DD-YYYY HH:mm:ss A Z`, setting the 
 ```
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Event Object Properties
 
@@ -69,7 +69,7 @@ exposes any of the events via its exposed variables.
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Resources
 
@@ -95,7 +95,7 @@ If we specify the `resourceId` of any of the events as `1`, then that event will
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Default View
 
@@ -105,7 +105,7 @@ The view that is currently selected will be exposed as the variable `currentView
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Start Time on Week and Day View
 
@@ -113,7 +113,7 @@ This determines the time at which week view and day view cells begins. Keep in m
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### End Time on Week and Day View
 
@@ -121,7 +121,7 @@ This determines the time at which week view and day view cells ends. Keep in min
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Show Toolbar
 
@@ -129,7 +129,7 @@ Determines whether the calendar toolbar should be displayed or not. Click on `Fx
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Show View Switcher
 
@@ -137,7 +137,7 @@ Determines whether the calendar's buttons that allow user to switch between `mon
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Highlight Today
 
@@ -145,7 +145,7 @@ Determines whether the today's card on the calendar should be highlighted or not
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Show Popover When the Event is Clicked
 
@@ -153,7 +153,7 @@ Determines whether to display a popover whenever an event is clicked. Click on `
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Events
 
@@ -170,7 +170,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -178,7 +178,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -191,7 +191,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## General
 #### Tooltip
@@ -200,7 +200,7 @@ A Tooltip is often used to specify extra information about something when the us
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Layout
 
@@ -211,7 +211,7 @@ A Tooltip is often used to specify extra information about something when the us
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Styles
 

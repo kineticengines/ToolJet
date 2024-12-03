@@ -69,8 +69,7 @@ Query results can be transformed using Transformations. Read our **Transformatio
 
 <div>
 
-##
-# List Documents
+### List Documents
 
 This operation is used to get a list of all the user documents.
 
@@ -95,8 +94,7 @@ This operation is used to get a list of all the user documents.
 
 <div>
 
-##
-# Get Document
+### Get Document
 
 Use this operation to get a document from a collection by its unique ID. 
 
@@ -116,8 +114,7 @@ Use this operation to get a document from a collection by its unique ID.
 
 <div>
 
-##
-# Add Document to Collection
+### Add Document to Collection
 
 Use this operation to create a new document in a collection.
 
@@ -137,8 +134,7 @@ Use this operation to create a new document in a collection.
 
 <div>
 
-##
-# Update Document
+### Update Document
 
 Use this operation to update a document.
 
@@ -160,8 +156,7 @@ Use this operation to update a document.
 
 <div>
 
-##
-# Bulk update using document id
+### Bulk update using document id
 
 Use this operation for bulk updating a document in a collection.
 
@@ -184,8 +179,7 @@ and these objects must contain a key-value pair to point unique record in the da
 
 <div>
 
-##
-# Delete Document
+### Delete Document
 
 Use this operation for deleting a document in the collection.
 

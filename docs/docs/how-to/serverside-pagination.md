@@ -11,8 +11,7 @@ In this guide, we will implement server-side pagination for large datasets in a 
 
 <div>
 
-##
-# Loading Data from PostgreSQL in Chunks
+### Loading Data from PostgreSQL in Chunks
 
 To fetch data in chunks from a PostgreSQL table `users`, use `limit` and `offset` in the SQL query:
 
@@ -45,8 +44,7 @@ FROM users;
 
 <div>
 
-##
-# Edit the Table Component
+### Edit the Table Component
 
 **Follow the steps below to edit the properties of the Table component:**
 

@@ -7,8 +7,7 @@ ToolJet allows you to execute various [actions](/docs/actions/show-alert) within
 
 <div>
 
-##
-# Run Query 
+### Run Query 
 
 To trigger a query, you can use the below functions:
 
@@ -34,8 +33,7 @@ In the screenshot below, we are triggering two different queries using two diffe
 
 <div>
 
-##
-# Get Query Data
+### Get Query Data
 
 In the previous section, we saw how we can trigger queries. Once the queries are triggered, if you want to immediately use the data returned by the query inside the RunJS query, you can use the `getData()`, `getRawData()` and `getLoadingState()` functions:
 
@@ -73,8 +71,7 @@ let value = queries.getTodos.getLoadingState();
 
 <div>
 
-##
-# Set Variables
+### Set Variables
 
 To create a variable, you can use the below function:
 
@@ -86,8 +83,7 @@ actions.setVariable('<variableName>', `<variableValue>`)
 
 <div>
 
-##
-# Unset Variable
+### Unset Variable
 
 To delete a created variable, you can use the below function:
 
@@ -101,8 +97,7 @@ actions.unSetVariable('<variableName>')
 
 <div>
 
-##
-# Get Variables
+### Get Variables
 
 To access variables immediately after setting them in a RunJS query, you can use the `getVariable` and `getPageVariable` functions:
 
@@ -127,8 +122,7 @@ return actions.getPageVariable('number');
 
 <div>
 
-##
-# Logout
+### Logout
 
 To log out the current logged-in user from the ToolJet, use the below function:
 
@@ -140,8 +134,7 @@ actions.logout();
 
 <div>
 
-##
-# Show Modal
+### Show Modal
 
 To open a modal using RunJS query, use the below function:
 
@@ -153,8 +146,7 @@ actions.showModal('<modalName>')
 
 <div>
 
-##
-# Close Modal
+### Close Modal
 
 To close a modal using RunJS query, use the below function:
 
@@ -166,8 +158,7 @@ actions.closeModal('<modalName>')
 
 <div>
 
-##
-# Set Local Storage 
+### Set Local Storage 
 
 Set a value in local storage using the below code:
 
@@ -181,8 +172,7 @@ actions.setLocalStorage('key', 'value');
 
 <div>
 
-##
-# Copy to Clipboard
+### Copy to Clipboard
 
 Use the below code to copy content to the clipboard:
 
@@ -194,8 +184,7 @@ actions.copyToClipboard('<contentToCopy>')
 
 <div>
 
-##
-# Generate File
+### Generate File
 
 The below action can be used to generate a file.
 
@@ -227,8 +216,7 @@ actions.generateFile('Pdffile1', 'pdf', '{{components.table1.currentPageData}}')
 
 <div>
 
-##
-# Go to App
+### Go to App
 
 You can switch to a different application using the below action:
 
@@ -243,8 +231,7 @@ actions.goToApp('slug',queryparams)
 
 <div>
 
-##
-# Show Alert
+### Show Alert
 
 To show an alert using RunJS query, use the below code:
 
@@ -263,8 +250,7 @@ actions.showAlert('error' , 'This is an error' )
 
 <div>
 
-##
-# Run Multiple Actions From RunJS Query
+### Run Multiple Actions From RunJS Query
 
 To run multiple actions from a RunJS query, you'll have to use **async-await** in the function.
 

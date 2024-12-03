@@ -23,8 +23,7 @@ Components can be dragged and dropped from the **Component Library**(from the ri
 
 <div>
 
-##
-# Select Multiple Components
+### Select Multiple Components
 
 You can use **Shift+Click** to select and group multiple components together. Once grouped, the components can be moved around the canvas while maintaining their relative positions.
 
@@ -80,8 +79,7 @@ Event handlers for components have the following properties:
 
 <div>
 
-##
-# Using Run only if
+### Using Run only if
 
 With this option in Event Handlers, users can specify a condition that must be met before the event handler's action is executed. This allows for more fine-grained control over when certain actions should be triggered in response to component events.
 

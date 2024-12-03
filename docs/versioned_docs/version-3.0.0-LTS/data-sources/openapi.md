@@ -5,7 +5,7 @@ title: OpenAPI
 
 OpenAPI is a specification for designing and documenting RESTful APIs. Using OpenAPI datasource, ToolJet can generate REST API operations from OpenAPI Specs.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connection
 
@@ -21,7 +21,7 @@ OpenAPI datasource accepts specifications only in **JSON** and **YAML** formats.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying OpenAPI
 

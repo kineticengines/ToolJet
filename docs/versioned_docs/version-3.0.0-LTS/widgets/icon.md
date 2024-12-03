@@ -5,7 +5,7 @@ title: Icon
 
 An **Icon** component can be used to add icons(sourced from icon library). It supports events like on hover and on click.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Properties
 
@@ -15,7 +15,7 @@ An **Icon** component can be used to add icons(sourced from icon library). It su
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Events
 
@@ -32,7 +32,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -45,7 +45,7 @@ Following actions of the component can be controlled using the component specifi
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -53,7 +53,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 
@@ -61,7 +61,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -72,7 +72,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ---
 

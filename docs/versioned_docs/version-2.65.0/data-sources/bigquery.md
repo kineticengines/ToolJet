@@ -85,8 +85,7 @@ Query results can be transformed using transformations. Read our transformations
 
 <div>
 
-##
-# Query
+### Query
 
 This operation returns the data based on the `Query`. 
 
@@ -108,8 +107,7 @@ This operation returns the data based on the `Query`.
 
 <div>
 
-##
-# List Datasets
+### List Datasets
 
 This operation returns the list of datasets.
 
@@ -123,8 +121,7 @@ This operation returns the list of datasets.
 
 <div>
 
-##
-# List Tables
+### List Tables
 
 This operation returns the list of tables within a dataset.
 
@@ -142,8 +139,7 @@ This operation returns the list of tables within a dataset.
 
 <div>
 
-##
-# Create Table
+### Create Table
 
 This operation is used to create a table.
 
@@ -167,8 +163,7 @@ NOTE: visit -https://github.com/googleapis/nodejs-bigquery/blob/main/samples/cre
 
 <div>
 
-##
-# Delete Table
+### Delete Table
 
 This operation is used to delete a table.
 
@@ -187,8 +182,7 @@ This operation is used to delete a table.
 
 <div>
 
-##
-# Create View
+### Create View
 
 This operation is used to create a view.
 
@@ -212,8 +206,7 @@ This operation is used to create a view.
 
 <div>
 
-##
-# Insert Record
+### Insert Record
 
 This operation is used to insert a record.
 
@@ -233,8 +226,7 @@ This operation is used to insert a record.
 
 <div>
 
-##
-# Delete Record 
+### Delete Record 
 Use this operation to delete a record.
 
 #### Required parameters: 
@@ -261,8 +253,7 @@ NOTE: Be careful when deleting records in a table. If you omit the WHERE clause,
 
 <div>
 
-##
-# Update Record
+### Update Record
 Use this operation to update a record.
 
 #### Required parameters: 

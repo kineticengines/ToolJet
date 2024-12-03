@@ -9,7 +9,7 @@ Open the Search bar by clicking on the **Search** button and search for a table 
 
 <img className="screenshot-full" src="/img/v2-beta/database/ux2/search-v2.png" alt="ToolJet database" />
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Rename Table
 
@@ -19,7 +19,7 @@ To rename a table, click on the kebab menu icon on the right of the table name a
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Add New Column
 
@@ -36,7 +36,7 @@ A drawer from the right will open up where you can enter the details for the new
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Export Schema
 
@@ -48,7 +48,7 @@ To export the table schema, click on the three vertical dots icon on the right o
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Delete Table
 
@@ -58,7 +58,7 @@ To delete a table, click on the three vertical dots icon on the right of the tab
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Edit Column
 
@@ -68,7 +68,7 @@ To edit a column, click on the kebab menu on the column name and select the opti
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Delete Column
 

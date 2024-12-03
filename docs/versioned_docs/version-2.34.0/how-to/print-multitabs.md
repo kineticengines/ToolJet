@@ -71,8 +71,7 @@ Before we start creating the JavaScript queries, we need to add a few events to 
 
 <div>
 
-##
-# viewTabs Query
+### viewTabs Query
 
 The *viewTabs* query is a JavaScript query that will run a loop to print data from all the tabs. The query will set a variable `tabIndex` that will store the id of the tab to print data from. The query for this app will loop and increment the tabsIndex variable by 1, using the setVariable action, till the value is less than 4.
 
@@ -131,8 +130,7 @@ Now that we have created the *viewTabs* query, we can go to the **[Download PDF]
 
 <div>
 
-##
-# getTabsHTML Query
+### getTabsHTML Query
 
 The *getTabsHTML* is a JavaScript query that will get the HTML of the current tab and store it in a variable. The query will have a variable `tabsHtml` that will store the HTML of all the tabs in the form of an array.
 
@@ -170,8 +168,7 @@ Now that we have created the *getTabsHTML* query, we can go to the *viewTabs* qu
 
 <div>
 
-##
-# printPDF Query
+### printPDF Query
 
 The *printPDF* query is a JavaScript query that generates a printable document from the HTML content stored in the `tabsHtml` variable. This query will open a new window and write the HTML content of all the tabs. This will allow the user to download a PDF document that includes the formatted content of all the tabs.
 

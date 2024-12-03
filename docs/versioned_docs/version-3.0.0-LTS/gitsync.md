@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 The GitSync feature enables synchronization of workspace applications with a git repository, streamlining application management and version control on ToolJet.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Overview
 
@@ -31,7 +31,7 @@ Facilitating the movement of applications across different ToolJet deployments (
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Setting up GitSync
 
@@ -169,7 +169,7 @@ Go back to the **Configure git** tab on ToolJet, and click on the **Finalize set
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Auto-commit on Promoting Environment
 
@@ -183,7 +183,7 @@ This option can be enabled or disabled from the **Configure git** tab on the **W
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Enable/Disable GitSync
 
@@ -202,7 +202,7 @@ On clicking the GitSync button, the users will be able to commit changes to the 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Delete GitSync Configuration
 
@@ -214,7 +214,7 @@ To delete the GitSync configuration, go to the **Configure git** tab on the **Wo
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Git Repo
 
@@ -240,7 +240,7 @@ The **meta.json** file holds information about apps such as the **App name**, **
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Pushing Changes to Git Repo
 
@@ -350,7 +350,7 @@ The **JSON** file in the app folder will be replaced with the new version of the
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Pulling Changes from Git Repo
 

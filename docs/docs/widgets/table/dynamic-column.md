@@ -5,7 +5,7 @@ title: Dynamic Columns
 
 ToolJet allows users to dynamically set the columns of a **Table** component using a JSON value. This guide explains how to configure dynamic columns in ToolJet.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Using Dynamic Column
 
@@ -33,7 +33,7 @@ This configuration displays a column labeled Name with editable string data rest
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Displaying Different Table Schema Based on the Current User
 
@@ -78,7 +78,7 @@ Here, two different schemas are to be displayed based on the current user.
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Specifiying the Column Type
 

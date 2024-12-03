@@ -5,7 +5,7 @@ title: Redis
 
 ToolJet enables you to execute Redis commands on your Redis instances.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Connecting to Redis
 
@@ -32,7 +32,7 @@ Depending on the TLS certificate option selected, you may need to provide additi
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Querying Redis
 

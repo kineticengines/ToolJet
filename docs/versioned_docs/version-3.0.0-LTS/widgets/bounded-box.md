@@ -13,7 +13,7 @@ A **Bounded Box** is an infinitely customizable image annotation component that 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Properties
 
@@ -70,7 +70,7 @@ Provide the data that will load the default bounding boxes over the image when t
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Events
 
@@ -88,7 +88,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Component Specific Actions (CSA)
 
@@ -96,7 +96,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Exposed Variables
 
@@ -115,7 +115,7 @@ The values can be accessed dynamically using `{{components.boundedbox1.annotatio
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## General
 
@@ -131,7 +131,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Devices
 
@@ -144,7 +144,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 ---
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Styles
 

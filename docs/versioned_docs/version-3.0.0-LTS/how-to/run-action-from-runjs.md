@@ -5,7 +5,7 @@ title: Run Actions from RunJS query
 
 ToolJet allows you to execute various [actions](/docs/actions/show-alert) within RunJS queries. This guide outlines the syntax and examples for each action.
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Run Query 
 
@@ -31,7 +31,7 @@ In the screenshot below, we are triggering two different queries using two diffe
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Get Query Data
 
@@ -69,7 +69,7 @@ let value = queries.getTodos.getLoadingState();
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Set Variables
 
@@ -81,7 +81,7 @@ actions.setVariable('<variableName>', `<variableValue>`)
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Unset Variable
 
@@ -95,7 +95,7 @@ actions.unSetVariable('<variableName>')
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Get Variables
 
@@ -120,7 +120,7 @@ return actions.getPageVariable('number');
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Logout
 
@@ -132,7 +132,7 @@ actions.logout();
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Show Modal
 
@@ -144,7 +144,7 @@ actions.showModal('<modalName>')
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Close Modal
 
@@ -156,7 +156,7 @@ actions.closeModal('<modalName>')
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Set Local Storage 
 
@@ -170,7 +170,7 @@ actions.setLocalStorage('key', 'value');
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Copy to Clipboard
 
@@ -182,7 +182,7 @@ actions.copyToClipboard('<contentToCopy>')
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Generate File
 
@@ -214,7 +214,7 @@ actions.generateFile('Pdffile1', 'pdf', '{{components.table1.currentPageData}}')
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Go to App
 
@@ -229,7 +229,7 @@ actions.goToApp('slug',queryparams)
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Show Alert
 
@@ -248,7 +248,7 @@ actions.showAlert('error' , 'This is an error' )
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Run Multiple Actions From RunJS Query
 

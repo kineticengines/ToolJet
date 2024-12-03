@@ -3,7 +3,7 @@ id: platform-overview
 title: Platform Overview
 slug: /
 ---
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## What is ToolJet?
 
@@ -11,7 +11,7 @@ ToolJet is a low-code platform that enables developers to rapidly build and depl
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## How ToolJet Works:
 
@@ -44,7 +44,7 @@ Enables the creation of visually appealing front-ends with a drag-and-drop inter
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Integrations
 Offers seamless integration with a wide range of data sources, including over 50 applications, databases, and APIs. 
@@ -55,7 +55,7 @@ Offers seamless integration with a wide range of data sources, including over 50
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### ToolJet Database
 A robust, scalable database solution built atop PostgreSQL. It allows for no-code database management, enabling users to build, manage, and scale databases effortlessly.
@@ -66,7 +66,7 @@ A robust, scalable database solution built atop PostgreSQL. It allows for no-cod
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Workflow Automation
 Simplifies the automation of complex manual business processes, reducing the engineering effort required. 
@@ -78,7 +78,7 @@ Simplifies the automation of complex manual business processes, reducing the eng
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Enterprise-Grade Security
 Designed with advanced security features and a scalable infrastructure to meet the needs of enterprise teams. 
@@ -90,7 +90,7 @@ Designed with advanced security features and a scalable infrastructure to meet t
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### SSO Support
 
@@ -102,7 +102,7 @@ Single Sign-On (SSO) capabilities, supporting a variety of providers including O
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Multiple Environments
 Creation and management of multiple environments for efficient application lifecycle management, allowing different stages like development, testing, and production to be handled seamlessly.
@@ -113,7 +113,7 @@ Creation and management of multiple environments for efficient application lifec
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Multiplayer Editing
 

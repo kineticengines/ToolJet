@@ -71,8 +71,7 @@ Enable the **Run this query on application load?** option to make the libraries 
 
 <div>
 
-##
-# 1. Flattening JSON Objects using FlattenJS
+### 1. Flattening JSON Objects using FlattenJS
 
 Create a new RunJS query using the Flatten library (imported earlier) to flatten a JSON object.
 
@@ -98,8 +97,7 @@ Preview the output in the query manager or run the query to see the flattened JS
 
 <div>
 
-##
-# 2. Computation using MathJS
+### 2. Computation using MathJS
 
 Create another RunJS query utilizing the MathJS library for a calculation.
 

@@ -5,7 +5,7 @@ title: Pass Values in a REST API Query
 
 This guide gives you an overview of how you can pass values in a REST API Query using raw JSON and key-value pairs.
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Raw JSON 
 
@@ -37,7 +37,7 @@ In the following JSON code, the `${}` syntax is used for JavaScript string inter
 
 </div>
 
-<div style={{paddingTop:'24px'}}>
+<div >
 
 ## Entering Key Value Pairs
 

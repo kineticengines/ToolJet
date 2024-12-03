@@ -13,7 +13,7 @@ Furthermore, the dashboard serves as a gateway to various essential sections, su
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Workspace Manager
 
@@ -27,7 +27,7 @@ The workspace manager is located on the bottom left corner of the dashboard. Cli
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Add New Workspace
 
@@ -51,7 +51,7 @@ Previously, the workspace slug was an automatically generated workspace ID, like
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Edit Workspace
 
@@ -59,7 +59,7 @@ Similar to the `Add new workspace` button, clicking on the `Edit workspace` butt
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Create a New App
 
@@ -79,7 +79,7 @@ There are three dots on the right side of the `Create new app` button. Clicking 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Choose from Templates
 
@@ -93,7 +93,7 @@ This option will open a modal with a list of pre-built templates. You can choose
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Import
 
@@ -107,7 +107,7 @@ This option will open a file picker to import a JSON file. This JSON file should
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Importing an App Connected to Marketplace Plugins
 
@@ -123,7 +123,7 @@ If you have an app with a query linked to a Marketplace plugin, and you import t
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Importing App Connected to ToolJet Table
 
@@ -133,11 +133,11 @@ If the table with the same name is already present in the workspace, the new tab
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Folders
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Create a new folder
 
@@ -145,7 +145,7 @@ Folders can be created to organize your apps. To create a new folder, click on t
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Delete or Edit Folder
 
@@ -162,7 +162,7 @@ A folder can be **deleted** or **renamed**. To delete or rename a folder, click 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Search Folders
 
@@ -176,7 +176,7 @@ Folders can be searched by clicking on the search icon on the left drawer of the
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Slug for Folders
 
@@ -196,7 +196,7 @@ Example: If the name of the folder is `Customer Support`, The folder can be acce
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## App Cards
 
@@ -210,7 +210,7 @@ The dashboard displays all the apps created in the workspace as cards. These car
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## App Menu
 
@@ -231,7 +231,7 @@ The app menu is located on the top right corner of the app card. Clicking on the
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Rename App
 
@@ -245,7 +245,7 @@ This option will open a modal that will allow you to rename your app.
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Change Icon
 
@@ -259,7 +259,7 @@ This option will open a modal with a list of icons. You can choose any icon from
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Add to Folder
 
@@ -273,7 +273,7 @@ This option will open a modal with a list of folders. You can choose any folder 
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Clone App
 
@@ -287,7 +287,7 @@ Selecting this option will open a modal where you can enter the desired name for
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Export App
 
@@ -309,7 +309,7 @@ This JSON file can be used to [import](#importing-app-connected-to-tooljet-table
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ### Delete App
 
@@ -323,7 +323,7 @@ This option will open a confirmation modal to delete the app. Click on the `Dele
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## App Search
 
@@ -337,7 +337,7 @@ Apps can be searched by clicking on the search bar on the center of the dashboar
 
 </div>
 
-<div style={{paddingTop:'24px', paddingBottom:'24px'}}>
+<div >
 
 ## Current ToolJet Version
 
