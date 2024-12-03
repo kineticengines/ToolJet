@@ -6,13 +6,13 @@ title: Database Editor
 You can manage the ToolJet Database directly from the Database Editor. ToolJet Database organizes the data into **tables** that can have different structures. All the tables will be listed lexicographically on the left. Click on any of the tables to view the table data.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/tables.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/tables.png" alt="ToolJet database" />
 </div>
 
 The sidebar on the left can also be collapsed to give more space to the database editor.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/collapse.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/collapse.png" alt="ToolJet database" />
 </div>
 
 <div>
@@ -22,13 +22,13 @@ The sidebar on the left can also be collapsed to give more space to the database
 To create a new table in ToolJet Database, click on the **Create New Table** button on the top left corner of the Database editor.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/new.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/new.png" alt="ToolJet database" />
 </div>
 
 When you click the **Create New Table** button, a drawer opens from the right, allowing you to enter the details of your new table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/newtable.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/newtable.png" alt="ToolJet database" />
 </div>
 
 #### To create a new table, you'll need to:
@@ -51,7 +51,7 @@ When you click the **Create New Table** button, a drawer opens from the right, a
 | **boolean**   | **boolean** data type can hold true, false, and null values. | `true` or `false` |
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/datatypes.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/datatypes.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -63,7 +63,7 @@ When you click the **Create New Table** button, a drawer opens from the right, a
 Open the Search bar by clicking on the **Search** button and search for a table in the ToolJet database by entering the table name.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/search.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/search.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -75,7 +75,7 @@ Open the Search bar by clicking on the **Search** button and search for a table 
 To rename a table, click on the kebab menu icon on the right of the table name and then select the **Rename table** option. A drawer will open from the right from where you can edit the table name.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/rename.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/rename.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -87,7 +87,7 @@ To rename a table, click on the kebab menu icon on the right of the table name a
 To add a new column on a table, either click on the kebab menu icon on the right of the table name and then select the **Add new column** option or click on the **+** button present at the end of the column header.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/addnewcol.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/addnewcol.png" alt="ToolJet database" />
 </div>
 
 A drawer from the right will open up where you can enter the details for the new column:
@@ -98,7 +98,7 @@ A drawer from the right will open up where you can enter the details for the new
 - **NULL/NOT NULL**: Use the switch to determine whether the column should allow NULL values or not. By default, the toggle is off, allowing the column to have blank or empty entries. If you turn it on, the column is set to NOT NULL, meaning it can't have blank or empty entries anymore. But, for text columns, even with NOT NULL on, they can still have empty text (like an empty line) but not completely blank entries
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/newcol.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/newcol.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -114,7 +114,7 @@ While exporting the app, you can choose to export the app with or without table 
 To export the table schema, click on the three vertical dots icon on the right of the table name and then click on the **Export** option. A JSON file will be downloaded with the table schema.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/export.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/export.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -126,7 +126,7 @@ To export the table schema, click on the three vertical dots icon on the right o
 To delete a table, click on the three vertical dots icon on the right of the table name and then click on the **Delete** option. A confirmation modal will appear, click on the **Delete** button to delete the table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/delete.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/delete.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -138,7 +138,7 @@ To delete a table, click on the three vertical dots icon on the right of the tab
 To edit a column, click on the kebab menu on the column name and select the option to **Edit column**. When you edit the column, the data type cannot be changed.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/editcol.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/editcol.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -150,7 +150,7 @@ To edit a column, click on the kebab menu on the column name and select the opti
 To delete a column, click on the kebab menu on the column name and select the option to **Delete**.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/deletecol.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/deletecol.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -162,7 +162,7 @@ To delete a column, click on the kebab menu on the column name and select the op
 The Add new data button on the top of the table editor allows you to add data to the table. You can either **[Add new row](#add-new-row)** or **[Bulk upload data](#bulk-upload-data)** to add the data to the table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/addnewdata.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/addnewdata.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -174,13 +174,13 @@ The Add new data button on the top of the table editor allows you to add data to
 To add a new row on a table, either click on the `Add new data` button on top and then select the **Add new row** option or click on the **+** button present at the bottom left.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/addnewrow.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/addnewrow.png" alt="ToolJet database" />
 </div>
 
 A drawer from the right will open up where the values for the new row can be provided.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/addnewrow2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/addnewrow2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -192,7 +192,7 @@ A drawer from the right will open up where the values for the new row can be pro
 To edit a row, hover on the row that you want to edit and the expand icon will appear next to the checkbox of that row. Click on the Expand icon to open the drawer and edit the row.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/expand.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/expand.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -206,7 +206,7 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 3. **Save Changes**: Press "Enter" to save the changes. For boolean-type columns, choose from "True," "False," or "Null" options.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/editcell.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/editcell.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -230,7 +230,7 @@ Once the CSV file is ready, click on the file picker to select the file or drag 
 - The CSV file should not exceed 2MB in size.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/bulk.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/bulk.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -242,7 +242,7 @@ Once the CSV file is ready, click on the file picker to select the file or drag 
 To delete one or many records/rows, click the checkbox to the right of the record or records you want to delete. As soon as you select a single record, the button to delete record will appear on the top, click on the **Delete record** button to delete the selected records.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/delrows.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/delrows.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -275,7 +275,7 @@ You can add as many filter as you want into the table by clicking on the **Filte
 - **not**: This operation is used to negate the result of the operation selected in the dropdown. ex: `not equals` will return all the records where the value of the column is not equal to the value entered in the input field.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/filter.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/filter.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -287,7 +287,7 @@ You can add as many filter as you want into the table by clicking on the **Filte
 To sort the table data, click on the **Sort** button on top, select a **column** from the dropdown, and then choose an order **ascending** or **descending**.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/sort.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/sort.png" alt="ToolJet database" />
 </div>
 
 </div>

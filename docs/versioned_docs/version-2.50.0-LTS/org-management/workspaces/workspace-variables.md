@@ -30,7 +30,7 @@ Suppose there is an `API key` or a value that you want to use in the queries or 
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/use-env-org-vars/work-var2.gif" alt="add variable" />
+<img  className="screenshot-full" src="/img/tutorial/use-env-org-vars/work-var2.gif" alt="add variable" />
 
 </div>
 
@@ -50,7 +50,7 @@ Variable Type cannot be changed once it has been created.
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/use-env-org-vars/variable-type.png" alt="variable-type" width="700"/>
+<img className="screenshot-full" src="/img/tutorial/use-env-org-vars/variable-type.png" alt="variable-type" width="700"/>
 
 </div>
 
@@ -76,7 +76,7 @@ So, the syntax for using the variable that we created before will be `%%client.p
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/use-env-org-vars/variable-usage.png" alt="variable-usage" width="700"/>
+<img className="screenshot-full" src="/img/tutorial/use-env-org-vars/variable-usage.png" alt="variable-usage" width="700"/>
 
 </div>
 
@@ -84,7 +84,7 @@ So, the syntax for using the variable that we created before will be `%%client.p
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/use-env-org-vars/server-variable-usage.png"  alt="server-variable-usage" width="700" />
+<img className="screenshot-full" src="/img/tutorial/use-env-org-vars/server-variable-usage.png"  alt="server-variable-usage" width="700" />
 
 </div>
 

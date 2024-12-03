@@ -6,7 +6,7 @@ title: Airtable
 ToolJet can connect to your **Airtable** account to read and write data. **Personal Access Token** is required to connect to the Airtable data source on ToolJet. You can generate the Personal Access Token by visiting **[Developer Hub from your Airtable profile](https://support.airtable.com/docs/creating-and-using-api-keys-and-access-tokens#understanding-personal-access-token-basic-actions)**.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/airtable/airtableconnect-v2.gif" alt="Airtable Data Source Connection" />
+    <img  className="screenshot-full" src="/img/datasource-reference/airtable/airtableconnect-v2.gif" alt="Airtable Data Source Connection" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@ This operation returns a list of records from the specified table.
 
 <br/>
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/airtable/list-records-v2.png" alt="Airtable List Records Query" />
+    <img  className="screenshot-full" src="/img/datasource-reference/airtable/list-records-v2.png" alt="Airtable List Records Query" />
 </div>
 
 Example response from Airtable:
@@ -95,7 +95,7 @@ Example response from Airtable:
 - **Record ID**: The ID of the record you want to retrieve.
 <br/>
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/airtable/retrieve-record-v2.png" alt="Airtable Retrieve Record Query" />
+    <img  className="screenshot-full" src="/img/datasource-reference/airtable/retrieve-record-v2.png" alt="Airtable Retrieve Record Query" />
 </div>
 
 
@@ -121,7 +121,7 @@ Example response from Airtable:
 - **Records**: The records you want to create. The records should be in the form of an array of objects. Each object should have a `fields` key, which contains the fields of the record. The field names should be the same as the field names in the Airtable table.
 <br/>
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/airtable/create-record-v2.png" alt="Airtable Create Record Query" />
+    <img  className="screenshot-full" src="/img/datasource-reference/airtable/create-record-v2.png" alt="Airtable Create Record Query" />
 </div>
 
 Example creating a record:
@@ -163,7 +163,7 @@ Query returns the following response when the record is created successfully:
 - **Body**: The fields you want to update. The fields should be in the form of an object. The field names should be the same as the field names in the Airtable table.
 <br/>
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/airtable/update-record-v2.png" alt="Airtable Update Record Query" />
+    <img  className="screenshot-full" src="/img/datasource-reference/airtable/update-record-v2.png" alt="Airtable Update Record Query" />
 </div>
 
 Example updating a record:
@@ -201,7 +201,7 @@ Query returns the following response when the record is updated successfully:
 - **Record ID**: The ID of the record you want to delete.
 <br/>
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/airtable/delete-record-v2.png" alt="Airtable Delete Record Query" />
+    <img  className="screenshot-full" src="/img/datasource-reference/airtable/delete-record-v2.png" alt="Airtable Delete Record Query" />
 </div>
 
 Query returns the following response when the record is deleted successfully:

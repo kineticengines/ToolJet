@@ -10,7 +10,7 @@ You can manage the ToolJet Database directly from the Database Editor. ToolJet D
 The sidebar on the left can also be collapsed to give more space to the database editor.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/collapse-v2.gif" alt="ToolJet database"/>
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/collapse-v2.gif" alt="ToolJet database"/>
 </div>
 <div>
 
@@ -92,7 +92,7 @@ To create a Foreign Key relationship, follow these steps:
  - Under the Actions section, select the desired action to be performed when the referenced row is updated or deleted.
  - Click on the `Create` button to create the Foreign Key relationship.
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/create-fk.gif" alt="ToolJet database"/>
+<img  className="screenshot-full" src="/img/v2-beta/database/ux2/create-fk.gif" alt="ToolJet database"/>
 
 
 </div>
@@ -126,13 +126,13 @@ The foreign key constraint ensures referential integrity between the source and 
 - On the bottom of the dropdown, there is a button to **Open referenced table** which will take you to the target table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/create-new-row-fk.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/create-new-row-fk.png" alt="ToolJet database" />
 </div>
 
 - When editing the value of a foreign key cell in an existing row of the source table, the dropdown will show the unique values present in the target table. This ensures that even when the data in the source table is being updated, it is always consistent with the data in the target table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/edit-row-fk.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/edit-row-fk.png" alt="ToolJet database" />
 </div>
 
 
@@ -182,7 +182,7 @@ Now, whenever you try to insert or update a record in the `Orders` table, the `c
 Open the Search bar by clicking on the **Search** button and search for a table in the ToolJet database by entering the table name.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/search-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/search-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -194,7 +194,7 @@ Open the Search bar by clicking on the **Search** button and search for a table 
 To rename a table, click on the kebab menu icon on the right of the table name and then select the **Edit table** option. A drawer will open from the right from where you can edit the table name.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/edit-table-name-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/edit-table-name-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -213,7 +213,7 @@ A drawer from the right will open up where you can enter the details for the new
 - **Foreign Key Relation**: Click on the toggle to add a foreign key relationship to the column. This will open a menu where you can select the target table and column to reference.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/add-new-column-v2.gif" alt="ToolJet database"/>
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/add-new-column-v2.gif" alt="ToolJet database"/>
 </div>
 
 </div>
@@ -227,7 +227,7 @@ While exporting the app, you can choose to export the app with or without a tabl
 To export the table schema, click on the three vertical dots icon on the right of the table name and then click on the **Export** option. A JSON file will be downloaded with the table schema.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/export-schema-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/export-schema-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -239,7 +239,7 @@ To export the table schema, click on the three vertical dots icon on the right o
 To delete a table, click on the three vertical dots icon on the right of the table name and then click on the **Delete** option. A confirmation modal will appear, click on the **Delete** button to delete the table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/delete-table-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/delete-table-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -251,7 +251,7 @@ To delete a table, click on the three vertical dots icon on the right of the tab
 To edit a column, click on the kebab menu on the column name and select the option to **Edit column**. When you edit the column, the data type cannot be changed.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/edit-column-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/edit-column-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -263,7 +263,7 @@ To edit a column, click on the kebab menu on the column name and select the opti
 To delete a column, click on the kebab menu on the column name and select the option to **Delete**. You cannot delete a column if it is being used as a primary key. You will have to remove the primary key constraint from the column before deleting it.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/delete-column-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/delete-column-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -277,7 +277,7 @@ To delete a column, click on the kebab menu on the column name and select the op
 The Add new data button on the top of the table editor allows you to add data to the table. You can either **[Add new row](#add-new-row)** or **[Bulk upload data](#bulk-upload-data)** to add the data to the table.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/add-new-data-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/add-new-data-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -290,7 +290,7 @@ To add a new row to a table, either click on the `Add new data` button on top an
 A drawer from the right will open up where the values for the new row can be provided.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/add-new-row-v2.gif" alt="ToolJet database"/>
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/add-new-row-v2.gif" alt="ToolJet database"/>
 </div>
 
 </div>
@@ -302,7 +302,7 @@ A drawer from the right will open up where the values for the new row can be pro
 To edit a row, hover on the row that you want to edit and the expand icon will appear next to the checkbox of that row. Click on the Expand icon to open the drawer and edit the row.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/edit-row-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/edit-row-v2.png" alt="ToolJet database" />
 </div>
 
 </div>
@@ -317,7 +317,7 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 - For boolean-type columns, use the toggle to change the value.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/edit-cell-v2.gif" alt="ToolJet database"/>
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/edit-cell-v2.gif" alt="ToolJet database"/>
 </div>
 
 </div>
@@ -342,7 +342,7 @@ Once the CSV file is ready, click on the file picker to select the file or drag 
 - The CSV file should not exceed 2MB in size.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/bulk-upload-data-v2.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/bulk-upload-data-v2.png" alt="ToolJet database" />
 </div>
 
 </div>

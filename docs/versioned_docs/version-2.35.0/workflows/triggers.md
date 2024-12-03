@@ -6,7 +6,7 @@ title: Triggers
 Triggers can be used to execute a workflow. Currently, ToolJet supports two types of triggers: [Webhooks](#webhooks) and [Manual](#manual).
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/triggers.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/triggers.png" alt="Triggers" />
 </div>
 
 <div>
@@ -23,25 +23,25 @@ A webhook trigger allows you to run the workflow when a webhook is received. You
 - Click on the **Triggers** option in the left panel to open the Triggers tab.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/triggerbutton.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/triggerbutton.png" alt="Triggers" />
   </div>
 
 - Click on the **Webhooks** option.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/webhooks.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/webhooks.png" alt="Triggers" />
   </div>
 
 - By default, the webhook trigger is disabled. Toggle the switch to **enable** the webhook trigger.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/enable.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/enable.png" alt="Triggers" />
   </div>
 
 - Once enabled, you can choose the **Environment** to modify the webhook endpoint URL to be copied for that specific environment. For example, if you choose the **Production** environment, you can `Copy URL` or `Copy as cURL` which can then be used to trigger for **Production** environment accordingly.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/env.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/env.png" alt="Triggers" />
   </div>
 
 - Find the API endpoint URL in the **Endpoint** field. You can use this URL to send a POST request to trigger the workflow. You can also click on the **Copy** button to copy the URL to the clipboard. You can either select `Copy URL` or `Copy as cURL` from the dropdown menu. The `Copy as cURL` option copies the URL as a cURL command which will include details such as the `API token` and `Environment`. An example of the Endpoint URL is as follows:
@@ -51,13 +51,13 @@ A webhook trigger allows you to run the workflow when a webhook is received. You
   ```
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/copy.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/copy.png" alt="Triggers" />
   </div>
 
 - The API token is used to authenticate the request. You can find the API token in the **API Token** field. You can also click on the **Copy** button to copy the API token to the clipboard.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/token.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/token.png" alt="Triggers" />
   </div>
 
   :::info
@@ -76,7 +76,7 @@ A webhook trigger allows you to run the workflow when a webhook is received. You
   ```
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/params.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/params.png" alt="Triggers" />
   </div>
 
 - The **Test JSON parameters** field can be used to test the webhook trigger. You can enter the parameter values in the **Test JSON parameters** field and click on the **Run** button to test the webhook trigger. The workflow will be executed with the parameter values specified in the **Test JSON parameters** field.
@@ -91,7 +91,7 @@ A webhook trigger allows you to run the workflow when a webhook is received. You
   These parameters can be accessed in the workflow using the `startTrigger.params`.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/test.png" alt="Triggers" />
+    <img  className="screenshot-full" src="/img/workflows/triggers/test.png" alt="Triggers" />
   </div>
 
 </div>
@@ -129,7 +129,7 @@ Manual triggers can be used to run a workflow manually from the ToolJet apps. Ma
 In the application, simply click on the `+ Add` button in the query panel and select **Run Workflow**. Then select the desired workflow from the dropdown. Rename the query if required and click on the **Run** button to trigger the workflow or add this query to a event handler to trigger the workflow on a specific event.
 
 <div style={{textAlign: 'center'}}>
-  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/workflowdrop.png" alt="Triggers" />
+  <img  className="screenshot-full" src="/img/workflows/triggers/workflowdrop.png" alt="Triggers" />
 </div>
 
 </div>
@@ -148,7 +148,7 @@ Parameters can be passed to the workflow from the **Params** field in the query.
 Assume a scenario where teams manage multiple ToolJet apps, each requiring queries to the same database for specific data. Instead of duplicating these steps across various apps, a workflow can be created once and seamlessly integrated wherever needed.
 
 <div style={{textAlign: 'center'}}>
-  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/triggers/paramui.png" alt="Triggers" />
+  <img  className="screenshot-full" src="/img/workflows/triggers/paramui.png" alt="Triggers" />
 </div>
 
 </div>

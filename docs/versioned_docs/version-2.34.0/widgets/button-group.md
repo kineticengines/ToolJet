@@ -8,7 +8,7 @@ The Button group component is used to group a series of buttons together in a si
 
 <div style={{textAlign: 'left'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/button-group/buttongroup1.png" alt="Button group" />
+<img  className="screenshot-full" src="/img/widgets/button-group/buttongroup1.png" alt="Button group" />
 
 </div>
 
@@ -69,7 +69,7 @@ A Tooltip is often used to display additional information when the user hovers t
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/button-group/grouptooltip.png" alt="Button group layout" />
+<img  className="screenshot-full" src="/img/widgets/button-group/grouptooltip.png" alt="Button group layout" />
 
 </div>
 

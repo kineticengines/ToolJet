@@ -18,7 +18,7 @@ ToolJet Database supports several data types to accommodate various kinds of inf
 | **date with time** | Stores both date and time information in ISO 8601 format. The default timezone is set to the user's device time zone, with an option to specify a different timezone. All timestamp data is stored in UTC format and converted to the specified timezone when displayed. | '2024-07-22 15:30:00' |
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/datatypes-v3.png" alt="ToolJet database" />
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/datatypes-v3.png" alt="ToolJet database" />
 </div>
 
 

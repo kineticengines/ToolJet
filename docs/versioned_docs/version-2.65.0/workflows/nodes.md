@@ -14,7 +14,7 @@ Apart from the default **Start Trigger** and **Result** nodes, there are an arra
 The **JavaScript** node lets you write custom JavaScript code than runs on the server side. Server-side execution of code protects sensitive logic and data from exposure to the client and improves performance by offloading complex computations from the client. You can use the JavaScript code to transform data, create alert messages and more. The code you enter in each JavaScript node needs a **return** statement to ensure that the result is sent to the next node. 
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/nodes/js-node.png" alt="JavaScript Node" />
+    <img  className="screenshot-full" src="/img/workflows/nodes/js-node.png" alt="JavaScript Node" />
 </div>
 
 </div>
@@ -27,7 +27,7 @@ The **If condition** node can have one or two incoming flows and two outgoing fl
 The **If condition** node triggers one of the outgoing flows depending on the given logical expression. If the expression evaluates to true, it activates the flow connected to the green circle. Conversely, if it's false, the flow linked to the red circle will be activated.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/nodes/if-condition-node.png" alt="If Condition Node" />
+    <img  className="screenshot-full" src="/img/workflows/nodes/if-condition-node.png" alt="If Condition Node" />
 </div>
 <br/>
 
@@ -42,13 +42,13 @@ The **If condition** node triggers one of the outgoing flows depending on the gi
 In the flow builder of ToolJet, all the data sources you've set up will appear as nodes. These nodes can be utilized to perform intricate queries on your data sources, establish connections with APIs, send emails and messages, and more.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/nodes/datasources-nodes.png" alt="Datasources and Other Services" />
+    <img  className="screenshot-full" src="/img/workflows/nodes/datasources-nodes.png" alt="Datasources and Other Services" />
 </div>
 
 Each node type will have a different configuration based on the function it performs. For example, a **Twilio** node might come with the relevant fields needed to send an SMS, while a **PostgreSQL** node will have a query field to retrieve the data.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/nodes/twilio-postgres-config.png" alt="Twilio and Postgres Configuration" />
+    <img  className="screenshot-full" src="/img/workflows/nodes/twilio-postgres-config.png" alt="Twilio and Postgres Configuration" />
 </div>
 
 </div>
@@ -60,7 +60,7 @@ Each node type will have a different configuration based on the function it perf
 The **REST API** node acts as a bridge to connect with RESTful web services. By leveraging standard HTTP methods like GET, POST, PUT, and DELETE, the REST API node ensures smooth communication with web services, making data integration and manipulation more efficient and straightforward.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workflows/nodes/restapi-node.png" alt="Rest API Configuration" />
+    <img  className="screenshot-full" src="/img/workflows/nodes/restapi-node.png" alt="Rest API Configuration" />
 </div>
 
 </div>

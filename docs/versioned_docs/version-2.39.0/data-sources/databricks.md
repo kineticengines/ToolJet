@@ -8,7 +8,7 @@ title: Databricks
 Databricks is a cloud-based platform for data processing, analytics, and machine learning. ToolJet connects to Databricks, allowing your applications to access and update your data in your Databricks Warehouses directly using SQL queries.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/databricks/install.gif" alt="Install Databricks" />
+    <img  className="screenshot-full" src="/img/datasource-reference/databricks/install.gif" alt="Install Databricks" />
 </div>
 
 ## Configuration
@@ -32,13 +32,13 @@ ToolJet's Databricks integration relies on a configuration form that supports th
 - Navigate to your Databricks workspace, select the desired SQL Warehouse, and find **Server Hostname** and **HTTP Path** within the connection details tab.
 
   <div style={{textAlign: 'center'}}>
-      <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/databricks/connection-details.png" alt="Databricks: Connection Details" />
+      <img  className="screenshot-full" src="/img/datasource-reference/databricks/connection-details.png" alt="Databricks: Connection Details" />
   </div>
 
 - To generate a personal access token, access your Databricks User Settings, select the Developer tab, click Manage under Access Tokens, and then click on the **Generate New Token** button.
 
   <div style={{textAlign: 'center'}}>
-      <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/databricks/generate-token.png" alt="Databricks: Access Tokens" />
+      <img  className="screenshot-full" src="/img/datasource-reference/databricks/generate-token.png" alt="Databricks: Access Tokens" />
   </div> 
 
 - Navigate to the Databricks datasource configuration form in ToolJet, fill in the required parameters, and click the **Save** button. You can test the connection by clicking the **Test Connection** button.
@@ -48,7 +48,7 @@ ToolJet's Databricks integration relies on a configuration form that supports th
   :::
 
   <div style={{textAlign: 'center'}}>
-      <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/databricks/setup-parameters.png" alt="Databricks: Setup Paramaters" />
+      <img  className="screenshot-full" src="/img/datasource-reference/databricks/setup-parameters.png" alt="Databricks: Setup Paramaters" />
   </div>
 
 ## Querying Databricks

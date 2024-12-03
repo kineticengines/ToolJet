@@ -9,7 +9,7 @@ The user who creates the workspace will automatically be assigned as its adminis
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/multiworkspace/multiwork2-v2.gif" alt="multi workspace" />
+<img  className="screenshot-full" src="/img/multiworkspace/multiwork2-v2.gif" alt="multi workspace" />
 
 </div>
 
@@ -19,7 +19,7 @@ The user who creates the workspace will automatically be assigned as its adminis
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/multiworkspace/Tooljet-workspace.png" alt="tooljet workspace" />
+<img className="screenshot-full" src="/img/multiworkspace/Tooljet-workspace.png" alt="tooljet workspace" />
 
 </div>
 

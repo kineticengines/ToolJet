@@ -17,7 +17,7 @@ Let's take a look at an example below to understand how to use URL parameters on
 Create two pages, `Home` and `Dashboard`. When a new app is created, a page named `Home` is created by default. Create a new page named `Dashboard` from the Pages menu in the left sidebar.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/pages.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/pages.png" alt="Use URL Parameters on page load" />
 </div>
 
 ## Home and Dashboard Pages
@@ -25,19 +25,19 @@ Create two pages, `Home` and `Dashboard`. When a new app is created, a page name
 Add a form component to the `Home` page. The form component will have a text input fields and a button. The text input field will be used to enter the name and the button will be used to navigate to the `Dashboard` page. Let's name the text input field as `email` and the button as `Submit`. 
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/form.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/form.png" alt="Use URL Parameters on page load" />
 </div>
 
 Select the button and add the event `On click`, select action `Switch page`, and then select the page `Dashboard`. Here, we will also find the option to add URL parameters. Add the URL parameter `email` and set the value to `{{components.form1.data.textinput1.value}}`. This will pass the value of the email input field to the `Dashboard` page as a URL parameter.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/event.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/event.png" alt="Use URL Parameters on page load" />
 </div>
 
 Now, on clicking the `Submit` button, the `Dashboard` page will be opened with the URL parameter `email` containing the value of the email input field. You can open the Inspector on left sidebar and navigate to the `URL Params` under the `globals` to check the URL parameters.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/urlparams.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/urlparams.png" alt="Use URL Parameters on page load" />
 </div>
 
 ## Queries and binding data
@@ -50,7 +50,7 @@ In the `Dashboard` page, add two table components. We will be loading the data f
 - Go to the `table1` properties, set the value of table data to `{{queries.products.data}}`. This will bind the data returned from the REST API query to the table.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/table1.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/table1.png" alt="Use URL Parameters on page load" />
 </div>
 
 ### Query 2: Get user details
@@ -59,7 +59,7 @@ In the `Dashboard` page, add two table components. We will be loading the data f
 - Go to the `table2` properties, set the value of table data to `{{queries.users.data}}`. This will bind the data returned from the REST API query to the table.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/table2.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/table2.png" alt="Use URL Parameters on page load" />
 </div>
 
 ### Query 3: JavaScript code to use URL parameters
@@ -97,7 +97,7 @@ checkAndRunQuery(5000);  // Check if URL parameters are available and run the RE
 - Select the option to add Event handler and add a new `On page load`, select the option to `Run query` and select the query `urlparams`. This will trigger the JavaScript code query to check if the email parameter is present in the URL and then run the REST API queries whenever the `Dashboard` page is loaded.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-url-params/onpageload.png" alt="Use URL Parameters on page load" />
+ <img  className="screenshot-full" src="/img/how-to/use-url-params/onpageload.png" alt="Use URL Parameters on page load" />
 </div>
 
 Now, whenever the user will enter the email in the `Home` page and click the `Submit` button, the `Dashboard` page will be opened with the URL parameter `email` containing the value of the email input field. The JavaScript code query will check if the email parameter is present in the URL and then run the REST API queries to fetch the data. The data will be displayed in the tables on the `Dashboard` page.

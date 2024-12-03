@@ -128,7 +128,7 @@ When you are creating, updating, or deleting records in a table that has a forei
 - If you are trying to create/update a new row in the source table, you need to ensure that the foreign key value exists in the target table. Otherwise, the operation will fail with an error message.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/violate-fk.gif" alt="ToolJet database"/>
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/violate-fk.gif" alt="ToolJet database"/>
 </div>
 
 - Similarly, if you are trying to delete a row in the target table, you need to ensure that the foreign key value is not being referenced in the source table.
@@ -146,7 +146,7 @@ You can join two or more tables in the ToolJet database by using the **Join** op
     - **Joining Table**: Select the table that you want to join with the selected table. If the selected table has a foreign key relationship(s) with other tables, those tables will be listed with a foreign key icon next to their name.
     - **On**: Select the column from the **selected table** and the **joining table** on which you want to join the tables. Currently, only `=` operation is supported for joining tables. If the selected table and the joining table have a foreign key relationship, both the columns will be auto-populated in the **On** dropdown.
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/join-on-fk-v2.gif" alt="ToolJet database"/>
+    <img  className="screenshot-full" src="/img/v2-beta/database/ux2/join-on-fk-v2.gif" alt="ToolJet database"/>
 </div>
     - **AND or OR condition**: You can add multiple conditions by clicking on the **+Add more** button below each join. The conditions can be joined by `AND` or `OR` operation.
 

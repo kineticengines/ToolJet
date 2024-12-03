@@ -28,7 +28,7 @@ Admins of a workspace can invite users to the workspace, archive/unarchive exist
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/users-v4.png" alt="Manage Users" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/users-v4.png" alt="Manage Users" />
 
 </div>
 
@@ -97,7 +97,7 @@ Admins can edit the details of any user in their workspace. To edit the details 
 
 <div style={{textAlign: 'center'}}>
   
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/edituserdetails-v3.png" alt="edit user" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/edituserdetails-v3.png" alt="edit user" />
   
 </div>
 

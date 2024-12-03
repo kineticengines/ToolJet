@@ -22,7 +22,7 @@ ToolJet connects to your Engagespot account, allowing you to send notifications,
 - Click **Test Connection** to validate your credentials. Click **Save** to store the data source.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/engagespot/engagespot_install.png" alt="Engagespot API Key" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/engagespot/engagespot_install.png" alt="Engagespot API Key" />
 </div>
 
 
@@ -90,7 +90,7 @@ The user profile column accepts any key-value pairs in valid JSON object format.
   - **Notification Title** - The title for your notification.
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/engagespot/send_notification.png" alt="engagespot send notitication"/>
+<img  className="screenshot-full" src="/img/marketplace/plugins/engagespot/send_notification.png" alt="engagespot send notitication"/>
 </div>
 <br/>
 

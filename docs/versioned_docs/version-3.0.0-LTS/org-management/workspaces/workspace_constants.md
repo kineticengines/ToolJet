@@ -46,7 +46,7 @@ Users can define environment-specific configurations by setting different values
 </div>
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/env-specific-const.png" alt="Environment-Specific Constants"/>
+<img  className="screenshot-full" src="/img/workspace-const/env-specific-const.png" alt="Environment-Specific Constants"/>
 </div>
 
 <div>
@@ -80,7 +80,7 @@ To create workspace constants or secrets, follow these steps:
 6. Click the **Add constant** button to save.
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/create-new.png" alt="Create New Constant"/>
+<img  className="screenshot-full" src="/img/workspace-const/create-new.png" alt="Create New Constant"/>
 </div>
 
 :::info
@@ -100,7 +100,7 @@ Global constants can be used in the app builder, data sources, data queries, and
 Inside the App Builder, you'll find the **Inspector** on the left sidebar with a Constants section displaying all available global constant values.
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/global-constants-app-builder.png" alt="Use Global Constants Inside App Builder"/>
+<img  className="screenshot-full" src="/img/workspace-const/global-constants-app-builder.png" alt="Use Global Constants Inside App Builder"/>
 </div>
 
 ### In Data Sources and Queries
@@ -110,13 +110,13 @@ You can use global constants in datasource connection forms and queries using th
 **Data Source Connection Form**:
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/golbal-constants-data-source-connection.png" alt="Use Global Constants Data Source Connection Form"/>
+<img  className="screenshot-full" src="/img/workspace-const/golbal-constants-data-source-connection.png" alt="Use Global Constants Data Source Connection Form"/>
 </div>
 
 **Inside Queries in Query Manager**:
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/global-constants-queries.png" alt="Use Global Constants Inside Queries in Query Manager"/>
+<img  className="screenshot-full" src="/img/workspace-const/global-constants-queries.png" alt="Use Global Constants Inside Queries in Query Manager"/>
 </div>
 
 </div>
@@ -134,13 +134,13 @@ You can use secrets in datasource connection forms and queries using the syntax 
 **Data Source Connection Form**:
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/secrets-data-source-connection.png" alt="Use Secrets in Data Source Connection Form"/>
+<img  className="screenshot-full" src="/img/workspace-const/secrets-data-source-connection.png" alt="Use Secrets in Data Source Connection Form"/>
 </div>
 
 **Inside Queries in Query Manager**:
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/secrets-queries.png" alt="Use Secrets Inside Queries in Query Manager"/>
+<img  className="screenshot-full" src="/img/workspace-const/secrets-queries.png" alt="Use Secrets Inside Queries in Query Manager"/>
 </div>
 
 

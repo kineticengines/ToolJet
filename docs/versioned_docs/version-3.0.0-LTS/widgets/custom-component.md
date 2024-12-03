@@ -7,7 +7,7 @@ title: Custom Component
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/custom-component/custom-component-v2.png" alt="ToolJet - Widget Reference - Custom Component" />
+<img  className="screenshot-full" src="/img/widgets/custom-component/custom-component-v2.png" alt="ToolJet - Widget Reference - Custom Component" />
 
 </div>
 

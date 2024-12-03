@@ -9,7 +9,7 @@ Furthermore, the dashboard serves as a gateway to various essential sections, su
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/dashboardoptions-v2.png" alt="App menu options"/>
+<img  className="screenshot-full" src="/img/dashboard/dashboardoptions-v2.png" alt="App menu options"/>
 
 </div>
 
@@ -21,7 +21,7 @@ The workspace manager is located on the bottom left corner of the dashboard. Cli
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/workspacemenu-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/workspacemenu-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Previously, the workspace slug was an automatically generated workspace ID, like
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/new-workspace-modal-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/new-workspace-modal-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -87,7 +87,7 @@ This option will open a modal with a list of pre-built templates. You can choose
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/choosefromtemplate-v2.gif" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/choosefromtemplate-v2.gif" alt="Dashboard"/>
 
 </div>
 
@@ -101,7 +101,7 @@ This option will open a file picker to import a JSON file. This JSON file should
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/import-app-v2.gif" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/import-app-v2.gif" alt="Dashboard"/>
 
 </div>
 
@@ -156,7 +156,7 @@ A folder can be **deleted** or **renamed**. To delete or rename a folder, click 
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/newfolder-v2.gif" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/newfolder-v2.gif" alt="Dashboard"/>
 
 </div>
 
@@ -170,7 +170,7 @@ Folders can be searched by clicking on the search icon on the left drawer of the
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/search-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/search-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -204,7 +204,7 @@ The dashboard displays all the apps created in the workspace as cards. These car
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/appcard-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/appcard-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -225,7 +225,7 @@ The app menu is located on the top right corner of the app card. Clicking on the
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/app-menu-v2.gif" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/app-menu-v2.gif" alt="Dashboard"/>
 
 </div>
 
@@ -239,7 +239,7 @@ This option will open a modal that will allow you to rename your app.
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/rename-app.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/rename-app.png" alt="Dashboard"/>
 
 </div>
 
@@ -253,7 +253,7 @@ This option will open a modal with a list of icons. You can choose any icon from
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/change-icon-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/change-icon-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -267,7 +267,7 @@ This option will open a modal with a list of folders. You can choose any folder 
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/add-to-folder-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/add-to-folder-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -281,7 +281,7 @@ Selecting this option will open a modal where you can enter the desired name for
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/clone-app-v2.gif" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/clone-app-v2.gif" alt="Dashboard"/>
 
 </div>
 
@@ -303,7 +303,7 @@ This JSON file can be used to [import](#importing-app-connected-to-tooljet-table
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/export-app-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/export-app-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -317,7 +317,7 @@ This option will open a confirmation modal to delete the app. Click on the `Dele
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/delete-app-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/delete-app-v2.png" alt="Dashboard"/>
 
 </div>
 
@@ -331,7 +331,7 @@ Apps can be searched by clicking on the search bar on the center of the dashboar
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/dashboard/search-app-v2.png" alt="Dashboard"/>
+<img  className="screenshot-full" src="/img/dashboard/search-app-v2.png" alt="Dashboard"/>
 
 </div>
 

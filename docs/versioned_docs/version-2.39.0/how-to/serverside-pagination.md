@@ -68,7 +68,7 @@ FROM users;
   ```
 
 <div style={{textAlign: 'center'}}>
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/server-side/pagination-v2.png" alt="Table data" />
+  <img className="screenshot-full" src="/img/how-to/server-side/pagination-v2.png" alt="Table data" />
 </div>
 
 
@@ -86,7 +86,7 @@ FROM users;
 Now, whenever the page is changed, the query will be executed, and the data will be fetched from the PostgreSQL table in chunks.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/server-side/change-v2.gif" alt="Table data" />
+    <img  className="screenshot-full" src="/img/how-to/server-side/change-v2.gif" alt="Table data" />
   </div>
 
 </div>

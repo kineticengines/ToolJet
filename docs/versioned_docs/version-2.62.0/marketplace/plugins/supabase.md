@@ -16,7 +16,7 @@ ToolJet connects to your Supabase database, allowing you to directly interact wi
 - To connect to Supabase you need to have the Project URL and Service Role Secret. You can find these credentials in your API Settings on the Supabase dashboard. Make sure to copy the Service Role Secret key. This key has the ability to bypass Row Level Security.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/api_settings.png" alt="Supabase API Settings" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/api_settings.png" alt="Supabase API Settings" />
 </div>
 
 - Establish a connection to Supabase by either clicking `+Add new Data source` on the query panel or navigating to the [Data Sources](/docs/data-sources/overview/) page from the ToolJet dashboard.
@@ -26,7 +26,7 @@ ToolJet connects to your Supabase database, allowing you to directly interact wi
 - Click **Test Connection** to validate your credentials. Click **Save** to store the data source.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/supabase_install.png" alt="Supabase Install" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/supabase_install.png" alt="Supabase Install" />
 </div>
 
 ## Querying Supabase
@@ -73,7 +73,7 @@ You can create query for Supabase data source to perform several operations such
 
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/get_rows.png" alt="Get Rows" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/get_rows.png" alt="Get Rows" />
 </div>
 
 
@@ -86,7 +86,7 @@ You can create query for Supabase data source to perform several operations such
 
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/create_rows.png" alt="Create Rows" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/create_rows.png" alt="Create Rows" />
 </div>
 
 ### Update Row(s)
@@ -100,7 +100,7 @@ You can create query for Supabase data source to perform several operations such
   - **Where** - Update rows based on a condition. If not provided, all rows will be updated.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/update_rows.png" alt="Update Rows" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/update_rows.png" alt="Update Rows" />
 </div>
 
 
@@ -111,7 +111,7 @@ You can create query for Supabase data source to perform several operations such
   - **Where** - Delete rows based on a condition.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/delete_rows.png" alt="Delete Rows" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/delete_rows.png" alt="Delete Rows" />
 </div>
 
 
@@ -126,7 +126,7 @@ You can create query for Supabase data source to perform several operations such
   - **Where** - Filter rows based on a condition.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/plugins/supabase/count_rows.png" alt="Count Rows" />
+    <img  className="screenshot-full" src="/img/marketplace/plugins/supabase/count_rows.png" alt="Count Rows" />
 </div>
 <br/>
 

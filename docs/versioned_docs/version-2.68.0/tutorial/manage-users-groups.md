@@ -13,7 +13,7 @@ Admins of a workspace can invite users to the workspace or archive/unarchive the
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/users3-v2.png" alt="Manage Users" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/users3-v2.png" alt="Manage Users" />
 
 </div>
 
@@ -53,7 +53,7 @@ Admins can invite anyone to a workspace using the email address. To invite a use
 - You can also **Bulk Invite Users** by editing and uploading the sample CSV file including all the users details. Click on the `Add users` button and select the **Bulk Invite** tab.
   <div style={{textAlign: 'center'}}>
     
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/bulkinviten-v2.png" alt="add new user" />
+  <img className="screenshot-full" src="/img/tutorial/manage-users-groups/bulkinviten-v2.png" alt="add new user" />
     
   </div>
 
@@ -69,7 +69,7 @@ Admins of a workspace can edit the details of any user in their workspace. The d
 
   <div style={{textAlign: 'center'}}>
     
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/edituserdetails-v2.png" alt="edit user" />
+  <img className="screenshot-full" src="/img/tutorial/manage-users-groups/edituserdetails-v2.png" alt="edit user" />
     
   </div>
 
@@ -91,7 +91,7 @@ To archive a user:
 
   <div style={{textAlign: 'center'}}>
     
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/archiveuser-v2.png" alt="archive user" />
+  <img className="screenshot-full" src="/img/tutorial/manage-users-groups/archiveuser-v2.png" alt="archive user" />
     
   </div>
 
@@ -113,7 +113,7 @@ To unarchive a user:
 
   <div style={{textAlign: 'center'}}>
     
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/unarchiveuser-v2.png" alt="unarchive user" />
+  <img className="screenshot-full" src="/img/tutorial/manage-users-groups/unarchiveuser-v2.png" alt="unarchive user" />
     
   </div>
 
@@ -127,7 +127,7 @@ On ToolJet, Admins and Super Admins can create groups for users added in a works
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/groupsnew-v2.png" alt="Manage Groups" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/groupsnew-v2.png" alt="Manage Groups" />
     
 </div>
 
@@ -150,7 +150,7 @@ Admins and Super Admins can add or remove any number of apps for a group of user
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/appsnew-v2.png" alt="apps"/>
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/appsnew-v2.png" alt="apps"/>
     
 </div>
 
@@ -160,7 +160,7 @@ Admins and Super Admins can add or remove any numbers of users in a group. Just 
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/newusers-v2.png" alt="users" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/newusers-v2.png" alt="users" />
     
 </div>
 
@@ -174,7 +174,7 @@ Admins and Super Admins can set granular permission for the users added in that 
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/dspermission-v2.png" alt="permissions" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/dspermission-v2.png" alt="permissions" />
     
 </div>
 
@@ -184,7 +184,7 @@ Only Admins and Super Admins can define what data sources can be **viewed** or *
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/gdspermission-v2.png" alt="permissions" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/gdspermission-v2.png" alt="permissions" />
     
 </div>
 
@@ -210,7 +210,7 @@ This group contains all the users and admins.
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/allusersnew-v2.png" alt="all users" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/allusersnew-v2.png" alt="all users" />
     
 </div>
 
@@ -224,7 +224,7 @@ This group contains admins by default. Admins can add more admins or remove the 
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/adminnew-v2.png" alt="admin" />
+<img className="screenshot-full" src="/img/tutorial/manage-users-groups/adminnew-v2.png" alt="admin" />
     
 </div>
 
@@ -253,7 +253,7 @@ Option to create a new group is available in the **paid plans** only. To create 
 - Once the group is created, you can add **Apps**, **Users** and set their **Permissions** for that group.
   <div style={{textAlign: 'center'}}>
     
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/manage-users-groups/newgrpadd-v2.png" alt="new group 2"/>
+  <img className="screenshot-full" src="/img/tutorial/manage-users-groups/newgrpadd-v2.png" alt="new group 2"/>
     
   </div>
 

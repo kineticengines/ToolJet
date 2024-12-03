@@ -9,7 +9,7 @@ ToolJet's **multi-environment** helps in streamlining workflows, thereby minimiz
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/multi-env/newmultienv-v2.png" alt="Multi-Environment" />
+<img  className="screenshot-full" src="/img/v2-beta/multi-env/newmultienv-v2.png" alt="Multi-Environment" />
 
 </div>
 
@@ -44,7 +44,7 @@ To configure connection settings for different environments, follow these steps:
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/multi-env/multienvtabs-v2.png" alt="Multi-Environment" />
+<img  className="screenshot-full" src="/img/v2-beta/multi-env/multienvtabs-v2.png" alt="Multi-Environment" />
 
 </div>
 

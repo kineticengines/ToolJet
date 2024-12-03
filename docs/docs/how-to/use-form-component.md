@@ -50,7 +50,7 @@ In this guide, we'll create a simple app that uses a **[Form](/docs/widgets/form
 {{queries.getProducts.data}}
 ```
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/use-form/load-data.png" alt="Table with Data" />
+    <img  className="screenshot-full" src="/img/how-to/use-form/load-data.png" alt="Table with Data" />
 </div>
 
 </div>

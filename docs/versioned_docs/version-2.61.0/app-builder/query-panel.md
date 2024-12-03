@@ -11,7 +11,7 @@ The Query Panel consists of two sections:
 - The **[Query Editor](#query-editor)**, used to configure the selected query.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/qpanel.png" alt="Query Panel" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/qpanel.png" alt="Query Panel" />
 </div>
 
 </div>
@@ -61,7 +61,7 @@ The changes made in the query panel will be saved automatically.
 :::
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/queryeditor.png" alt="Query Panel" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/queryeditor.png" alt="Query Panel" />
 </div>
 
 
@@ -72,7 +72,7 @@ The changes made in the query panel will be saved automatically.
 Apart from the query editor, the query name is displayed at the top of the query panel. Click on it to make edits and customize the query name as needed.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/queryrename.gif" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/queryrename.gif" alt="Query Editor" />
 </div>
 
 </div>
@@ -92,7 +92,7 @@ For each parameter, you need to specify:
 Learn more about **[Using Custom Parameters](/docs/how-to/use-custom-parameters)**.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/queryparams.png" alt="Custom Parameters" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/queryparams.png" alt="Custom Parameters" />
 </div>
 
 </div>
@@ -106,7 +106,7 @@ The Preview button allows you to preview the data returned by the query. The dat
 Data preview is available in two formats: **Raw** and **JSON**. Click the clear button to reset the preview data.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/preview.gif" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/preview.gif" alt="Query Editor" />
 </div>
 
 </div>
@@ -118,7 +118,7 @@ Data preview is available in two formats: **Raw** and **JSON**. Click the clear 
 The Run button triggers the query, causing it to interact with the application. This action differs from the `Preview` feature.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/run.gif" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/run.gif" alt="Query Editor" />
 </div>
 
 </div>
@@ -135,7 +135,7 @@ Query Configuration allows you to set vital values that are necessary to generat
 The set of configuration options you get depend on the type of data source. 
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/params.png" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/params.png" alt="Query Editor" />
 </div>
 
 #### Data Source
@@ -145,7 +145,7 @@ The primary and default parameter for all queries is **data source**. This optio
 In cases where multiple data sources of the same type are connected, easily switch the query's data source using the dropdown menu.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/switch.png" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/switch.png" alt="Query Editor" />
 </div>
 
 </div>
@@ -157,7 +157,7 @@ In cases where multiple data sources of the same type are connected, easily swit
 Queries can be enhanced with transformations to modify the query results. ToolJet supports transformations using two programming languages: JavaScript & Python. Refer to the detailed documentation on **[Transformations](/docs/tutorial/transformations)** for more information.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/transform.gif" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/transform.gif" alt="Query Editor" />
 </div>
 
 </div>
@@ -167,7 +167,7 @@ Queries can be enhanced with transformations to modify the query results. ToolJe
 ### Settings
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/settings.png" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/settings.png" alt="Query Editor" />
 </div>
 
 #### Run this query on application load?
@@ -211,7 +211,7 @@ Learn more about [Event Handlers and Actions](/docs/widgets/overview#component-e
 :::
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/events.png" alt="Query Editor" />
+    <img  className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui2/events.png" alt="Query Editor" />
 </div>
 
 </div>

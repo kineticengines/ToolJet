@@ -24,7 +24,7 @@ You can import various JavaScript libraries using their Content Delivery Network
 - Once the app is ready, choose ToolJet's deafult **JavaScript** Data Source from the query panel. 
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/import-js/create-new-query-v2.png" alt="Create a new RunJS query" />
+ <img  className="screenshot-full" src="/img/how-to/import-js/create-new-query-v2.png" alt="Create a new RunJS query" />
 </div>
 
 </div>
@@ -72,7 +72,7 @@ Enable the **Run this query on application load?** option to make the libraries 
 :::
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/import-js/import-successful-v2.png" alt="Import Successful" />
+ <img  className="screenshot-full" src="/img/how-to/import-js/import-successful-v2.png" alt="Import Successful" />
 </div>
 
 </div>
@@ -105,7 +105,7 @@ return flatten({
 - Preview the output in the query manager or click **Run** in the query panel to see the flattened JSON.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/import-js/flatten-js-v2.png" alt="Use FlattenJS" />
+ <img  className="screenshot-full" src="/img/how-to/import-js/flatten-js-v2.png" alt="Use FlattenJS" />
 </div>
 
 </div>
@@ -124,7 +124,7 @@ return math.atan2(3, -3) / math.pi;
 - Preview the output in the query manager or click **Run** in the query panel to see the result of the calculation.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/import-js/math-js-v2.png" alt="Use MathJs" />
+ <img  className="screenshot-full" src="/img/how-to/import-js/math-js-v2.png" alt="Use MathJs" />
 </div>
 
 </div>

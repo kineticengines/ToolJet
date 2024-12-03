@@ -50,7 +50,7 @@ In this guide we will learn how to use server side pagination in table component
 
 - Set the value of the **Table data** property to `{{queries.<postgresquery>.data}}`
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/server-side/data.png" alt="Table data" />
+    <img  className="screenshot-full" src="/img/how-to/server-side/data.png" alt="Table data" />
   </div>
   
 - Enable the **Server-side pagination** option
@@ -67,7 +67,7 @@ In this guide we will learn how to use server side pagination in table component
    {{queries.<countquery>.data[0].count}}
    ```
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/server-side/pagination.png" alt="Table data" />
+    <img  className="screenshot-full" src="/img/how-to/server-side/pagination.png" alt="Table data" />
   </div>
 
 - Now, the last step is to set the **loading state** and add the **event handler**:
@@ -77,11 +77,11 @@ In this guide we will learn how to use server side pagination in table component
      ```
    - **Event Handler**: Select the **Page changed** event and choose the **Run Query** action. Then, select the **Query** from the dropdown that fetches data from the PostgreSQL table
      <div style={{textAlign: 'center'}}>
-      <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/server-side/event.png" alt="Table data" />
+      <img  className="screenshot-full" src="/img/how-to/server-side/event.png" alt="Table data" />
      </div>
 
 Now, whenever the page is changed, the query will be executed, and the data will be fetched from the PostgreSQL table in chunks.
 
   <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/server-side/change.gif" alt="Table data" />
+    <img  className="screenshot-full" src="/img/how-to/server-side/change.gif" alt="Table data" />
   </div>

@@ -21,7 +21,7 @@ Build an app with a set of tabs for each record. Each tab will have a set of fie
 </div>
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/appui.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/appui.png" alt="Print data from multiple tabs" />
 </div>
 
 ## Load data from database
@@ -30,7 +30,7 @@ Build an app with a set of tabs for each record. Each tab will have a set of fie
 For this app, we are using tooljet database with table name `patient_data`. We created a query called `getPatientList` to fetch data from the database.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/data.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/data.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -52,7 +52,7 @@ Before we start creating the javascript queries, we need to add a few events to 
 **Note**: We will create the `viewTabs` query later in this guide, so you will need to add the event to the button after you've created the query.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/buttonevents.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/buttonevents.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -77,7 +77,7 @@ if ((variables?.tabIndex ?? undefined) == undefined) {
 For the first Query Success event, we will add a `Control component` action which will `Run only if` `{{parseInt(variables.tabIndex) < 5}}` is true, i.e. if the tabIndex is less than 5. This action will control the `Tabs` component to `Set current tab` to `{{variables.tabIndex}}`. This will set the current tab to the tab with id stored in the `tabIndex` variable, i.e. it will set the current tab to the tab whose id got recently stored in the tabIndex variable via the viewTabs query.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/q1.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/q1.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -91,7 +91,7 @@ For the second Query Success event, we will select `Run Query` action which will
 **Note:** we will create the `getTabsHTML` query later in this guide, so you will need to add the event to the button after you've created the query.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/q2.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/q2.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -105,7 +105,7 @@ For the third Query Success event, we will select `Run Query` action which will 
 **Note:** we will create the `printPDF` query later in this guide, so you will need to add the event to the button after you've created the query.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/q3.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/q3.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -140,7 +140,7 @@ actions.setVariable( // set tabsHtml variable
 This event will have an action to `Run Query` named `viewTabs`. This will run the `viewTabs` query after the `getTabsHTML` query is successfully executed.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/gettabshtml.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/gettabshtml.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -192,7 +192,7 @@ winPrint.close();
 This event will have an action to `Unset Variable` named `tabsIndex`. This will unset the `tabsIndex` variable after the `printPDF` query is successfully executed.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/unsetvar1.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/unsetvar1.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -204,7 +204,7 @@ This event will have an action to `Unset Variable` named `tabsIndex`. This will 
 This event will have an action to `Unset Variable` named `tabsHtml`. This will unset the `tabsHtml` variable after the `printPDF` query is successfully executed.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/unsetvar2.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/unsetvar2.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -216,7 +216,7 @@ This event will have an action to `Unset Variable` named `tabsHtml`. This will u
 This event will have an action to `Control component`. This will control the `Tabs` component to `Set current tab` to `{{variables.lastSelectedTab}}` after the `printPDF` query is successfully executed. This will set the current tab to the tab that was selected before the `Download` button was clicked.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/print-multitabs/controlcomp2.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/print-multitabs/controlcomp2.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>

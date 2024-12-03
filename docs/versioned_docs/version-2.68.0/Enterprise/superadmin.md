@@ -49,7 +49,7 @@ If a user is a Super Admin, they can switch to any workspace created by any user
 The dropdown will display all workspaces, including those created by both Super Admins and any other users.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/superadmin/workspaceswitcher.png" alt="Superadmin: settings" />
+ <img  className="screenshot-full" src="/img/enterprise/superadmin/workspaceswitcher.png" alt="Superadmin: settings" />
 </div>
 
 ### Create, Edit or Delete apps from any user's personal workspace
@@ -65,7 +65,7 @@ Super Admin can not only archive/unarchive users/admins on their workspace but a
 If a user is Super Admin, they just need to open the workspace in which they want to archive or unarchive a user. Then go to the **Workspace Settings** from the sidebar -> **Manage Users** -> **Archive/Unarchive** any user/admin
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/superadmin/archiveusersa.png" alt="Superadmin: settings" />
+ <img  className="screenshot-full" src="/img/enterprise/superadmin/archiveusersa.png" alt="Superadmin: settings" />
 </div>
 
 ###  Access ToolJet DB in any workspace
@@ -111,7 +111,7 @@ Only Super Admins can access the Settings. To access the Settings page, click on
 **All Users** settings can be used to check the list of all the users available on all the workspaces in the instance. Super Admins can also promote/demote any user to/from Super Admin from this page. They can also archive/unarchive any user at an instance level from this setting.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/superadmin/allusers1.png" alt="Superadmin: settings" />
+ <img  className="screenshot-full" src="/img/enterprise/superadmin/allusers1.png" alt="Superadmin: settings" />
 </div>
 
 ### Archiving a User from all the Workspaces (Instance Level)
@@ -131,7 +131,7 @@ To archive a user, go to the **All Users** settings, click on the kebab menu nex
 **Info**: The user will be unarchived from instance level automatically if a workspace admin unarchives the user from their workspace.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/superadmin/unarchiveinstance.png" alt="Superadmin: settings" />
+ <img  className="screenshot-full" src="/img/enterprise/superadmin/unarchiveinstance.png" alt="Superadmin: settings" />
 </div>
 
 ### Reset Password of any User
@@ -151,7 +151,7 @@ On selecting the **Edit user details** option, a drawer will open from the right
 From the **Edit user details** drawer, Super Admins can make any user as Super Admin or remove any Super Admin from the **All Users** settings. To make a user Super Admin, toggle on the **Super Admin** radio button. The user will become Super Admin and the Type column will update from **`Workspace`** to **`Instance`**.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/superadmin/edituserdetailsinstance.png" alt="Superadmin: settings" />
+ <img  className="screenshot-full" src="/img/enterprise/superadmin/edituserdetailsinstance.png" alt="Superadmin: settings" />
 </div>
 
 </div>

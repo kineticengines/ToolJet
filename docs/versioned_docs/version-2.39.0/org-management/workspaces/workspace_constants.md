@@ -63,7 +63,7 @@ To create workspace constants, follow these steps:
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/create-constant-v2.gif" alt="Workspace constants: create"/>
+<img  className="screenshot-full" src="/img/workspace-const/create-constant-v2.gif" alt="Workspace constants: create"/>
     
 </div>
 
@@ -71,7 +71,7 @@ To create workspace constants, follow these steps:
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/edit-delete-v2.png" alt="Workspace constants: edit/delete"/>
+<img className="screenshot-full" src="/img/workspace-const/edit-delete-v2.png" alt="Workspace constants: edit/delete"/>
 
 </div>
 
@@ -93,7 +93,7 @@ You can use workspace constants in the **[datasource connection](/docs/data-sour
 
  <div style={{textAlign: 'center'}}>
 
- <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/globaldatasource.png" alt="Workspace constants: global datasource"/>
+ <img className="screenshot-full" src="/img/workspace-const/globaldatasource.png" alt="Workspace constants: global datasource"/>
 
  </div>
 
@@ -107,7 +107,7 @@ Inside the App Builder, you will find the **[Inspector](/docs/app-builder/left-s
 
  <div style={{textAlign: 'center'}}>
 
- <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/inspector-v2.png" alt="Workspace constants: inspector"/>
+ <img className="screenshot-full" src="/img/workspace-const/inspector-v2.png" alt="Workspace constants: inspector"/>
 
  </div>
 

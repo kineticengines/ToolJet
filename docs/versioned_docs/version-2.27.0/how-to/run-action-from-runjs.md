@@ -24,7 +24,7 @@ await actions.runQuery('queryName');
 In the following screenshot, we demonstrate triggering two different queries, `getCustomers` and `updateCustomers`, using the two available syntax options for the `Run Query` action.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/runqueryn.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/runqueryn.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -44,7 +44,7 @@ actions.setVariable(variableName, variableValue);
 In this example, we set two variables, `test` and `test2`. Note that `test` contains a numerical value, so it is not wrapped in quotes, while `test2` is a string and is wrapped in quotes.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/setvariablen.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/setvariablen.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -64,7 +64,7 @@ actions.unSetVariable(variableName);
 In the following screenshot, we unset the variable `test2` that was created in the previous step.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/unsetvarn.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/unsetvarn.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -84,7 +84,7 @@ actions.logout();
 Executing `actions.logout()` will log out the current user from ToolJet and redirect to the sign-in page.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/logoutn.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/logoutn.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -104,7 +104,7 @@ actions.showModal('modalName');
 In this example, a modal named `formModal` is present on the canvas, and we use a RunJS query to show the modal.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/showmodaln.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/showmodaln.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -124,7 +124,7 @@ actions.closeModal('modalName');
 Here, we use a RunJS query to close the modal that was shown in the previous step.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/closemodaln.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/closemodaln.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -140,7 +140,7 @@ actions.setLocalStorage('key', 'value');
 ```
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/setlocaln.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/setlocaln.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -156,7 +156,7 @@ actions.copyToClipboard('contentToCopy');
 ```
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/copytoclip.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/copytoclip.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -190,7 +190,7 @@ actions.generateFile('Pdffile1', 'pdf', '{{components.table1.currentPageData}}')
 ```
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/generatefilen.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/generatefilen.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -210,7 +210,7 @@ actions.goToApp('slug', queryparams)
 - Only the apps that are released can be accessed using this action.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/gotoappn.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/gotoappn.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>
@@ -232,7 +232,7 @@ actions.showAlert('error', 'This is an error')
 ```
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/run-actions-from-runjs/showalertn.png" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/run-actions-from-runjs/showalertn.png" alt="Print data from multiple tabs" />
 </div>
 
 </div>

@@ -29,7 +29,7 @@ This method allows you to add a sample data source to an existing application th
 
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/sample-data-sources/connect-via-canvas.gif" alt="Connect via Canvas" />
+    <img  className="screenshot-full" src="/img/datasource-reference/sample-data-sources/connect-via-canvas.gif" alt="Connect via Canvas" />
 </div>
 
 
@@ -44,7 +44,7 @@ This method allows you to connect the sample data source to an existing applicat
 
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/sample-data-sources/connect-via-query-manager.gif" alt="Connect via query manager" />
+    <img  className="screenshot-full" src="/img/datasource-reference/sample-data-sources/connect-via-query-manager.gif" alt="Connect via query manager" />
 </div>
 
 
@@ -59,7 +59,7 @@ This method enables the creation of a sample application with a pre-configured c
    5. By default, this application will feature a table component with tabs. These tabs will visually display the data retrieved from your sample data source.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/sample-data-sources/create-sample-app.gif" alt="Create Sample App" />
+    <img  className="screenshot-full" src="/img/datasource-reference/sample-data-sources/create-sample-app.gif" alt="Create Sample App" />
 </div>
 
  ## Sample Data Source Schema

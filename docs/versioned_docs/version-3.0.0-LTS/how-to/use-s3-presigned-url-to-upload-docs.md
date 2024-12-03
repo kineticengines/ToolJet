@@ -45,7 +45,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/uses3presignedurl/getbuckets-v2.png" alt="Use S3 pre-signed URL to upload documents: getBuckets query"/>
+  <img  className="screenshot-full" src="/img/how-to/uses3presignedurl/getbuckets-v2.png" alt="Use S3 pre-signed URL to upload documents: getBuckets query"/>
 
   </div>
 
@@ -55,7 +55,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/uses3presignedurl/dropdown-v2.png" alt="Use S3 pre-signed URL to upload documents: loading buckets"/>
+  <img  className="screenshot-full" src="/img/how-to/uses3presignedurl/dropdown-v2.png" alt="Use S3 pre-signed URL to upload documents: loading buckets"/>
 
   </div>
 
@@ -71,7 +71,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/uses3presignedurl/fetchfiles-v2.png" alt="Use S3 pre-signed URL to upload documents: list objects in a bucket"/>
+  <img  className="screenshot-full" src="/img/how-to/uses3presignedurl/fetchfiles-v2.png" alt="Use S3 pre-signed URL to upload documents: list objects in a bucket"/>
 
   </div>
 
@@ -93,7 +93,7 @@ After setting up the parameters, click **Run** to run the query, and the URL can
 
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/uses3presignedurl/get-signed-url.png" alt="Use S3 pre-signed URL to upload documents: get signed URL"/>
+  <img  className="screenshot-full" src="/img/how-to/uses3presignedurl/get-signed-url.png" alt="Use S3 pre-signed URL to upload documents: get signed URL"/>
 
   </div>
 

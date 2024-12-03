@@ -9,7 +9,7 @@ A **Bounded Box** is an infinitely customizable image annotation component that 
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/bounded-box/bounded-box.png" alt="Bounded Box" />
+<img  className="screenshot-full" src="/img/widgets/bounded-box/bounded-box.png" alt="Bounded Box" />
 
 </div>
 
@@ -125,7 +125,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 <div style={{textAlign: 'left'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/bounded-box/tooltip1.png" alt="Bounded box Tooltip"/>
+<img  className="screenshot-full" src="/img/widgets/bounded-box/tooltip1.png" alt="Bounded box Tooltip"/>
 
 </div>
 

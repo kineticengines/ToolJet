@@ -10,7 +10,7 @@ In this guide, we'll walk through the process of building a ToolJet application 
 Begin by creating a new application in the ToolJet dashboard. Once the app builder opens, Drag a table component onto the canvas. This component will display the data fetched from the REST API query.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/setinterval/table.png" alt="Table Component With Data" />
+ <img  className="screenshot-full" src="/img/how-to/setinterval/table.png" alt="Table Component With Data" />
 </div>
 
 ## Step 2: Set Up a REST API Query
@@ -18,7 +18,7 @@ Begin by creating a new application in the ToolJet dashboard. Once the app build
 From the query panel, create a new REST API query. Utilize mock REST API data by choosing the 'GET' method and specifying the endpoint (e.g., `https://jsonplaceholder.typicode.com/posts`). Name the query 'post' and `Run` the query to ensure that the data is fetched successfully.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/setinterval/queryprev.png" alt="Table Component With Data" />
+ <img  className="screenshot-full" src="/img/how-to/setinterval/queryprev.png" alt="Table Component With Data" />
 </div>
 
 ## Step 3: Configure Table Properties
@@ -26,7 +26,7 @@ From the query panel, create a new REST API query. Utilize mock REST API data by
 In the Table properties, link the query data to the table by setting the 'table data' property to `{{queries.post.data}}`. This establishes the connection between the REST API query and the table component.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/setinterval/queryp.png" alt="Table Component With Data" />
+ <img  className="screenshot-full" src="/img/how-to/setinterval/queryp.png" alt="Table Component With Data" />
 </div>
 
 ## Step 4: Implement the RunJS Query
@@ -58,7 +58,7 @@ async function countdown(){
 From the Settings section of the RunJS query, enable 'Run query on page load.' This ensures that the query is triggered when the application is loaded. Rename the query as 'setInterval' to complete the configuration.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/setinterval/settings.png" alt="Table Component With Data" />
+ <img  className="screenshot-full" src="/img/how-to/setinterval/settings.png" alt="Table Component With Data" />
 </div>
 
 ## Step 6: Prevent Indefinite Triggering
@@ -74,7 +74,7 @@ clearInterval(variables.interval);
 Drag a button on the canvas to act as a user-triggered stop mechanism. Attach an event handler to execute the 'clear' query when the button is clicked.
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/setinterval/clearint.png" alt="Table Component With Data" />
+ <img  className="screenshot-full" src="/img/how-to/setinterval/clearint.png" alt="Table Component With Data" />
 </div>
 
 <div>

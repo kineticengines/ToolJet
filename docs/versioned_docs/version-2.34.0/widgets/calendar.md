@@ -11,7 +11,7 @@ Calendar widget comes with the following features:
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/calendar/calendar.png" alt="ToolJet - Widget Reference - Calendar" />
+<img  className="screenshot-full" src="/img/widgets/calendar/calendar.png" alt="ToolJet - Widget Reference - Calendar" />
 
 </div>
 
@@ -96,7 +96,7 @@ If we specify the `resourceId` of any of the events as `1`, then that event will
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/calendar/calendar-resource.png" alt="ToolJet - Widget Reference - Calendar" />
+<img  className="screenshot-full" src="/img/widgets/calendar/calendar-resource.png" alt="ToolJet - Widget Reference - Calendar" />
 
 </div>
 

@@ -29,7 +29,7 @@ In this step-by-step guide, we'll walk you through the process of creating a Run
 Refer to the screencast below:
 
 <div style={{textAlign: 'center'}}>
- <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/failjs/failjsn.gif" alt="reate a new RunJS query" />
+ <img  className="screenshot-full" src="/img/how-to/failjs/failjsn.gif" alt="reate a new RunJS query" />
 </div>
 
 </div>

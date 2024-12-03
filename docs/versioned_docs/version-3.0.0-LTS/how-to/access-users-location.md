@@ -14,12 +14,12 @@ To uphold user privacy, the Geolocation API requests permission before locating 
 
 1. Begin by creating a new application:
   <div style={{textAlign: 'center'}}>
-   <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/access-location/newapp.png" alt="How to: Access User's Location" />
+   <img  className="screenshot-full" src="/img/how-to/access-location/newapp.png" alt="How to: Access User's Location" />
   </div>
 
 2. In the app editor, navigate to the query panel at the bottom and create a **[RunJS query](/docs/data-sources/run-js/#runjs-query-examples)** by selecting **Run JavaScript Code** as the datasource:
   <div style={{textAlign: 'center'}}>
-   <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/access-location/runjsq.png" alt="How to: Access User's Location" />
+   <img  className="screenshot-full" src="/img/how-to/access-location/runjsq.png" alt="How to: Access User's Location" />
   </div>
 
 3. Utilize the following JavaScript code to employ the Geolocation API and retrieve the location:
@@ -45,12 +45,12 @@ To uphold user privacy, the Geolocation API requests permission before locating 
 
 5. Upon clicking **Run**, your browser prompts you to grant permission for the ToolJet app to access your location. Allow this permission to receive location data.
   <div style={{textAlign: 'center'}}>
-   <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/access-location/newprompt.png" alt="How to: Access User's Location" />
+   <img  className="screenshot-full" src="/img/how-to/access-location/newprompt.png" alt="How to: Access User's Location" />
   </div>
 
 7. Once the query is succesfully run, the coordinates will be returned and displayed in the **Preview** section of query editor. To inspect the data returned by the query, go to the **Inspector** on the left sidebar, expand queries -> `runjs1` (query name), and then examine the **data**. You'll find the coordinates.
   <div style={{textAlign: 'center'}}>
-   <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/access-location/newdata.png" alt="How to: Access User's Location" />
+   <img  className="screenshot-full" src="/img/how-to/access-location/newdata.png" alt="How to: Access User's Location" />
   </div>
 
 8. Utilize these coordinates in the **map component** to display the location. Add a map component to the canvas and edit its properties. In the **Initial location** property, enter:
@@ -59,7 +59,7 @@ To uphold user privacy, the Geolocation API requests permission before locating 
   ```
   
   <div style={{textAlign: 'center'}}>
-   <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/access-location/newmap.png" alt="How to: Access User's Location" />
+   <img  className="screenshot-full" src="/img/how-to/access-location/newmap.png" alt="How to: Access User's Location" />
   </div>
 
 9. Once the Map component properties are updated, you'll see the location displayed on the **map component**. 

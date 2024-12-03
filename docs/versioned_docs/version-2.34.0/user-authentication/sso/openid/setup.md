@@ -11,21 +11,21 @@ title: OpenID Setup
 - Go to the **Workspace Settings** (⚙️) from the left sidebar in the ToolJet dashboard
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/sso/general/workside2-new.png" alt="General Settings: SSO" />
+  <img className="screenshot-full" src="/img/sso/general/workside2-new.png" alt="General Settings: SSO" />
 
   </div>
 
 - Select `SSO` from workspace options
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/sso/okta/sso2-new.png" alt="Okta: SSO" width="500"/> 
+  <img className="screenshot-full" src="/img/sso/okta/sso2-new.png" alt="Okta: SSO" width="500"/> 
 
   </div>
 
 - Select `OpenId Connect`.
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/sso/openid/openid.png" alt="Okta: SSO" /> 
+  <img className="screenshot-full" src="/img/sso/openid/openid.png" alt="Okta: SSO" /> 
 
   </div>
 

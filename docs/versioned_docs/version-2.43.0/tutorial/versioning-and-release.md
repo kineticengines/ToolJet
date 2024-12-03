@@ -31,7 +31,7 @@ You can create new versions from **App Version Manager** on the top-right corner
 - Click on **Create new version** button present at the bottom of the dropdown and a modal will pop-up. Enter a **Version Name** and click on **Create version from** dropdown that will include all the versions of the app, choose a version from the dropdown that you want to use for your new version or ToolJet will automatically select the last created version, and then click on `Create new Version` button to add a new version.
   <div style={{textAlign: 'center'}}>
 
-  <img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/tutorial/versioning-and-release/newpopup.png" alt="modal"/>
+  <img className="screenshot-full" src="/img/tutorial/versioning-and-release/newpopup.png" alt="modal"/>
 
   </div>
 

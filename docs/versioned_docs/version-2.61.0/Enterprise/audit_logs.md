@@ -10,7 +10,7 @@ The audit log is the report of all the activities done in your ToolJet account. 
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/audit_logs/logsnew-v2.png" alt="Audit logs" />
+<img className="screenshot-full" src="/img/enterprise/audit_logs/logsnew-v2.png" alt="Audit logs" />
 
 </div>
 
@@ -26,7 +26,7 @@ Pagination at the bottom allows navigation through the pages, with each page dis
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/enterprise/audit_logs/filtersnew-v2.png" alt="Audit logs" />
+<img className="screenshot-full" src="/img/enterprise/audit_logs/filtersnew-v2.png" alt="Audit logs" />
 
 </div>
 

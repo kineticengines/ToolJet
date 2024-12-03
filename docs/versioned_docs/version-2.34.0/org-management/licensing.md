@@ -75,13 +75,13 @@ As a super admin, you can conveniently view the remaining days of your enterpris
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/licensing/licensingpage2-v2.png" alt="Licensing" />
+<img className="screenshot-full" src="/img/licensing/licensingpage2-v2.png" alt="Licensing" />
 
 </div>
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/licensing/licensingpage3-v2.png" alt="Licensing" />
+<img className="screenshot-full" src="/img/licensing/licensingpage3-v2.png" alt="Licensing" />
 
 </div>
 
@@ -96,7 +96,7 @@ If your business or enterprise edition license key is nearing expiration, please
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ width:'100%', border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/licensing/licensingpage4-v2.png" alt="Licensing" />
+<img className="screenshot-full" src="/img/licensing/licensingpage4-v2.png" alt="Licensing" />
 
 </div>
 

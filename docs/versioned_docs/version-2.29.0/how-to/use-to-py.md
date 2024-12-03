@@ -52,5 +52,5 @@ Both representations are correct, with the JSON tab showcasing converted data co
 To maintain consistency between JSON and Raw representations, the **to_js()** function provided by Pyodide can explicitly convert Python dictionaries to JavaScript objects. This ensures alignment between representations and guarantees that the data is in the desired format.
 
 <div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/how-to/to_py/topy.gif" alt="Print data from multiple tabs" />
+    <img  className="screenshot-full" src="/img/how-to/to_py/topy.gif" alt="Print data from multiple tabs" />
 </div>

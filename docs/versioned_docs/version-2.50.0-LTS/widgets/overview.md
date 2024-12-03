@@ -71,7 +71,7 @@ Event handlers for components have the following properties:
 
 <div style={{textAlign: 'center'}}>
 
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/widgets/overview/isvalid.png" alt="Event Handler" />
+<img  className="screenshot-full" src="/img/widgets/overview/isvalid.png" alt="Event Handler" />
 
 </div>
 

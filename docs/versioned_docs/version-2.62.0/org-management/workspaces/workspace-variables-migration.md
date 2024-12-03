@@ -24,7 +24,7 @@ To migrate from Workspace Variables to Workspace Constants, follow these steps:
 
 <div style={{textAlign: 'center'}}>
     
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/create-constant-v2.gif" alt="Workspace constants: create"/>
+<img  className="screenshot-full" src="/img/workspace-const/create-constant-v2.gif" alt="Workspace constants: create"/>
     
 </div>
 
@@ -37,7 +37,7 @@ Once you have migrated all the Workspace Variables to Workspace Constants, you c
 - For example, if you have a Client Workspace Variable like `%%client.pi%%`, replace it with `{{constants.pi}}`.
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/client-side-variable.gif" alt="Workspace constants"/>
+<img  className="screenshot-full" src="/img/workspace-const/client-side-variable.gif" alt="Workspace constants"/>
 </div>
 
 ### Replacing Server Workspace Variables with Workspace Constants
@@ -46,7 +46,7 @@ Once you have migrated all the Workspace Variables to Workspace Constants, you c
 - For example, if you have a Server Workspace Variable like `%%server.psql_host%%`, replace it with `{{constants.psql_host}}`.
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/server-side-variable.gif" alt="Workspace constants"/>
+<img  className="screenshot-full" src="/img/workspace-const/server-side-variable.gif" alt="Workspace constants"/>
 </div>
 
 
@@ -58,5 +58,5 @@ Once you have migrated all the Workspace Variables to Workspace Constants, and t
 - Click on the delete icon next to the Workspace Variable you want to delete.
 
 <div style={{textAlign: 'center'}}>
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/workspace-const/delete-variable.gif" alt="Workspace constants"/>
+<img  className="screenshot-full" src="/img/workspace-const/delete-variable.gif" alt="Workspace constants"/>
 </div>
