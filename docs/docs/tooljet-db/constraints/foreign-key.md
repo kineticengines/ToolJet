@@ -5,7 +5,7 @@ title: Foreign Key
 
 A foreign key relation refers to linking one column or set of columns of the current table with one column or set of columns in an existing table. This relationship establishes a connection between the two tables, enabling the current source table to reference the existing target table. While creating a Foreign Key relationship, you can select the desired [action](#foreign-key-actions) to be performed on the source row when the referenced(target) row is updated or deleted.
 
-<div >
+<div>
 
 ## Constraints
 - The target table must contain a column having the same data type as the column in the source table.
@@ -22,7 +22,7 @@ A foreign key relation refers to linking one column or set of columns of the cur
 
 </div>
 
-<div >
+<div>
 
 ## Creating Foreign Key
 
@@ -41,7 +41,7 @@ To create a Foreign Key relationship, follow these steps:
 
 </div>
 
-<div >
+<div>
 
 ## Foreign Key Actions
 
@@ -67,7 +67,7 @@ When creating a foreign key relationship, ToolJet Database lets you choose from 
 
 </div>
 
-<div >
+<div>
 
 ## Referential Integrity
 

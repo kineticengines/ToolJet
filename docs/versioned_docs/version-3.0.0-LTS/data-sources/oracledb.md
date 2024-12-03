@@ -5,7 +5,7 @@ title: Oracle DB
 
 ToolJet can connect to Oracle databases to read and write data.
 
-<div >
+<div>
 
 ## Connection
 
@@ -49,7 +49,7 @@ The instant client version affects which Oracle Database versions you can connec
 
 </div>
 
-<div >
+<div>
 
 ## Querying Oracle DB
 
@@ -60,7 +60,7 @@ The instant client version affects which Oracle Database versions you can connec
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

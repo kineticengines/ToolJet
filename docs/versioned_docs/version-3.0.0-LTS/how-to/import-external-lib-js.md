@@ -8,7 +8,7 @@ ToolJet allows you to integrate external JavaScript libraries into your applicat
 
 </div>
 
-<div >
+<div>
 
 ## Choosing Libraries
 
@@ -16,7 +16,7 @@ You can import various JavaScript libraries using their Content Delivery Network
 
 </div>
 
-<div >
+<div>
 
 ## Creating a New App and RunJS Query
 
@@ -29,13 +29,13 @@ You can import various JavaScript libraries using their Content Delivery Network
 
 </div>
 
-<div >
+<div>
 
 ## Importing Libraries
 
 Once the query is created, add the following code:
 
-<div >
+<div>
 
 ```js
 // Function to add script dynamically
@@ -77,13 +77,13 @@ Enable the **Run this query on application load?** option to make the libraries 
 
 </div>
 
-<div >
+<div>
 
 ## Examples
 
 </div>
 
-<div >
+<div>
 
 ### 1. Flattening JSON Objects using FlattenJS
 
@@ -110,7 +110,7 @@ return flatten({
 
 </div>
 
-<div >
+<div>
 
 ### 2. Computation using MathJS
 

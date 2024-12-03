@@ -9,7 +9,7 @@ Data sources are pivotal as they enable us to fetch and send data to and from di
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XIDE_zA5VGc?si=n5j4WFcl75Baae1w&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div >
+<div>
 
 ## Types and Management of Data Sources
 
@@ -21,7 +21,7 @@ Apart from its built-in database, ToolJet supports a range of external data sour
 
 </div>
 
-<div >
+<div>
 
 ## Adding a Data Source
 

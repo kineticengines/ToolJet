@@ -5,7 +5,7 @@ title: MySQL
 
 ToolJet can connect to MySQL databases to read and write data.
 
-<div >
+<div>
 
 ## Connection
 
@@ -53,7 +53,7 @@ If you are using **Socket** as the connection type, you will need to provide the
 
 </div>
 
-<div >
+<div>
 
 ## Querying MySQL
 

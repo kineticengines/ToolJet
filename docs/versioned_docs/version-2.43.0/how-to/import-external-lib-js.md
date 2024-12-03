@@ -2,7 +2,7 @@
 id: import-external-libraries-using-runjs
 title: Import External Libraries using RunJS
 ---
-<div >
+<div>
 
 ToolJet allows you to integrate external JavaScript libraries into your application using RunJS queries. This guide walks you through the process of importing and utilizing these libraries effectively.
 

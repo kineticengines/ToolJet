@@ -35,7 +35,7 @@ ToolJet is a low-code platform that enables developers to rapidly build and depl
 
 </div>
 
-<div >
+<div>
 
 Below is a detailed overview of ToolJet's key functionalities, demonstrating how ToolJet helps teams to build more with less effort and greater efficiency. 
 

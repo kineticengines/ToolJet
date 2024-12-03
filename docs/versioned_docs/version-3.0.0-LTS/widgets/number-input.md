@@ -5,7 +5,7 @@ title: Number Input
 
 The **Number Input** component allows users to enter numeric values. It can be used as a standalone component or in form fields. In this document, we'll go through all the configuration options for the **Number Input** component. 
 
-<div >
+<div>
 
 ## Properties
 
@@ -18,7 +18,7 @@ The **Number Input** component allows users to enter numeric values. It can be u
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -35,7 +35,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get detailed 
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -57,7 +57,7 @@ Check the **component specific actions** available for this component **[here](/
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -73,7 +73,7 @@ Check the **component specific actions** available for this component **[here](/
 
 </div>
 
-<div >
+<div>
 
 ## Validation
 
@@ -93,7 +93,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Additional Actions
 
@@ -106,7 +106,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -121,7 +121,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 # Styles 
 
-<div >
+<div>
 
 ## Label
 
@@ -133,7 +133,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Field
 
@@ -150,7 +150,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Container
 

@@ -18,7 +18,7 @@ ToolJet offers two types of constants:
 
 </div>
 
-<div >
+<div>
 
 ## Characteristics and Usage
 
@@ -89,7 +89,7 @@ Once a constant or secret is created, its type cannot be changed. You'll need to
 
 </div>
 
-<div >
+<div>
 
 ## Using Global Constants
 
@@ -150,7 +150,7 @@ Secrets cannot be used within the App Builder or workflows.
 
 </div>
 
-<div >
+<div>
 
 ## Best Practices
 

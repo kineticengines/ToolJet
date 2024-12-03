@@ -5,7 +5,7 @@ title: Baserow
 
 ToolJet can connect to your Baserow account to read and write data.
 
-<div >
+<div>
 
 ## Connection
 
@@ -25,7 +25,7 @@ ToolJet requires the following to connect to Baserow:
 
 </div>
 
-<div >
+<div>
 
 ## Querying Baserow
 
@@ -38,7 +38,7 @@ ToolJet requires the following to connect to Baserow:
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

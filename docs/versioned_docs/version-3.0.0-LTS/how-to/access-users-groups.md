@@ -15,7 +15,7 @@ Let's take a look at the exposed variables of the currentUser property by clicki
 
 </div>
 
-<div >
+<div>
 
 ### Example: Disable a Button if a User is Not Admin
 

@@ -3,7 +3,7 @@ id: athena
 title: Athena
 ---
 
-<div >
+<div>
 
 ToolJet can connect to **Amazon Athena** which is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL.
 

@@ -2,7 +2,7 @@
 id: use-events-on-chart
 title: Use Events on Chart Created Through Custom Component
 ---
-<div >
+<div>
 
 This guide will use the Custom Component to create a chart using a third-party library that supports events. Plotly is one of the libraries that supports events. In this tutorial, we will build a chart using Plotly and add events.
 

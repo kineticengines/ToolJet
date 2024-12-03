@@ -2,13 +2,13 @@
 id: use-form-component
 title: Use Form Component
 ---
-<div >
+<div>
 
 In this guide, we'll create a simple app that uses a **[Form](/docs/widgets/form)** component to add records to a database. We'll use **[ToolJet Database](/docs/tooljet-database)** as our data source. 
 
 </div>
 
-<div >
+<div>
 
 ## 1. Create a Table in ToolJet Database 
 - Create a table named *products* in ToolJet Database. 

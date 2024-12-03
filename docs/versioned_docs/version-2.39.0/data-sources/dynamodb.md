@@ -3,7 +3,7 @@ id: dynamodb
 title: DynamoDB
 ---
 
-<div >
+<div>
 
 **DynamoDB** is a managed non-relational database service provided by Amazon. ToolJet has the capability to connect to DynamoDB for reading and writing data.
 

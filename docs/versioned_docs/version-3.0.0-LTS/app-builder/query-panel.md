@@ -11,7 +11,7 @@ The Query Panel consists of two sections:
 
 <img className="screenshot-full" src="/img/v2-beta/app-builder/querypanel/newui3/qpanel-v2.png" alt="Query Panel" />
 
-<div >
+<div>
 
 ## Query Manager
 
@@ -44,7 +44,7 @@ The edit button lets you rename the query, the delete button lets you delete the
 
 </div>
 
-<div >
+<div>
 
 ## Query Editor
 

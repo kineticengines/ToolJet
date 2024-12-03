@@ -5,7 +5,7 @@ title: SendGrid
 
 ToolJet can connect to your SendGrid account to send emails.
 
-<div >
+<div>
 
 ## Connection
 
@@ -22,7 +22,7 @@ The SendGrid API Datasource supports for interaction with the mail endpoint of t
 
 </div>
 
-<div >
+<div>
 
 ## Querying SendGrid
 
@@ -33,7 +33,7 @@ The SendGrid API Datasource supports for interaction with the mail endpoint of t
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

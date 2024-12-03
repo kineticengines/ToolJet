@@ -3,7 +3,7 @@ id: baserow
 title: Baserow
 ---
 
-<div >
+<div>
 
 ToolJet can connect to your Baserow account to read and write data.
 

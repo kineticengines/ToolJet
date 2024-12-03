@@ -8,7 +8,7 @@ This guide shows how to upload and view images and PDFs using the base64 string 
 
 </div>
 
-<div >
+<div>
 
 ## 1. Start by Creating a New Table In ToolJet Database
 
@@ -25,7 +25,7 @@ This guide shows how to upload and view images and PDFs using the base64 string 
 
 </div>
 
-<div >
+<div>
 
 ## 2. Upload Files To The Database
 
@@ -80,7 +80,7 @@ The upload process is now complete. Whenever files are selected in the Filepicke
 
 </div>
 
-<div >
+<div>
 
 ## 3. View Image and PDF Files 
 

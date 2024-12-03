@@ -2,7 +2,7 @@
 id: use-inspector
 title: Use Inspector in App-Builder
 ---
-<div >
+<div>
 
 This guide introduces **Inspector** in the app-builder, a feature that lets you view data related to queries, components, global variables, page-related variables, user-set variables and constants.
 

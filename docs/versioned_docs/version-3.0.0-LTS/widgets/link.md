@@ -5,7 +5,7 @@ title: Link
 
 The **Link** component allows you to add a hyperlink and navigate to the external URL.
 
-<div >
+<div>
 
 ## Properties
 
@@ -17,7 +17,7 @@ The **Link** component allows you to add a hyperlink and navigate to the externa
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -32,7 +32,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -44,7 +44,7 @@ The following actions of the link component can be controlled using the componen
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -52,7 +52,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -63,7 +63,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -76,7 +76,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 
 ----
 
-<div >
+<div>
 
 ## Styles
 

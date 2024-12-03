@@ -13,7 +13,7 @@ The user who creates the workspace will automatically be assigned as its adminis
 
 </div>
 
-<div >
+<div>
 
 ## Hierarchy
 
@@ -25,7 +25,7 @@ The user who creates the workspace will automatically be assigned as its adminis
 
 </div>
 
-<div >
+<div>
 
 ## Permissions
 
@@ -44,7 +44,7 @@ Please check the detailed doc on **[Permissions](/docs/org-management/permission
 
 </div>
 
-<div >
+<div>
 
 ### Disabling Workspace Creation (Super Admin)
 - Only **[Super Admins](/docs/Enterprise/superadmin#restrict-creation-of-personal-workspace-of-users)** can disable the option for creating personal workspaces for a user.

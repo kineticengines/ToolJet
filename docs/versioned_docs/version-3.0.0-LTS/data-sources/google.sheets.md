@@ -5,7 +5,7 @@ title: Google Sheets
 
 ToolJet has the capability to establish a connection with Google Sheet for both reading and writing data. By utilizing OAuth 2.0, ToolJet can establish a secure connection with Google Sheet, ensuring that the application's access to a user's account is restricted and limited appropriately.
 
-<div >
+<div>
 
 ## Self-Hosted Configuration
 
@@ -20,7 +20,7 @@ If you decide to self-host ToolJet, there are a few additional steps you need to
 
 </div>
 
-<div >
+<div>
 
 ## Connection
 
@@ -41,7 +41,7 @@ When connecting to a Google Sheets datasource, you can choose between two permis
 
 </div>
 
-<div >
+<div>
 
 ## Querying Google Sheet
 

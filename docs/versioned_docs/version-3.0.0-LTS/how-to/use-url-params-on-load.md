@@ -15,7 +15,7 @@ Let's take a look at an example below to understand how to use URL parameters on
 
 </div>
 
-<div >
+<div>
 
 ## Using URL Parameters on Page Load to Execute REST API Queries
 
@@ -27,7 +27,7 @@ Create two pages, `Home` and `Dashboard`. When a new app is created, a page name
 
 </div>
 
-<div >
+<div>
 
 ## Home and Dashboard Pages
 
@@ -51,7 +51,7 @@ Now, on clicking the `Submit` button, the `Dashboard` page will be opened with t
 
 </div>
 
-<div >
+<div>
 
 ## Queries and Binding Data
 
@@ -106,7 +106,7 @@ checkAndRunQuery(5000);  // Check if URL parameters are available and run the RE
 
 </div>
 
-<div >
+<div>
 
 ## Dashboard Page Event Handler
 

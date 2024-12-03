@@ -5,7 +5,7 @@ title: Appwrite
 
 ToolJet can connect to appwrite database to read/write data.
 
-<div >
+<div>
 
 ## Connection 
 
@@ -30,7 +30,7 @@ You should also set the scope for access to a particular resource. Learn more ab
 
 </div>
 
-<div >
+<div>
 
 ## Querying Appwrite 
 
@@ -51,7 +51,7 @@ Query results can be transformed using Transformations. Read our **Transformatio
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

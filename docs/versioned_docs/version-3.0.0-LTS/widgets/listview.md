@@ -11,7 +11,7 @@ The **List View** component allows to create a list of repeatable rows of data. 
 Certain components, namely **Calendar** and **Kanban**, are restricted from being placed within the List View component using drag-and-drop functionality.
 :::
 
-<div >
+<div>
 
 ## Setting List Data
 
@@ -41,7 +41,7 @@ Similarly, for an Image component inside List View, you can use the below code t
 
 </div>
 
-<div >
+<div>
 
 ## Properties
 
@@ -57,7 +57,7 @@ Similarly, for an Image component inside List View, you can use the below code t
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -92,7 +92,7 @@ To get detailed information about all the **Actions**, please consult the [Actio
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -100,7 +100,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -115,7 +115,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -126,7 +126,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -137,7 +137,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ---
 
@@ -157,7 +157,7 @@ Any property having **fx** button next to its field can be **programmatically co
 
 </div>
 
-<div >
+<div>
 
 ## Example: Displaying Data in the List View
 
@@ -204,7 +204,7 @@ Use `{{listItem.key}}` to display data on the nested components. Example: For di
 
 </div>
 
-<div >
+<div>
 
 ## Controlling Child Components
 

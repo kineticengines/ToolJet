@@ -3,7 +3,7 @@ id: quickstart-guide
 title: Quickstart Guide
 ---
 
-<!-- <div > -->
+<!-- <div> -->
 
 This quickstart guide walks you through the process of creating an employee directory app using ToolJet. The application lets users track and update employee details while working with core features of the platform, all within a user-friendly interface. Here are the step-by-step instructions:
 
@@ -15,7 +15,7 @@ This quickstart guide walks you through the process of creating an employee dire
 **[6. Use Events to Trigger Queries](#6-use-events-to-trigger-queries)** <br/>
 **[7. Preview, Release and Share](#7-preview-release-and-share)** <br/>
 
-<div >
+<div>
 
 <!-- </div> -->
 
@@ -37,7 +37,7 @@ To begin, create a free **[ToolJet](https://www.tooljet.com/signup)** account an
 
 </div>
 
-<div >
+<div>
 
 ### 2. Create a Database Table
 Now, create a new table in **[ToolJet’s Database](/docs/tooljet-db/tooljet-database/)** to store employee records. 
@@ -52,7 +52,7 @@ Now, create a new table in **[ToolJet’s Database](/docs/tooljet-db/tooljet-dat
 
 </div>
 
-<div >
+<div>
 
 ### 3. Create a Query to Fetch Data
 
@@ -72,7 +72,7 @@ To display employees in the application, you will first have to fetch the data f
 
 </div>
 
-<div >
+<div>
 
 ### 4. Bind Queried Data to the UI
 
@@ -94,7 +94,7 @@ Now the Table component is filled with the data returned by the *getEmployees* q
 
 </div>
 
-<div >
+<div>
 
 ### 5. Create a Query to Add Data
 
@@ -120,7 +120,7 @@ In the bottom-right corner of the Table component, there is a **+(Add new row)**
 Frame all the remaining keys in the same format.
 </div>
 
-<div >
+<div>
 
 ### 6. Use Events to Trigger Queries
 
@@ -140,7 +140,7 @@ Now, when you click the **+ (Add new row)** button on the Table component, enter
 
 </div>
 
-<div >
+<div>
 
 ### 7. Preview, Release, and Share
 

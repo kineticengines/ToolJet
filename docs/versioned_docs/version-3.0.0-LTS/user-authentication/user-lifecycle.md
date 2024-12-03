@@ -9,7 +9,7 @@ title: User Lifecycle
 Check Workspace docs [here](/docs/org-management/workspaces/workspace_overview).
 :::
 
-<div >
+<div>
 
 ### User Onboarding
 
@@ -55,7 +55,7 @@ Check Workspace docs [here](/docs/org-management/workspaces/workspace_overview).
 
 </div>
 
-<div >
+<div>
 
 ### Archive User
   - User can be archived by workspace admin from using `Manage User` page
@@ -68,7 +68,7 @@ Check Workspace docs [here](/docs/org-management/workspaces/workspace_overview).
 
 </div>
 
-<div >
+<div>
 
 ### Unarchive User
   - User can be unarchive by workspace admin from using `Manage User` page
@@ -85,7 +85,7 @@ Check Workspace docs [here](/docs/org-management/workspaces/workspace_overview).
 
 </div>
 
-<div >
+<div>
 
 ### Switch Between Workspaces
 
@@ -97,7 +97,7 @@ Check Workspace docs [here](/docs/org-management/workspaces/workspace_overview).
 
 </div>
 
-<div >
+<div>
 
 
 ## User Status
@@ -110,7 +110,7 @@ Check Workspace docs [here](/docs/org-management/workspaces/workspace_overview).
 
 </div>
 
-<div >
+<div>
 
 ## Workspace SSO Flow
   - Diagram shows how SSO configurations are chosen in common login page and workspace login page. Instance level SSO is configured in environment variables and Workspace level SSO is configured in respective `Manage SSO` page.

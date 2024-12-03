@@ -3,7 +3,7 @@ id: amazonses
 title: Amazon SES
 ---
 
-<div >
+<div>
 
 ToolJet can connect to your Amazon SES account to send emails.
 

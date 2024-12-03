@@ -11,7 +11,7 @@ ToolJet Marketplace allows users to enhance their workspaces by adding custom pl
     <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/marketplace/overview/marketplace-v2.png" alt="Marketplace Overview" />
 </div>
 
-<div >
+<div>
 
 ## Enabling Marketplace 
 
@@ -29,7 +29,7 @@ The logged-in user should be an **Administrator** to access the marketplace page
 
 </div>
 
-<div >
+<div>
 
 ## Installing a Plugin
 
@@ -45,7 +45,7 @@ Under the **Marketplace** tab, you will see a list of all the available plugins 
 
 </div>
 
-<div >
+<div>
 
 ## Using Marketplace Plugins
 

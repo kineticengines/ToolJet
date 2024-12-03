@@ -15,7 +15,7 @@ Workspace Variables are the variables with some value(usually tokens/secret keys
 Server variables will not resolve if you use bracket notation. This is because bracket notation is not supported on the server-side, where server variables are resolved. If you use bracket notation in a query that is executed on the server, the query will fail. To avoid this, use dot notation to resolve workspace variables in queries.
 :::
 
-<div >
+<div>
 
 ## How Can We Add these Variables to a Workspace?
 
@@ -36,7 +36,7 @@ Suppose there is an `API key` or a value that you want to use in the queries or 
 
 </div>
 
-<div >
+<div>
 
 ### Types of variables
 
@@ -56,7 +56,7 @@ Variable Type cannot be changed once it has been created.
 
 </div>
 
-<div >
+<div>
 
 ### Encryption
 
@@ -64,7 +64,7 @@ This feature enables us to add a client variable with and without `encryption`. 
 
 </div>
 
-<div >
+<div>
 
 ### Using Variable in an App
 

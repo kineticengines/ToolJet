@@ -28,7 +28,7 @@ For Community Edition, SMTP configuration will still be managed via environment 
 3. Toggle the switch to enable **Email protocol (SMTP)**.
 4. Configure the following fields:
 
-<div style={{textAlign: 'center', paddingBottom: '24px'}}>
+<div style={{textAlign: 'center'}}>
 <img className="screenshot-full" src="/img/enterprise/smtp/configuration.png" alt="SMTP Configuration" />
 </div>
 | Field         | Description              | Example                           |

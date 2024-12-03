@@ -3,7 +3,7 @@ id: quickstart-guide
 title: Quickstart Guide
 ---
 
-<!-- <div > -->
+<!-- <div> -->
 
 This quickstart guide walks you through the process of creating an employee directory app using ToolJet. The application lets users track and update employee details while working with core features of the platform, all within a user-friendly interface. Here are the step-by-step instructions:
 

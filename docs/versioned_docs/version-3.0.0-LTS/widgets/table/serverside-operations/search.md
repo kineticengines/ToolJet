@@ -5,7 +5,7 @@ title: Search Operation
 
 This guide explains how to perform serverside search operation on a **Table** component in ToolJet.
 
-<div >
+<div>
 
 ## Add Table Component
 
@@ -27,7 +27,7 @@ Before performing the search operation, lets setup the **Table** component and p
 
 </div>
 
-<div >
+<div>
 
 ## Serverside Search
 

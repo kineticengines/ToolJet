@@ -11,7 +11,7 @@ The Query Panel consists of two sections:
 
 <img className="screenshot-full" src="/img/v2-beta/app-builder/walkthrough/create-queries/query-panel-preview-v2.png" alt="Create a query" />
 
-<div >
+<div>
 
 ## Creating a New Query
 
@@ -44,7 +44,7 @@ Here, `{{parameters.id}}` is a parameter that you can define by clicking on the 
 
 </div>
 
-<div >
+<div>
 
 ## Query Examples
 
@@ -116,7 +116,7 @@ DELETE FROM feature_requests WHERE votes < {{parameters.minimumVotes}};
 
 </div>
 
-<div >
+<div>
 
 ## Using Transformations and Events
 
@@ -126,7 +126,7 @@ DELETE FROM feature_requests WHERE votes < {{parameters.minimumVotes}};
 
 </div>
 
-<div >
+<div>
 
 ## Advanced Settings and Debugging
 

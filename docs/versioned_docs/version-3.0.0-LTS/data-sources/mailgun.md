@@ -9,7 +9,7 @@ ToolJet can connect to your Mailgun account to send emails.
 The Mailgun API Datasource supports for interaction with the mail endpoint of the [Mailgun API](https://documentation.mailgun.com/en/latest/api-intro.html#authentication-1).
 :::
 
-<div >
+<div>
 
 ## Connection
 
@@ -26,7 +26,7 @@ Mailgun API key is required to create an Mailgun datasource on ToolJet. You can 
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

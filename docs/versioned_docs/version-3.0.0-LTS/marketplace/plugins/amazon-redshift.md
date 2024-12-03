@@ -14,7 +14,7 @@ ToolJet can connect to Amazon Redshift, enabling your applications to query data
 
 **NOTE:** **Before following this guide, it is assumed that you have already completed the process of [Using Marketplace plugins](/docs/marketplace/marketplace-overview#using-marketplace-plugins)**.
 
-<div >
+<div>
 
 ## Configuration
 
@@ -39,7 +39,7 @@ To connect to Amazon Redshift, you need to provide the following details:
 
 </div>
 
-<div >
+<div>
 
 ## Supported Queries
 
@@ -47,7 +47,7 @@ Redshift supports a comprehensive set of SQL commands. You can use the SQL edito
 
 </div>
 
-<div >
+<div>
 
 ### Read Data 
 
@@ -59,7 +59,7 @@ SELECT * FROM employee
 
 </div>
 
-<div >
+<div>
 
 ### Write Data 
 
@@ -89,7 +89,7 @@ INSERT INTO employee (
 
 </div>
 
-<div >
+<div>
 
 ### Update Data 
 
@@ -104,7 +104,7 @@ WHERE employee_id = 8;
 
 </div>
 
-<div >
+<div>
 
 ### Delete Data
 

@@ -12,7 +12,7 @@ This guide will use the Custom Component to create a chart using a third-party l
 
 </div>
 
-<div >
+<div>
 
 ## Step 1: Add a Custom Component
 
@@ -23,7 +23,7 @@ Note: If you are not familiar with the Custom Component, please read the [Custom
 
 </div>
 
-<div >
+<div>
 
 ## Step 2: Add the Code to the Custom Component
 
@@ -233,7 +233,7 @@ ReactDOM.render(<ConnectedComponent />, document.body); // render the component
 
 </div>
 
-<div >
+<div>
 
 ## Step 3: Using Events from the Custom Component
 

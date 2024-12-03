@@ -5,7 +5,7 @@ title: Primary Key
 
 ToolJet Database supports both single field and composite primary keys.
 
-<div >
+<div>
 
 ## Creating Single Field Primary Key
 
@@ -29,7 +29,7 @@ The constraints for the primary key column ensure the integrity and uniqueness o
 
 </div>
 
-<div >
+<div>
 
 ## Creating Composite Primary Key
 
@@ -52,7 +52,7 @@ By utilizing a composite primary key, you can uniquely identify records based on
 
 </div>
 
-<div >
+<div>
 
 ## Modifying Primary Key
 
@@ -68,7 +68,7 @@ After creating a table, you can designate any column as the primary key, provide
 
 </div>
 
-<div >
+<div>
 
 ## Deleting Primary Key
 

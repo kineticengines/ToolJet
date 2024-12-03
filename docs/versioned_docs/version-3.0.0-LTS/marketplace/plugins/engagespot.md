@@ -11,7 +11,7 @@ ToolJet connects to your Engagespot account, allowing you to send notifications,
 **NOTE:** **Before following this guide, it is assumed that you have already completed the process of [Using Marketplace plugins](/docs/marketplace/marketplace-overview#using-marketplace-plugins)**.
 :::
 
-<div >
+<div>
 
 ## Connection
 
@@ -32,7 +32,7 @@ You can change your Engagespot BaseURL by enable custom endpoint.
 
 </div>
 
-<div >
+<div>
 
 ## Querying Engagespot
 
@@ -52,7 +52,7 @@ Query results can be transformed using transformations. Read our [transformation
 
 </div>
 
-<div >
+<div>
 
 ## Query Operations
 
@@ -63,7 +63,7 @@ You can create query for Engagespot data source to perform several actions such 
 
 </div>
 
-<div >
+<div>
 
 ### Create OR Update User
 
@@ -81,7 +81,7 @@ The user profile column accepts any key-value pairs in valid JSON object format.
 
 </div>
 
-<div >
+<div>
 
 ### Send Notification
 
@@ -96,7 +96,7 @@ The user profile column accepts any key-value pairs in valid JSON object format.
 
 </div>
 
-<div >
+<div>
 
 ### Generate User Token
 
@@ -114,7 +114,7 @@ To generate user tokens, ensure you provide a Signing Key when establishing a co
 
 </div>
 
-<div >
+<div>
 
 ### Adding the In-App Inbox element to your ToolJet app
    To set up an In-App Inbox element in your ToolJet application, refer to the [Adding In-App](https://docs.engagespot.co/docs/plugins/tooljet/adding-the-inbox-component) guide.

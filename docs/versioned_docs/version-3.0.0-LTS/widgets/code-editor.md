@@ -11,7 +11,7 @@ title: Code Editor
 
 </div>
 
-<div >
+<div>
 
 ## Properties
 
@@ -165,7 +165,7 @@ Any property having **fx** button next to its field can be **programmatically co
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -173,7 +173,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -183,7 +183,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -194,7 +194,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -205,7 +205,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ---
 

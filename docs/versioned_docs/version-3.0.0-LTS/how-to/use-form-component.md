@@ -21,7 +21,7 @@ In this guide, we'll create a simple app that uses a **[Form](/docs/widgets/form
 
 </div>
 
-<div >
+<div>
 
 ## 2. Create the UI
 - Create a new app and drag and drop a **[Table](/docs/widgets/table)** component on the canvas.
@@ -36,7 +36,7 @@ In this guide, we'll create a simple app that uses a **[Form](/docs/widgets/form
 
 </div>
 
-<div >
+<div>
 
 ## 3. Load the Table Component With Data
 
@@ -55,7 +55,7 @@ In this guide, we'll create a simple app that uses a **[Form](/docs/widgets/form
 
 </div>
 
-<div >
+<div>
 
 ## 4. Write Data Using the Form Component 
 - Click on the Add button in the Query Panel, select ToolJet Database

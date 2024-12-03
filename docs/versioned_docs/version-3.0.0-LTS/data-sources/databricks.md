@@ -9,7 +9,7 @@ Databricks is a cloud-based platform for data processing, analytics, and machine
     <img style={{ border:'0', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/datasource-reference/databricks/install.gif" alt="Install Databricks" />
 </div>
 
-<div >
+<div>
 
 ## Configuration
 
@@ -43,7 +43,7 @@ ToolJet's Databricks integration relies on a configuration form that supports th
 
 </div>
 
-<div >
+<div>
 
 ## Querying Databricks
 
@@ -65,7 +65,7 @@ You can apply transformations to the query results. Refer to our transformations
 
 </div>
 
-<div >
+<div>
 
 ## Supported Queries
 

@@ -5,7 +5,7 @@ title: Text Input
 
 The **Text Input** component allows users to enter a single line of text. It can be used as a standalone component or in Form fields. In this document, we'll go through all the configuration options for the **Text Input** component. 
 
-<div >
+<div>
 
 ## Properties
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"250px"}}> Description </div> | <div style={{width: "200px"}}> Expected Value </div>|
@@ -16,7 +16,7 @@ The **Text Input** component allows users to enter a single line of text. It can
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -33,7 +33,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get detailed 
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -51,7 +51,7 @@ Following actions of component can be controlled using the component specific ac
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -67,7 +67,7 @@ Following actions of component can be controlled using the component specific ac
 
 </div>
 
-<div >
+<div>
 
 ## Validation
 
@@ -87,7 +87,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Additional Actions
 
@@ -100,7 +100,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -115,7 +115,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 # Styles 
 
-<div >
+<div>
 
 ## Label
 
@@ -127,7 +127,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Field
 
@@ -143,7 +143,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Container
 

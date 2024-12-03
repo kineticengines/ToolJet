@@ -7,7 +7,7 @@ title: Iframe
 
 The **Iframe** component is used to embed another HTML page into the current one and display iframes in your app.
 
-<div >
+<div>
 
 ## Properties
 
@@ -17,7 +17,7 @@ The **Iframe** component is used to embed another HTML page into the current one
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -25,7 +25,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -33,7 +33,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 
@@ -45,7 +45,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Layout
 
@@ -56,7 +56,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ---
 

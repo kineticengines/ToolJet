@@ -13,7 +13,7 @@ If the builder attempts to add any of the aforementioned components inside the c
 `<Restricted component> cannot be used as a child component within the container.`
 :::
 
-<div >
+<div>
 
 ## Enabling Vertical Scroll on Container
 
@@ -21,7 +21,7 @@ To enable the vertical scroll on the container, drag and place any component to 
 
 </div>
 
-<div >
+<div>
 
 ## Loading State
 
@@ -31,7 +31,7 @@ For instance, if you wish to display the loader on the container when the query 
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -39,7 +39,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -47,7 +47,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -58,7 +58,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 
 </div>
 
-<div >
+<div>
 
 ## Layout
 
@@ -71,7 +71,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 
 ---
 
-<div >
+<div>
 
 ## Styles
 

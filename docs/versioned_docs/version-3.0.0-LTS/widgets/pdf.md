@@ -5,7 +5,7 @@ title: PDF
 
 The **PDF** component can be used to embed PDF files either by URL or through Base64 code.
 
-<div >
+<div>
 
 ## Compatibility
 
@@ -22,7 +22,7 @@ If the PDF component is integrated into your application, it will only render in
 
 </div>
 
-<div >
+<div>
 
 ## Properties
 
@@ -35,7 +35,7 @@ If the PDF component is integrated into your application, it will only render in
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -43,7 +43,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -51,7 +51,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 
@@ -61,7 +61,7 @@ To display instructional text when a user hovers over the PDF component, add som
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -74,7 +74,7 @@ To display instructional text when a user hovers over the PDF component, add som
 
 ---
 
-<div >
+<div>
 
 ## Styles
 

@@ -12,7 +12,7 @@ Certain components are restricted from being placed within the **Card** and **Po
 - **Popout**: Calendar, Kanban
   :::
 
-<div >
+<div>
 
 ## Setting Card Data
 
@@ -27,7 +27,7 @@ For instance, you can set the `Data` property of a Text component on a card usin
 
 </div>
 
-<div >
+<div>
 
 ## Properties
 
@@ -48,7 +48,7 @@ For instance, you can set the `Data` property of a Text component on a card usin
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -73,7 +73,7 @@ Check the **[Component Specific Action](#component-specific-actions-csa)** avail
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -89,7 +89,7 @@ Check the **[Component Specific Action](#component-specific-actions-csa)** avail
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -104,7 +104,7 @@ Following actions of Kanban component can be controlled using the component spec
 
 </div>
 
-<div >
+<div>
 
 ## General
 
@@ -116,7 +116,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -129,7 +129,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 ----
 
-<div >
+<div>
 
 ## Styles
 

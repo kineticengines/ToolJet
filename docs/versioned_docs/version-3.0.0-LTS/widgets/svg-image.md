@@ -8,7 +8,7 @@ It is used to render vector images. We can display images, icons, and texts usin
 
 Developers prefer having SVG **(Scalable Vector Graphics)** files as they are scalable and will render pixel-perfect at any resolution whereas JPEGs, PNGs, and GIFs will not. 
 
-<div >
+<div>
 
 ## Properties
 
@@ -26,7 +26,7 @@ Refer to the resources where SVG files are downloaded for free. You can copy-pas
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -34,7 +34,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -42,7 +42,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 
@@ -54,7 +54,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -65,7 +65,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ---
 

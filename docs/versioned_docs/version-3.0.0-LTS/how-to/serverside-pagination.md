@@ -9,7 +9,7 @@ In this guide, we will implement server-side pagination for large datasets in a 
 
 </div>
 
-<div >
+<div>
 
 ### Loading Data from PostgreSQL in Chunks
 
@@ -42,7 +42,7 @@ FROM users;
 
 </div>
 
-<div >
+<div>
 
 ### Edit the Table Component
 

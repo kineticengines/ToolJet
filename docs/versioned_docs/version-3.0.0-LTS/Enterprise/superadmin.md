@@ -9,7 +9,7 @@ A Super Admin is the user who has full access to all the Workspaces, Users, and 
 
 The user details entered while setting up ToolJet will have Super Admin privileges.
 
-<div >
+<div>
 
 ## How Super Admin is Different from Admin
 
@@ -38,7 +38,7 @@ The user details entered while setting up ToolJet will have Super Admin privileg
 
 </div>
 
-<div >
+<div>
 
 ## Super Admin features
 
@@ -84,7 +84,7 @@ Super Admins have all the privileges that an Admin of a workspace have, Super Ad
 
 </div>
 
-<div >
+<div>
 
 ## Settings
 
@@ -102,7 +102,7 @@ Only Super Admins can access the Settings. To access the Settings page, click on
 
 </div>
 
-<div >
+<div>
 
 ## All Users
 
@@ -156,7 +156,7 @@ From the **Edit user details** drawer, Super Admins can make any user as Super A
 
 </div>
 
-<div >
+<div>
 
 ## All Workspaces
 
@@ -170,7 +170,7 @@ Super Admins have the authority to **archive** or **unarchive** workspaces of an
 
 </div>
 
-<div >
+<div>
 
 ### Current Workspace
 
@@ -178,7 +178,7 @@ The **Current Workspace** label will be displayed next to the workspace that the
 
 </div>
 
-<div >
+<div>
 
 ### Open Active Workspaces
 
@@ -186,7 +186,7 @@ In the list of active workspaces, there is an option to open the workspace direc
 
 </div>
 
-<div >
+<div>
 
 ### Archive Workspaces
 
@@ -198,7 +198,7 @@ The **Archive** button on the right of the workspace name allows Super Admins to
 
 </div>
 
-<div >
+<div>
 
 ### Archived Workspaces
 
@@ -210,7 +210,7 @@ The **Archived** section displays a list of all archived workspaces. Super Admin
 
 </div>
 
-<div >
+<div>
 
 ## Manage Instance Settings
 
@@ -220,7 +220,7 @@ The **Archived** section displays a list of all archived workspaces. Super Admin
 
 </div>
 
-<div >
+<div>
 
 ### Restrict Creation of Personal Workspace of Users
 
@@ -230,7 +230,7 @@ Super Admins can **control** this behavior from the Manage Settings page, they c
 
 </div>
 
-<div >
+<div>
 
 ### Enable Multiplayer Editing
 
@@ -238,7 +238,7 @@ Super Admins can enable multiplayer editing from the Manage Settings page. Once 
 
 </div>
 
-<div >
+<div>
 
 ### Comments
 
@@ -246,7 +246,7 @@ Super Admins can enable comments from the Manage Settings page. Once enabled, us
 
 </div>
 
-<div >
+<div>
 
 ## White Labelling
 This feature allows you to customize the ToolJet instance with your own branding. You can change the logo, favicon, and the name of the instance.
@@ -255,7 +255,7 @@ Check out the [White labelling](/docs/enterprise/white-label/) page for more det
 
 </div>
 
-<div >
+<div>
 
 ## Instance Login
 
@@ -263,7 +263,7 @@ Instance login configuration at the Settings level allows super admins to set up
 
 </div>
 
-<div >
+<div>
 
 ### Access and Permissions
 
@@ -271,7 +271,7 @@ Only super admins have the authority to configure **Instance login** settings. T
 
 </div>
 
-<div >
+<div>
 
 ### Super Admin URL
 
@@ -281,7 +281,7 @@ The default URL for super admin login is `https://<domain>/login/super-admin`. T
 
 </div>
 
-<div >
+<div>
 
 ### Enable sign-up
 
@@ -289,7 +289,7 @@ The "Enable Sign Up" option allows users to sign up without being invited. It is
 
 </div>
 
-<div >
+<div>
 
 ### Password login
 
@@ -297,7 +297,7 @@ Super admins can enable or disable password login for the entire instance. This 
 
 </div>
 
-<div >
+<div>
 
 ### Enable Workspace Configuration
 
@@ -309,7 +309,7 @@ Turning off this option restricts workspace admins from configuring the login me
 
 </div>
 
-<div >
+<div>
 
 ## License
 

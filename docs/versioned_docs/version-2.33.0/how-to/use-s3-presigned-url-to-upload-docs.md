@@ -2,7 +2,7 @@
 id: use-s3-signed-url-to-upload-docs
 title: Use S3 Signed URL to Upload Documents
 ---
-<div >
+<div>
 
 In this how-to guide, we will upload documents to S3 buckets using the **S3 signed URL** from a ToolJet application.
 

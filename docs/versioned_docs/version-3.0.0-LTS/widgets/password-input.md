@@ -5,7 +5,7 @@ title: Password Input
 
 The **Password Input** component allows users to enter passwords securely. In this component, passwords are concealed, displaying each character as an asterisk to ensure privacy. In this document, we'll go through all the configuration options for the **Password Input** component. 
 
-<div >
+<div>
 
 ## Properties
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"250px"}}> Description </div> | <div style={{width: "200px"}}> Expected Value </div>|
@@ -16,7 +16,7 @@ The **Password Input** component allows users to enter passwords securely. In th
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -33,7 +33,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get detailed 
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -51,7 +51,7 @@ Following actions of component can be controlled using the component specific ac
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -67,7 +67,7 @@ Following actions of component can be controlled using the component specific ac
 | <div style={{ width:"100px"}}> isDisabled </div> | Indicates if the component is disabled. | Accessible dynamically with JS (for e.g., `{{components.passwordinput1.isDisabled}}`).|
 </div>
 
-<div >
+<div>
 
 ## Validation
 
@@ -87,7 +87,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Additional Actions
 
@@ -100,7 +100,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -115,7 +115,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 # Styles 
 
-<div >
+<div>
 
 ## Label
 
@@ -127,7 +127,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Field
 
@@ -143,7 +143,7 @@ To add regex inside `Custom Validation`, you can use the below format:
 
 </div>
 
-<div >
+<div>
 
 ## Container
 

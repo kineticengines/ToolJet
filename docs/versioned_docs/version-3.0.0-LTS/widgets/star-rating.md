@@ -6,7 +6,7 @@ title: Star Rating
 
 The **Star Rating** component can be used to display as well as input ratings. The component supports half stars, and the number of stars can be set too.
 
-<div >
+<div>
 
 ## Properties
 
@@ -20,7 +20,7 @@ The **Star Rating** component can be used to display as well as input ratings. T
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -34,7 +34,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -42,7 +42,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -52,7 +52,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -63,7 +63,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -74,7 +74,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ---
 

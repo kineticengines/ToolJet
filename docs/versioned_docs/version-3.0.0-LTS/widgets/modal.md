@@ -14,7 +14,7 @@ If the builder attempts to add any of the aforementioned components inside the M
 `<Restricted component> cannot be used as a child component within the Modal.`
 :::
 
-<div >
+<div>
 
 ## Add Widgets to Modal
 
@@ -22,7 +22,7 @@ To add widgets to the Modals please refer to **[Tutorial - Adding widgets to a m
 
 </div>
 
-<div >
+<div>
 
 ## Properties
 
@@ -39,7 +39,7 @@ To add widgets to the Modals please refer to **[Tutorial - Adding widgets to a m
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -53,7 +53,7 @@ Just like any other event on ToolJet, you can set multiple handlers for the even
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -66,7 +66,7 @@ Following actions of Modal component can be controlled using the component speci
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -74,7 +74,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## Options
 
@@ -89,7 +89,7 @@ A modal can be triggered using the default trigger button, [action](/docs/action
 
 </div>
 
-<div >
+<div>
 
 ## Layout
 
@@ -100,7 +100,7 @@ A modal can be triggered using the default trigger button, [action](/docs/action
 
 </div>
 
-<div >
+<div>
 
 ## Styles
 

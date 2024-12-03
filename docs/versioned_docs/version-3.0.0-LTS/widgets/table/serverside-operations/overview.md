@@ -5,7 +5,7 @@ title: Overview
 
 This guide explains how to perform server-side operations on a table component in ToolJet.  While most databases offer support for server-side operations, the specific implementation can vary depending on the database. For the purposes of this guide, PostgreSQL will be used as the data source to demonstrate the process.
 
-<div >
+<div>
 
 ## Server Side v/s Client Side
 
@@ -25,7 +25,7 @@ Server-side operations refer to tasks executed on the server, such as data fetch
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

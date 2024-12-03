@@ -9,7 +9,7 @@ Use the ToolJet-hosted database to build apps faster, and manage your data with 
     <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/tjdb-v2.png" alt="ToolJet database" />
 </div>
 
-<div >
+<div>
 
 ## Enabling the ToolJet Database for your instance
 
@@ -17,7 +17,7 @@ Requires:
 - PostgREST server
 - Additional configuration for ToolJet server
 
-<div >
+<div>
 
 ### PostgREST Server
 
@@ -65,7 +65,7 @@ In case you want to trigger it manually, use the command `npm run db:create` on 
 
 </div>
 
-<div >
+<div>
 
 ## Features
 
@@ -81,7 +81,7 @@ ToolJet database allows you to:
 
 </div>
 
-<div >
+<div>
 
 ## Accessing ToolJet Database
 

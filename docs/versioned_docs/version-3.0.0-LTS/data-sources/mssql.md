@@ -5,7 +5,7 @@ title: MS SQL Server / Azure SQL Databases
 
 ToolJet can connect to MS SQL Server & Azure SQL databases to read and write data. 
 
-<div >
+<div>
 
 ## Connection
 
@@ -30,7 +30,7 @@ ToolJet requires the following to connect to your PostgreSQL database.
 
 </div>
 
-<div >
+<div>
 
 ## Querying SQL Server / Azure SQL Databases
 

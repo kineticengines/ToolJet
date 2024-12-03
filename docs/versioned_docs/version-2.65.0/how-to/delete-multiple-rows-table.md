@@ -2,7 +2,7 @@
 id: delete-multiple-rows
 title: Delete Multiple Rows in a Table
 ---
-<div >
+<div>
 
 This guide explains how to delete multiple rows from a table, assuming you've already connected to a data source. We'll use PostgreSQL for this example, but you can adjust the queries based on the SQL database that you are using.
 

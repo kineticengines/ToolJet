@@ -5,7 +5,7 @@ title: Date-range Picker
 
 The **Date-Range Picker** component allows users to select a range of dates.
 
-<div >
+<div>
 
 ## Properties
 
@@ -17,7 +17,7 @@ The **Date-Range Picker** component allows users to select a range of dates.
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -31,7 +31,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -39,7 +39,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -50,7 +50,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -61,7 +61,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -74,7 +74,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 ---
 
-<div >
+<div>
 
 ## Styles
 

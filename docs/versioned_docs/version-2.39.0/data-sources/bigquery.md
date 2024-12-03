@@ -3,7 +3,7 @@ id: bigquery
 title: BigQuery
 ---
 
-<div >
+<div>
 
 ToolJet can connect to **BigQuery** databases to run BigQuery queries.
 

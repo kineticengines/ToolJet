@@ -13,7 +13,7 @@ In this how-to guide, we will import a few packages and use them in the applicat
 Modules with C/C++ extensions needing system libraries won't work in Pyodide, as it runs in a web browser without system library access. Pyodide, based on WebAssembly-compiled Python, also doesn't support certain system calls.
 :::
 
-<div >
+<div>
 
 - Start by creating a new application in ToolJet.
 - From the Query Panel, add a new RunPy query - it will be named *runpy1* by default.
@@ -38,7 +38,7 @@ await micropip.install('numpy')
 
 </div>
 
-<div >
+<div>
 
 ## Generating Random Numbers with NumPy
 
@@ -58,7 +58,7 @@ print(x)
 
 </div>
 
-<div >
+<div>
 
 ## Parse CSV data
 

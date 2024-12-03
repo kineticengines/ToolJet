@@ -65,7 +65,7 @@ The changes made in the query panel will be saved automatically.
 </div>
 
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Query Name
 
@@ -77,7 +77,7 @@ Apart from the query editor, the query name is displayed at the top of the query
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Custom Parameters
 
@@ -97,7 +97,7 @@ Learn more about **[Using Custom Parameters](/docs/how-to/use-custom-parameters)
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Preview
 
@@ -111,7 +111,7 @@ Data preview is available in two formats: **Raw** and **JSON**. Click the clear 
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Run
 
@@ -123,7 +123,7 @@ The Run button triggers the query, causing it to interact with the application. 
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Query Configuration
 
@@ -150,7 +150,7 @@ In cases where multiple data sources of the same type are connected, easily swit
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Transformation
 
@@ -162,7 +162,7 @@ Queries can be enhanced with transformations to modify the query results. ToolJe
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Settings
 
@@ -184,7 +184,7 @@ Enabling this option shows a success toast notification when the query is succes
 
 </div>
 
-<div style={{paddingTop: '24px', paddingBottom: '24px'}}>
+<div>
 
 ### Events
 

@@ -3,7 +3,7 @@ id: use-server-side-pagination
 title: Using Server Side Pagination in Tables
 ---
 
-<div >
+<div>
 
 In this guide, we will implement server-side pagination for large datasets in a table component to enhance application performance. This guide is applicable for databases like MySQL, PostgreSQL, MSSQL, MongoDB, etc., supporting `limit` and `offset` for chunked data retrieval.
 

@@ -18,7 +18,7 @@ ToolJet requires the following to connect to your Azure Blob.
 
 </div>
 
-<div > 
+<div> 
 
 ## Querying Azure Blob
 
@@ -39,7 +39,7 @@ Query results can be transformed using Transformation. For more information on t
 
 </div>
 
-<div > 
+<div> 
 
 ## Supported Operations
 

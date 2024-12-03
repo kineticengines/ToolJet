@@ -9,7 +9,7 @@ Components in ToolJet serve as the building blocks for creating applications. Th
     <iframe width="560" height="315" src="https://www.youtube.com/embed/J3-wpo4J76U?si=D2ovxqa42HUGZ4PC&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div >
+<div>
 
 ### Customizing Components
 
@@ -21,7 +21,7 @@ Components are highly customizable and interactive. Once you place a component o
 
 </div>
 
-<div >
+<div>
 
 ### Using Components With Data
 
@@ -33,7 +33,7 @@ In ToolJet, components can be easily connected to various data sources like data
 
 </div>
 
-<div >
+<div>
 
 ## Custom Components
 

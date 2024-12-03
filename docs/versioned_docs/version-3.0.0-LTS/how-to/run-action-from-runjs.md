@@ -5,7 +5,7 @@ title: Run Actions from RunJS query
 
 ToolJet allows you to execute various [actions](/docs/actions/show-alert) within RunJS queries. This guide outlines the syntax and examples for each action.
 
-<div >
+<div>
 
 ### Run Query 
 
@@ -31,7 +31,7 @@ In the screenshot below, we are triggering two different queries using two diffe
 
 </div>
 
-<div >
+<div>
 
 ### Get Query Data
 
@@ -69,7 +69,7 @@ let value = queries.getTodos.getLoadingState();
 
 </div>
 
-<div >
+<div>
 
 ### Set Variables
 
@@ -81,7 +81,7 @@ actions.setVariable('<variableName>', `<variableValue>`)
 
 </div>
 
-<div >
+<div>
 
 ### Unset Variable
 
@@ -95,7 +95,7 @@ actions.unSetVariable('<variableName>')
 
 </div>
 
-<div >
+<div>
 
 ### Get Variables
 
@@ -120,7 +120,7 @@ return actions.getPageVariable('number');
 
 </div>
 
-<div >
+<div>
 
 ### Logout
 
@@ -132,7 +132,7 @@ actions.logout();
 
 </div>
 
-<div >
+<div>
 
 ### Show Modal
 
@@ -144,7 +144,7 @@ actions.showModal('<modalName>')
 
 </div>
 
-<div >
+<div>
 
 ### Close Modal
 
@@ -156,7 +156,7 @@ actions.closeModal('<modalName>')
 
 </div>
 
-<div >
+<div>
 
 ### Set Local Storage 
 
@@ -170,7 +170,7 @@ actions.setLocalStorage('key', 'value');
 
 </div>
 
-<div >
+<div>
 
 ### Copy to Clipboard
 
@@ -182,7 +182,7 @@ actions.copyToClipboard('<contentToCopy>')
 
 </div>
 
-<div >
+<div>
 
 ### Generate File
 
@@ -214,7 +214,7 @@ actions.generateFile('Pdffile1', 'pdf', '{{components.table1.currentPageData}}')
 
 </div>
 
-<div >
+<div>
 
 ### Go to App
 
@@ -229,7 +229,7 @@ actions.goToApp('slug',queryparams)
 
 </div>
 
-<div >
+<div>
 
 ### Show Alert
 
@@ -248,7 +248,7 @@ actions.showAlert('error' , 'This is an error' )
 
 </div>
 
-<div >
+<div>
 
 ### Run Multiple Actions From RunJS Query
 

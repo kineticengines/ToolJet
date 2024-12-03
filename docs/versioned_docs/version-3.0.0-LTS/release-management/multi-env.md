@@ -13,7 +13,7 @@ ToolJet's **multi-environment** helps in streamlining workflows, thereby minimiz
 
 </div>
 
-<div >
+<div>
 
 ### Environments
 
@@ -31,7 +31,7 @@ The default environments cannot be removed or renamed.
 
 </div>
 
-<div >
+<div>
 
 ### Configuring Connections for Environments
 
@@ -50,7 +50,7 @@ To configure connection settings for different environments, follow these steps:
 
 </div>
 
-<div >
+<div>
 
 ### Using Environments
 

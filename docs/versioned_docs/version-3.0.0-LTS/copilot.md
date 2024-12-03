@@ -11,7 +11,7 @@ ToolJet Copilot is currently in private beta for **Business** and **Enterprise**
 
 **ToolJet Copilot** helps you write your queries faster. It uses OpenAI to suggest queries based on your data. 
 
-<div >
+<div>
 
 ## Activating Copilot
 
@@ -31,7 +31,7 @@ You can join the waitlist here: **https://tooljet.com/copilot**
 
 </div>
 
-<div >
+<div>
 
 ## Using Copilot
 
@@ -41,7 +41,7 @@ Copilot's functionality relies on the provision of clear and concise plain Engli
 
 </div>
 
-<div >
+<div>
 
 ### Token Limit per Workspace
 
@@ -49,7 +49,7 @@ A token is a unit of text that language models like ChatGPT process, such as a w
 
 </div>
 
-<div >
+<div>
 
 ### Rate-Limiting
 
@@ -65,7 +65,7 @@ When generating an API key, if a workspace has 5 editors, the daily request limi
 
 </div>
 
-<div >
+<div>
 
 ### Example: Generating a SQL statement 
 

@@ -2,7 +2,7 @@
 id: access-currentuser
 title: Enable/Disable a Component Using Current User's Property
 ---
-<div >
+<div>
 
 Let's take a look at the exposed variables of the currentUser property by clicking on the **[inspector](/docs/app-builder/left-sidebar/#inspector)** icon on the left sidebar:
 

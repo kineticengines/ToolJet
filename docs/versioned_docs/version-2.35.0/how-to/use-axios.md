@@ -2,7 +2,7 @@
 id: use-axios-in-runjs
 title: Use Axios in RunJS
 ---
-<div >
+<div>
 
 ToolJet supports three libraries: **Moment.js**, **Lodash**, and **Axios**. This guide focuses on using the Axios library with RunJS queries. **[Axios](https://axios-http.com/docs/intro)** is a promise-based HTTP client for making requests to your own or external servers. It supports various request types like `GET`, `POST`, `PUT/PATCH`, and `DELETE`.
 

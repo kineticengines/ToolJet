@@ -2,7 +2,7 @@
 id: conditionally-format-table
 title: Conditional Formatting in Table
 ---
-<div >
+<div>
 
 Conditional formatting enhances the visual representation of data by allowing you to dynamically adjust the appearance of cells in **Table** component based on specific conditions. This how-to guide will guide you through the process of implementing advanced conditional formatting for text color and background color in a Table component.
 

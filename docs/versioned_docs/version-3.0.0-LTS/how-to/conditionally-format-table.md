@@ -8,7 +8,7 @@ Conditional formatting enhances the visual representation of data by allowing yo
 
 </div>
 
-<div >
+<div>
 
 ## Create a New Application and Set Up Data Source
 
@@ -31,7 +31,7 @@ https://fakestoreapi.com/products
 
 </div>
 
-<div >
+<div>
 
 ## Display Data on the Table
 
@@ -48,7 +48,7 @@ https://fakestoreapi.com/products
 
 </div>
 
-<div >
+<div>
 
 ## Enabling Conditional Formatting
 
@@ -66,11 +66,11 @@ https://fakestoreapi.com/products
 
 </div>
 
-<div >
+<div>
 
 ## Conditional Formatting using Cell Value
 
-<div >
+<div>
 
 ### Example 1: Changing Text Color Based on Cell Value
 
@@ -90,7 +90,7 @@ The above condition will change the text color to red if the cell value is less 
 
 </div>
 
-<div >
+<div>
 
 ### Example 2: Changing Cell Background Color Based on Cell Value
 
@@ -110,11 +110,11 @@ The above condition will change the cell background color to lightgreen if the c
 
 </div>
 
-<div >
+<div>
 
 ## Conditional Formatting using Row Data
 
-<div >
+<div>
 
 ### Example 1: Changing Text Color Based on Row Data
 
@@ -132,7 +132,7 @@ The above condition will change the text color of the `Title` based on the value
 
 </div>
 
-<div >
+<div>
 
 ### Example 2: Changing Cell Background Color based on Row Data
 

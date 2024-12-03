@@ -5,7 +5,7 @@ title: Color Picker
 
 **Color Picker** component is used to select the desired color from the color picker.
 
-<div >
+<div>
 
 ## Properties
 
@@ -24,7 +24,7 @@ Invalid Color : #0000, "black" , rgb(0,0,0) ,
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -34,7 +34,7 @@ Invalid Color : #0000, "black" , rgb(0,0,0) ,
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -46,7 +46,7 @@ The following actions of the component can be controlled using component specifi
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -58,7 +58,7 @@ The following actions of the component can be controlled using component specifi
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -71,7 +71,7 @@ The following actions of the component can be controlled using component specifi
 
 ----
 
-<div >
+<div>
 
 ## Styles
 
@@ -81,7 +81,7 @@ The following actions of the component can be controlled using component specifi
 
 </div>
 
-<div >
+<div>
 
 ## Actions
 

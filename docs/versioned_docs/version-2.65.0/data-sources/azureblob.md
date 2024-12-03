@@ -48,7 +48,7 @@ Query results can be transformed using Transformation. For more information on t
 
 </div>
 
-<div > 
+<div> 
 
 ## Supported Operations
 

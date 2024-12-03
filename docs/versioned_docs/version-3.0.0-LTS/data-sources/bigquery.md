@@ -5,7 +5,7 @@ title: BigQuery
 
 ToolJet can connect to **BigQuery** databases to run BigQuery queries.
 
-<div >
+<div>
 
 ## Connection
 
@@ -42,7 +42,7 @@ How to get a Private key?
 
 </div>
 
-<div >
+<div>
 
 ## Querying BigQuery
 
@@ -63,7 +63,7 @@ Query results can be transformed using transformations. Read our transformations
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

@@ -5,7 +5,7 @@ title: MinIO
 
 ToolJet can connect to minio and perform various operation on them.
 
-<div >
+<div>
 
 ## Connection
 
@@ -22,7 +22,7 @@ ToolJet requires the following to connect to your DynamoDB:
 
 </div>
 
-<div >
+<div>
 
 ## Querying Minio
 
@@ -39,7 +39,7 @@ Query results can be transformed using transformations. Read our transformations
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 

@@ -8,7 +8,7 @@ This guide demonstrates the utilization of the `to_py()` function in *RunPy* que
 
 </div>
 
-<div >
+<div>
 
 ## The to_py() Function
 
@@ -20,7 +20,7 @@ Similar to **to_js()**, **to_py()** facilitates the mapping and conversion of da
 
 </div>
 
-<div >
+<div>
 
 ## Using the to_py() Function
 
@@ -56,7 +56,7 @@ Both **to_js()** and **to_py()** functions offer a convenient means to exchange 
 
 </div>
 
-<div >
+<div>
 
 ## Why the Use of to_py() is Essential?
 

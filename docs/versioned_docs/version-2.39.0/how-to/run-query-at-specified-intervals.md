@@ -2,7 +2,7 @@
 id: run-query-at-specified-intervals
 title: Run Query at Specified Intervals
 ---
-<div >
+<div>
 
 In this guide, we'll walk through the process of building a ToolJet application that automates data retrieval at specific intervals. By utilizing the RunJS queries, we can set up intervals for triggering queries, ensuring that the data is fetched dynamically and efficiently.
 

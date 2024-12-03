@@ -3,7 +3,7 @@ id: appwrite
 title: Appwrite 
 ---
 
-<div >
+<div>
 
 ToolJet can connect to appwrite database to read/write data.
 

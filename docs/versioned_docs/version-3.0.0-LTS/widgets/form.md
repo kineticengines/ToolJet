@@ -9,7 +9,7 @@ The **Form** component is designed to capture user input. It can act as a parent
 Components like **Kanban**, **Calendar**, **Modal**, **Container**, **ListView**, **Tabs**, and **Form** can't be dropped inside the Form component.
 :::
 
-<div >
+<div>
 
 ## Properties
 
@@ -25,7 +25,7 @@ If you need a step-by-step guide on using a **Form** component, you can checkout
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -38,7 +38,7 @@ To add an event to the **Form** component, go to the **Events** section and clic
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -51,7 +51,7 @@ Following actions of form component can be controlled using the Component Specif
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -61,7 +61,7 @@ Following actions of form component can be controlled using the Component Specif
 
 </div>
 
-<div >
+<div>
 
 ## Using Custom Schema
 
@@ -173,7 +173,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -186,7 +186,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
 
 ## Layout
 
@@ -197,7 +197,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
 
 ## Styles
 
@@ -211,7 +211,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
 
 ## General
 
@@ -221,7 +221,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
 
 ## Custom Schema Examples
 - **[Datepicker](#datepicker)**
@@ -242,7 +242,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
 
 ### Datepicker
 
@@ -279,7 +279,7 @@ datepicker1: {
 
 </div>
 
-<div >
+<div>
 
 ### Number Input
 
@@ -322,7 +322,7 @@ numberInput1: {
 
 </div>
 
-<div >
+<div>
 
 ### Password
 
@@ -364,7 +364,7 @@ passwordInput1: {
 
 </div>
 
-<div >
+<div>
 
 ### Checkbox
 
@@ -397,7 +397,7 @@ checkbox1: {
 
 </div>
 
-<div >
+<div>
 
 ### Toggle
 
@@ -430,7 +430,7 @@ toggleswitch1: {
 
 </div>
 
-<div >
+<div>
 
 ### Text Area
 
@@ -463,7 +463,7 @@ textArea1: {
 
 </div>
 
-<div >
+<div>
 
 ### Date Range Picker
 
@@ -498,7 +498,7 @@ daterangepicker1: {
 
 </div>
 
-<div >
+<div>
 
 ### Multiselect
 
@@ -535,7 +535,7 @@ multiselect1: {
 
 </div>
 
-<div >
+<div>
 
 ### Star Rating
 
@@ -574,7 +574,7 @@ starRating1: {
 
 </div>
 
-<div >
+<div>
 
 ### File Picker
 
@@ -617,7 +617,7 @@ filepicker1: {
 
 </div>
 
-<div >
+<div>
 
 ### Text Input
 
@@ -661,7 +661,7 @@ textinput1: {
 
 </div>
 
-<div >
+<div>
 
 ### Dropdown
 
@@ -700,7 +700,7 @@ dropdown1: {
 
 </div>
 
-<div >
+<div>
 
 ### Button
 
@@ -739,7 +739,7 @@ button1: {
 
 </div>
 
-<div >
+<div>
 
 ### Text
 
@@ -772,7 +772,7 @@ text1: {
 
 </div>
 
-<div >
+<div>
 
 ### Radio
 

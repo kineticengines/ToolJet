@@ -2,7 +2,7 @@
 id: upload-files-aws
 title: Upload and Download Files on AWS S3 Bucket
 ---
-<div >
+<div>
 
 This guide will help you in quickly building a basic UI for uploading or downloading files from AWS S3 buckets.
 

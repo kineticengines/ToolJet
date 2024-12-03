@@ -8,7 +8,7 @@ ToolJet supports three libraries: **Moment.js**, **Lodash**, and **Axios**. This
 
 </div>
 
-<div >
+<div>
 
 ## GET Requests
 
@@ -34,7 +34,7 @@ return data
 
 </div>
 
-<div >
+<div>
 
 ## POST Requests
 

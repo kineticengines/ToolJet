@@ -5,7 +5,7 @@ title: Cloud Firestore
 
 ToolJet can connect to **Cloud Firestore** databases to read and write data.
 
-<div >
+<div>
 
 ## Connection 
 
@@ -20,7 +20,7 @@ For generating a private key check out **[Firestore's official documentation](ht
 
 </div>
 
-<div >
+<div>
 
 ## Querying Firestore 
 
@@ -37,7 +37,7 @@ Query results can be transformed using transformations. Read our transformations
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operations
 - **[Get Document](#get-document)**
@@ -157,7 +157,7 @@ Use this operation for deleting a document in a collection.
 
 </div>
 
-<div >
+<div>
 
 ## Transforming Firestore Query Result for Table Widget
 

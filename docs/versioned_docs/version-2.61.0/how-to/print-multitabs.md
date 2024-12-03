@@ -2,7 +2,7 @@
 id: print-multi-tabs-report
 title: Print Data from Multiple Tabs
 ---
-<div >
+<div>
 
 In this guide, we will implement printing data from multiple tabs in ToolJet. This will be useful when printing an invoice or a report from your ToolJet application. For example, a ToolJet app that has a set of tabs for each invoice, and you want to print all the tabs in one go.
 

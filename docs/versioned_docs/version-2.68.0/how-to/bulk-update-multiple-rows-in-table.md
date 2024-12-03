@@ -2,7 +2,7 @@
 id: bulk-update-multiple-rows
 title: Bulk Update Multiple Rows in Table
 ---
-<div >
+<div>
 For the purpose of this guide, it's presumed that you've already established a successful connection to your data source. We'll use PostgreSQL for this example, but you can adjust the queries based on the SQL database that you are using.
 
 </div>

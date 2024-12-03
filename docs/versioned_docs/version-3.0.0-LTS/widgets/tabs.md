@@ -15,7 +15,7 @@ If the builder attempts to add any of the aforementioned components inside the T
 `<Restricted component> cannot be used as a child component within the Tabs.`
 :::
 
-<div >
+<div>
 
 ## Properties
 
@@ -57,7 +57,7 @@ This property is enabled by default. When enabled, only the active tab will be r
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -71,7 +71,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -83,7 +83,7 @@ Following actions of Tabs component can be controlled using the component specif
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -93,7 +93,7 @@ Following actions of Tabs component can be controlled using the component specif
 
 </div>
 
-<div >
+<div>
 
 ## Actions
 
@@ -103,7 +103,7 @@ Following actions of Tabs component can be controlled using the component specif
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -114,7 +114,7 @@ Following actions of Tabs component can be controlled using the component specif
 
 </div>
 
-<div >
+<div>
 
 ----
 

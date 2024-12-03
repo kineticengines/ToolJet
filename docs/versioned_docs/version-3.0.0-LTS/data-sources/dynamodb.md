@@ -5,7 +5,7 @@ title: DynamoDB
 
 **DynamoDB** is a managed non-relational database service provided by Amazon. ToolJet has the capability to connect to DynamoDB for reading and writing data.
 
-<div >
+<div>
 
 ## Connection
 
@@ -54,7 +54,7 @@ If you prefer to use an **AWS ARN Role**, you will need to provide the following
 
 </div>
 
-<div >
+<div>
 
 ## Querying DynamoDB
 

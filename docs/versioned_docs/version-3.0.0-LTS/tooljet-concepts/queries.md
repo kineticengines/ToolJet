@@ -3,7 +3,7 @@ id: what-are-queries
 title: Queries
 ---
 
-<div >
+<div>
 
 **Queries** act as a bridge between the application and data sources. Queries help interact with data sources like databases or APIs. They fetch or update data based on events like button clicks, making apps dynamic.
 
@@ -13,7 +13,7 @@ title: Queries
 
 </div>
 
-<div >
+<div>
 
 ## Creation and Management
 
@@ -25,7 +25,7 @@ title: Queries
 
 </div>
 
-<div >
+<div>
 
 ## Execution and Interaction
 

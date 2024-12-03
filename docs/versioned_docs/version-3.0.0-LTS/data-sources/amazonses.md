@@ -5,7 +5,7 @@ title: Amazon SES
 
 ToolJet can connect to your Amazon SES account to send emails.
 
-<div >
+<div>
 
 ## Connection
 
@@ -28,7 +28,7 @@ ToolJet requires the following to connect to Amazon SES:
 
 </div>
 
-<div >
+<div>
 
 ## Querying Amazon SES
 
@@ -41,7 +41,7 @@ ToolJet requires the following to connect to Amazon SES:
 
 </div>
 
-<div >
+<div>
 
 ## Supported Operation
 

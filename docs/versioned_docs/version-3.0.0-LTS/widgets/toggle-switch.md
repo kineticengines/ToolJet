@@ -5,7 +5,7 @@ title: Toggle Switch
 
 The **Toggle Switch** component can be used for binary choices, such as turning a feature on/off or enabling/disabling a setting.
 
-<div >
+<div>
 
 :::info
 To get the configuration of legacy Toggle Switch component, please refer to **[this](/docs/widgets/toggle-switch)** document.
@@ -22,7 +22,7 @@ To get the configuration of legacy Toggle Switch component, please refer to **[t
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -38,7 +38,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -56,7 +56,7 @@ Following actions of Toggle switch component can be controlled using the compone
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -72,7 +72,7 @@ Following actions of Toggle switch component can be controlled using the compone
 
 </div>
 
-<div >
+<div>
 
 ## Validation
 

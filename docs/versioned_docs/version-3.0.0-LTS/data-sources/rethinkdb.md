@@ -6,7 +6,7 @@ title: RethinkDB
 
 ToolJet can connect to RethinkDB databases to read and write data. For more info visit this [Rethink Docs](https://rethinkdb.com/api/javascript).
 
-<div >
+<div>
 
 ## Connection
 
@@ -24,7 +24,7 @@ ToolJet requires the following to connect to a RethinkDB data source:
 
 </div>
 
-<div >
+<div>
 
 ## Querying RethinkDB
 
@@ -37,7 +37,7 @@ ToolJet requires the following to connect to a RethinkDB data source:
 
 </div>
 
-<div >
+<div>
 
 ## Supported Queries
 

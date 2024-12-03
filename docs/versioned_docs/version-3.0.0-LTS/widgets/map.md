@@ -15,7 +15,7 @@ If you are utilizing the self-hosted version of ToolJet, it is necessary to conf
 
 </div>
 
-<div >
+<div>
 
 ## Properties
 
@@ -29,7 +29,7 @@ If you are utilizing the self-hosted version of ToolJet, it is necessary to conf
 
 </div>
 
-<div >
+<div>
 
 ## Events
 
@@ -46,7 +46,7 @@ For detailed information about all the available **Actions**, please refer to th
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -58,7 +58,7 @@ Following actions of Map component can be controlled using the component specifi
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -78,7 +78,7 @@ Exposed variables can be used to get data from the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -87,7 +87,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
 
 ## Devices
 
@@ -98,7 +98,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 
 </div>
 
-<div >
+<div>
   
 ----
 

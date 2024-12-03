@@ -23,7 +23,7 @@ If you already have existing services and wish to integrate ToolJet seamlessly i
 curl -LO https://tooljet-deployments.s3.us-west-1.amazonaws.com/cloudformation/Cloudformation-deploy.yml
 ``` 
 
-<div >
+<div>
 
 ## Redis
 
@@ -48,7 +48,7 @@ Please note that if you already have an existing Redis setup, you can continue u
 
 </div>
 
-<div >
+<div>
 
 ## ToolJet
 
@@ -118,7 +118,7 @@ The setup above is just a template. Feel free to update the task definition and 
 
 </div>
 
-<div >
+<div>
 
 ## ToolJet Database
 

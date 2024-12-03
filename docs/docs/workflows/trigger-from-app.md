@@ -4,7 +4,7 @@ title: Trigger Workflows Within ToolJet
 ---
 
 This guide will show you how to set up a workflow and it workflow from a ToolJet application. 
-<div >
+<div>
 
 ## Create Workflow
 
@@ -24,7 +24,7 @@ To create a workflow follow the following steps:
 
 </div>
 
-<div >
+<div>
 
 ## Configure Workflow Query
 

@@ -5,7 +5,7 @@ title: SAP HANA
 
 ToolJet can connect to SAP HANA databases to read and write data. 
 
-<div >
+<div>
 
 ## Connection
 
@@ -26,7 +26,7 @@ Please make sure the **Host/IP** of the database is accessible from your VPC if 
 
 </div>
 
-<div >
+<div>
 
 ## Querying SAP HANA
 

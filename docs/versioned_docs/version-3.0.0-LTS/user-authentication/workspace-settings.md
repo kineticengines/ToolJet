@@ -11,7 +11,7 @@ To access the Workspace Login, navigate to the ToolJet dashboard and click on th
  <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/sso/workspace-settings/login-sso-v2.png" alt="Workspace settings" />
 </div>
 
-<div >
+<div>
 
 ## Workspace Login State: Enabled/Inherited
 
@@ -29,11 +29,11 @@ When the workspace login state is `Inherited`, the workspace login settings are 
 
 </div>
 
-<div >
+<div>
 
 ## Configuring Workspace Login
 
-<div >
+<div>
 
 ### Allowed Domains
 
@@ -41,7 +41,7 @@ The allowed domains field is used to specify the domains that are allowed to acc
 
 </div>
 
-<div >
+<div>
 
 ### Login URL
 
@@ -49,7 +49,7 @@ Login URL is automatically generated and can be used to login directly to the wo
 
 </div>
 
-<div >
+<div>
 
 ### Enable Sign-up
 
@@ -59,7 +59,7 @@ The enable sign-up toggle is used to enable or disable the sign-up option for th
 
 </div>
 
-<div >
+<div>
 
 ## Password Login
 
@@ -67,7 +67,7 @@ Password login is a method of user authentication where user can login using the
 
 </div>
 
-<div >
+<div>
 
 ### Retry Limits
 
@@ -75,7 +75,7 @@ The user password authentication method will be disabled after predefined number
 
 </div>
 
-<div >
+<div>
 
 ### Reset Password
 

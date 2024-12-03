@@ -3,7 +3,7 @@ id: firestore
 title: Cloud Firestore
 ---
 
-<div >
+<div>
 
 ToolJet can connect to **Cloud Firestore** databases to read and write data.
 

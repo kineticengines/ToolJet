@@ -20,7 +20,7 @@ Drag and drop a **Form** component on the canvas and place the following input c
 | Number Input      | *numberinput1* | Contact                                            |
 | Button            | *button1*      | Submit                                             |
 
-<div >
+<div>
     <img src="/img/how-to/build-dynamic-forms/dynamic-form-UI.png" alt="Dynamic Form UI" />
 </div>
 
@@ -63,11 +63,11 @@ It’s time to put your form to the test! Check that everything functions smooth
 
 a. Check whether the *textinput1* is visible and hidden based on the star rating.
 
-<div >
+<div>
     <img src="/img/how-to/build-dynamic-forms/start-rating-condition-test.png" style={{paddingBottom:"25px"}} alt="Dynamic Form UI - Test Star Rating" />
 </div>
 
-<div >
+<div>
     <img src="/img/how-to/build-dynamic-forms/start-rating-condition-test-2.png" style={{paddingBottom:"25px"}} alt="Dynamic Form UI - Test Star Rating 2" />
 </div>
 

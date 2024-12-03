@@ -6,7 +6,7 @@ title: Tags
 
 The **Tags** component can be used to show array of data as tags.
 
-<div >
+<div>
 
 ## Properties
 
@@ -29,7 +29,7 @@ Each object should include a title, a color code for a specific tag, and a corre
 
 </div>
 
-<div >
+<div>
 
 ## Component Specific Actions (CSA)
 
@@ -37,7 +37,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 
 </div>
 
-<div >
+<div>
 
 ## Exposed Variables
 
@@ -45,7 +45,7 @@ There are currently no exposed variables for the component.
 
 </div>
 
-<div >
+<div>
 
 ## General
 ### Tooltip
@@ -56,7 +56,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Layout
 
@@ -67,7 +67,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 
 </div>
 
-<div >
+<div>
 
 ## Styles
 

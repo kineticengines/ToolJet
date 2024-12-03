@@ -5,7 +5,7 @@ title: CouchDB
 
 ToolJet can connect to CouchDB databases to read and write data. 
 
-<div >
+<div>
 
 ## Connection
 
@@ -19,7 +19,7 @@ ToolJet requires the following to connect to your CouchDB.
 
 </div>
 
-<div >
+<div>
 
 ## Querying CouchDB
 
@@ -32,7 +32,7 @@ ToolJet requires the following to connect to your CouchDB.
 
 </div>
 
-<div >
+<div>
 
 ## Supported Queries 
 

@@ -5,7 +5,7 @@ title: Zendesk
 
 ToolJet can connect to Zendesk APIs to read and write data using OAuth 2.0, which helps us to limit an application's access to a user's account.
 
-<div >
+<div>
 
 ## Connection 
 
@@ -28,7 +28,7 @@ You must first be a verified user to make Zendesk API requests. This is configur
 
 </div>
 
-<div >
+<div>
 
 ## Querying Zendesk
 
@@ -42,7 +42,7 @@ You must first be a verified user to make Zendesk API requests. This is configur
 </div>
 
 
-<div >
+<div>
 
 ## Supported Operations
 

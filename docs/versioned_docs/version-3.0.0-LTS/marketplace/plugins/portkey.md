@@ -5,7 +5,7 @@ title: Portkey
 
 ToolJet can integrate with Portkey to access AI services such as text completion, chat completion, prompt completion, and embedding creation. This integration enables ToolJet to leverage Portkey's LMOps platform to develop, launch, maintain, and iterate on generative AI features.
 
-<div style={{textAlign: 'center', paddingBottom: '24px'}}>
+<div style={{textAlign: 'center'}}>
     <img className="screenshot-full" src="/img/marketplace/plugins/portkey/overview.png" alt="Portkey Dashboard Overview" />
 </div>
 
