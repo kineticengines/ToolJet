@@ -6,6 +6,7 @@ title: TypeSense
 ToolJet can connect to your TypeSense deployment to read and write data.
 
 <div>
+
 ## Connection 
 
 To establish a connection with the Typesense data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page from the ToolJet dashboard and choose Typesense as the data source.
@@ -25,6 +26,7 @@ ToolJet requires the following to connect to TypeSense deployment:
 </div>
 
 <div>
+
 ## Querying TypeSense 
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -39,6 +41,7 @@ Query results can be transformed using transformations. Read our transformations
 </div>
 
 <div>
+
 ## Supported Operations
 
 ### Create a Collection

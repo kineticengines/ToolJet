@@ -6,6 +6,7 @@ title: Import and Export Applications
 This documentation explains the process of exporting and importing applications in ToolJet.
 
 <div>
+
 ## Exporting Applications
 
 - Navigate to the dashboard.
@@ -26,6 +27,7 @@ This documentation explains the process of exporting and importing applications 
 </div>
 
 <div>
+
 ## Importing Applications
 
 - Navigate to the dashboard.

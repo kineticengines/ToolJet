@@ -12,6 +12,7 @@ ToolJet Marketplace allows users to enhance their workspaces by adding custom pl
 </div>
 
 <div>
+
 ## Enabling Marketplace 
 
 To **Enable** the marketplace feature, users need to add the following environment variable to their **[`.env`](/docs/setup/env-vars#marketplace)** file:
@@ -29,6 +30,7 @@ The logged-in user should be an **Administrator** to access the marketplace page
 </div>
 
 <div>
+
 ## Installing a Plugin
 
 To navigate to the Marketplace page, click on the settings icon on the bottom left of the dashboard, and click on **Marketplace** from the selection menu.
@@ -44,6 +46,7 @@ Under the **Marketplace** tab, you will see a list of all the available plugins 
 </div>
 
 <div>
+
 ## Using Marketplace Plugins
 
 You can access any installed plugins by following these steps:
@@ -70,7 +73,7 @@ To remove a plugin, follow these steps:
 - On the `Installed` page, click on the `Remove` button of the related plugin that you wish to remove.
 
 ## Available Plugins
-- **[AWS Redshift](/docs/marketplace/plugins/marketplace-plugin-redshift)**
+- **[AWS Redshift](/docs/marketplace/plugins/marketplace-plugin-awsredshift)**
 - **[AWS Textract](/docs/marketplace/plugins/marketplace-plugin-textract)**
 - **[AWS Lambda](/docs/marketplace/plugins/marketplace-plugin-aws-lambda)**
 - **[Engagespot](/docs/marketplace/plugins/marketplace-plugin-engagespot)**
@@ -80,8 +83,9 @@ To remove a plugin, follow these steps:
 - **[Plivo](/docs/marketplace/plugins/marketplace-plugin-plivo)**
 - **[Pocketbase](/docs/marketplace/plugins/marketplace-plugin-pocketbase)**
 - **[Portkey](/docs/marketplace/plugins/marketplace-plugin-portkey)**
-- **[PrestoDB](/docs/marketplace/plugins/marketplace-plugin-prestodb)**
+- **[PrestoDB](/docs/marketplace/plugins/marketplace-plugin-Presto)**
 - **[Salesforce](/docs/marketplace/plugins/marketplace-plugin-salesforce)**
+- **[Sharepoint](/docs/marketplace/plugins/marketplace-plugin-sharepoint)**
 - **[Supabase](/docs/marketplace/plugins/marketplace-plugin-supabase)**
 :::info For Plugin Developers
 Refer to the **[Plugin Development guide](/docs/contributing-guide/marketplace/marketplace-setup)** to learn how to create plugins for the ToolJet Marketplace.

@@ -6,6 +6,7 @@ title: n8n
 ToolJet can trigger n8n workflows using webhook URLs. Please refer [this](https://docs.n8n.io/) to know more about n8n.
 
 <div>
+
 ## Connection
 
 To establish a connection with the n8n data source, click on the **+ Add new Data source** button located on the query panel or navigate to the [Data Sources](https://docs.tooljet.com/docs/data-sources/overview) page from the ToolJet dashboard.
@@ -40,6 +41,7 @@ Webhook credentials and instance credentials are different. Please use the crede
 </div>
 
 <div>
+
 ## Trigger Workflow
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.

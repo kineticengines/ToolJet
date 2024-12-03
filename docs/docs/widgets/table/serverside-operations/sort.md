@@ -6,6 +6,7 @@ title: Sort Operation
 This guide explains how to perform serverside sort operation on a **Table** component in ToolJet.
 
 <div>
+
 ## Add Table Component
 
 Before performing the sort operation, lets setup the **Table** component and populate it with the data:
@@ -27,6 +28,7 @@ Before performing the sort operation, lets setup the **Table** component and pop
 </div>
 
 <div>
+
 ## Serverside Sort
 
 Follow the following steps to perform server side sort operation on **Table**:

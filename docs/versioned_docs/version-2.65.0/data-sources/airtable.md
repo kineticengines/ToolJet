@@ -16,6 +16,7 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 :::
 
 <div>
+
 ## Supported Operations
 
 - **[List records](#list-records)**
@@ -27,7 +28,9 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 </div>
 
 <div>
-### List records
+
+##
+# List records
 
 This operation returns a list of records from the specified table.
 

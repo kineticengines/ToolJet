@@ -5,9 +5,10 @@ title: Tree Select
 
 # Tree Select
 
-The **Tree Select** widget is a group checkboxes in a TreeView which can be expanded or collapsed.
+The **Tree Select** component is a group checkboxes in a TreeView which can be expanded or collapsed.
 
 <div>
+
 ## Properties
 
 ### Title
@@ -86,6 +87,7 @@ Similar to checked values, expanded values is an array of values passed to expan
 </div>
 
 <div>
+
 ## Events
 
 :::info
@@ -101,6 +103,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -108,6 +111,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables  </div>  | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div>|
@@ -120,27 +124,29 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Layout
 
 |  <div style={{ width:"100px"}}> Layout </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"135px"}}> Expected Value </div>|
 |:----- |:---------  |:------------- |
-| Show on desktop | Toggle on or off to display desktop view. | You can programmatically determining the value by clicking on `Fx` to set the value `{{true}}` or `{{false}}` |
-| Show on mobile  | Toggle on or off to display mobile view.  | You can programmatically determining the value by clicking on `Fx` to set the value `{{true}}` or `{{false}}` |
+| Show on desktop  | Toggle on or off to display desktop view. | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}` |
+| Show on mobile | Toggle on or off to display mobile view. | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}` |
 
 </div>
 
 <div>
+
 ## Styles
 
 |  <div style={{ width:"100px"}}> Style </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"100px"}}> Default Value </div>|
 |:----- |:---------  |:------------- |
-| Text color | Change the color of the text in the widget by providig the `Hex color code` or choosing a color from the picker. |  |
-| Checkbox color | Change the color of the toggle switch in the widget by providig the `Hex color code` or choosing a color from the picker. |  |
-| Visibility | This is to control the visibility of the widget. If `{{false}}` the widget will not visible after the app is deployed. It can only have boolean values i.e. either `{{true}}` or `{{false}}`. | By default, it's set to `{{true}}`. |
-| Disable | This property only accepts boolean values. If set to `{{true}}`, the widget will be locked and becomes non-functional. | By default, its value is set to `{{false}}`. |
+| Text color  | Change the color of the text in the component by providig the `Hex color code` or choosing a color from the picker. |     |
+| Checkbox color | Change the color of the toggle switch in the component by providig the `Hex color code` or choosing a color from the picker. |   |
+| Visibility  | This is to control the visibility of the component. If `{{false}}` the component will not visible after the app is deployed. It can only have boolean values i.e. either `{{true}}` or `{{false}}`. | By default, it's set to `{{true}}`.  |
+| Disable   | This property only accepts boolean values. If set to `{{true}}`, the component will be locked and becomes non-functional.  | By default, its value is set to `{{false}}`.|
 
 :::info
-Any property having `Fx` button next to its field can be **programmatically configured**.
+Any property having **fx** button next to its field can be **programmatically configured**.
 :::
 
 </div>

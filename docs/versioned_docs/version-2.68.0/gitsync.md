@@ -12,6 +12,7 @@ import TabItem from '@theme/TabItem';
 The GitSync feature enables synchronization of workspace applications with a git repository, streamlining application management and version control on ToolJet.
 
 <div>
+
 ## Overview
 
 ToolJet applications can be synchronized with a Git repository, offering the flexibility to tailor your application development and deployment processes across various environments while aligning with best practices for the application development lifecycle.
@@ -19,7 +20,9 @@ ToolJet applications can be synchronized with a Git repository, offering the fle
 </div>
 
 <div>
-### Key Use-Cases:
+
+##
+# Key Use-Cases:
 
 #### Backup of Apps
 
@@ -43,6 +46,7 @@ Facilitating the movement of applications across different ToolJet deployments (
 <TabItem value="GitHub" label="Setting up GitSyncing with GitHub">
 
 <div>
+
 ## Setting up GitSyncing with GitHub
 
 :::caution
@@ -106,6 +110,7 @@ Go back to the **Configure git** tab on ToolJet, and click on the **Finalize set
 </div>
 
 <div>
+
 ## Auto-commit on Promoting Environment
 
 When you promote an environment, from **Developement to Staging**, the changes will be automatically committed to the git repository. The commit message will be `<version_number> Version of <app_name> promoted from <source_environment> to <destination_environment>`. The author will be the user who promoted the environment. When you promote an environment, from **Staging to Production**, no changes will be committed to the git repository.
@@ -125,6 +130,7 @@ This option can be enabled or disabled from the **Configure git** tab on the **W
 </div>
 
 <div>
+
 ## Enable/Disable GitSync
 
 To enable or disable the GitSync feature, go to the **Configure git** tab on the **Workspace settings** page, and toggle on/off the **Connect** switch. This is only available if the GitSync feature is configured.
@@ -145,6 +151,7 @@ On clicking the GitSync button, the users will be able to commit changes to the 
 </div>
 
 <div>
+
 ## Delete GitSync Configuration
 
 To delete the GitSync configuration, go to the **Configure git** tab on the **Workspace settings** page, and click on the **Delete configuration** button. This will delete the SSH key from the ToolJet configuration and the GitSync feature will be disabled.
@@ -160,6 +167,7 @@ To delete the GitSync configuration, go to the **Configure git** tab on the **Wo
 </div>
 
 <div>
+
 ## Git Repo
 
 Once the initial commit is made, you can see the app files in the git repository. The repository will have the individual app folders and a **.meta** folder. The app folders will be named as the app name and will have the respective **JSON** file of the application. The **.meta** folder will have the `meta.json` file that contains the meta information of each application synced to git repo.
@@ -174,6 +182,7 @@ The **meta.json** file holds information about apps such as the **App name**, **
 </div>
 
 <div>
+
 ## Pushing Changes to Git Repo
 
 Once the GitSync feature is configured, you can start pushing changes to the git repository. 
@@ -281,6 +290,7 @@ You can check for updates in the git repository by clicking on the **GitSync** b
 <TabItem value="GitLab" label="Setting up GitSyncing with GitLab">
 
 <div>
+
 ## Setting up GitSyncing with GitLab
 
 :::caution
@@ -290,7 +300,9 @@ You can check for updates in the git repository by clicking on the **GitSync** b
 :::
 
 <div>
-### Step 1: Create a new repository
+
+##
+# Step 1: Create a new repository
 
 Create a new repository on GitLab. The repository can be public or private. You can also use an existing repository. **Make sure that the repository is empty**.
 
@@ -302,7 +314,9 @@ Create a new repository on GitLab. The repository can be public or private. You 
 </div>
 
 <div>
-### Step 2: Obtain the repository URL
+
+##
+# Step 2: Obtain the repository URL
 
 Obtain the **SSH URL** of the repository. On GitLab, you can obtain the URL by clicking on the **Clone** button and selecting the **SSH** option.
 
@@ -314,7 +328,9 @@ Obtain the **SSH URL** of the repository. On GitLab, you can obtain the URL by c
 </div>
 
 <div>
-### Step 3: Configure the GitSync feature on ToolJet
+
+##
+# Step 3: Configure the GitSync feature on ToolJet
 
 Go to the **Workspace settings**, and click on the **Configure git** tab.
 
@@ -337,7 +353,9 @@ There are two types of generated SSH keys: **
 </div>
 
 <div>
-### Step 4: Deploy the SSH key to GitLab
+
+##
+# Step 4: Deploy the SSH key to GitLab
 
 Now, let's add the SSH key to GitLab. You have two options, depending on your needs:
 
@@ -381,7 +399,9 @@ Option 2: Add as a deploy key (for access to a specific repository only)
 </div>
 
 <div>
-### Step 5: Finish the GitSync configuration on ToolJet
+
+##
+# Step 5: Finish the GitSync configuration on ToolJet
 
 Go back to the **Configure git** tab on ToolJet, and click on the **Finalize setup** button. If the SSH key is configured correctly, you will see a success message.
 
@@ -406,6 +426,7 @@ This option can be enabled or disabled from the **Configure git** tab on the **W
 <br/>
 
 <div>
+
 ## Enable/Disable GitSync
 
 To enable or disable the GitSync feature, go to the **Configure git** tab on the **Workspace settings** page, and toggle on/off the **Connect** switch. This is only available if the GitSync feature is configured.
@@ -427,6 +448,7 @@ On clicking the GitSync button, the users will be able to commit changes to the 
 </div>
 
 <div>
+
 ## Delete GitSync configuration
 
 To delete the GitSync configuration, go to the **Configure git** tab on the **Workspace settings** page, and click on the **Delete configuration** button. This will delete the SSH key from the ToolJet configuration and the GitSync feature will be disabled.
@@ -440,6 +462,7 @@ To delete the GitSync configuration, go to the **Configure git** tab on the **Wo
 </div>
 
 <div>
+
 ## Git repo
 
 Once the initial commit is made, you can see the app files in the git repository. The repository will have the individual app folders and a **.meta** folder. The app folders will be named as the app name and will have the respective **JSON** file of the application. The **.meta** folder will have the `meta.json` file that contains the meta information of each application synced to git repo.
@@ -453,12 +476,15 @@ The **meta.json** file holds information about apps such as the **App name**, **
 </div>
 
 <div>
+
 ## Pushing changes to git repo
 
 Once the GitSync feature is configured, you can start pushing changes to the git repository. 
 
 <div>
-### App creation
+
+##
+# App creation
 
 When you create a new app, you will see an option to select the `Commit changes`. If you select the `commit changes` option, the changes will be committed to the git repository.
 
@@ -479,7 +505,9 @@ Selecting the `Commit changes` option will create a new commit in the git reposi
 </div>
 
 <div>
-### App rename
+
+##
+# App rename
 
 Whenever an app is renamed, the changes will be automatically committed to the git repository. The commit message will be `App is renamed` and the author will be the user who renamed the app.
 
@@ -490,7 +518,9 @@ Whenever an app is renamed, the changes will be automatically committed to the g
 </div>
 
 <div>
-### App updates
+
+##
+# App updates
 
 Whenever a user makes a change in an app, they can make a commit to the git repository by clicking on the **GitSync** button on the topbar. On clicking the **GitSync** button, a modal will open with the option to enter the commit message. The user can enter the commit message and click on the **Commit changes** button to commit the changes to the git repository. Along with the commit message, the user can also see the connnected **Git repo URL** and the **last commit details**. 
 
@@ -509,14 +539,18 @@ Once the changes are committed, the user can see the commit message, author, and
 </div>
 
 <div>
-### App deletion
+
+##
+# App deletion
 
 Whenever a user deleted an app from the workspace, the app will not be deleted from the git repository. The app will be available in the git repository in the same state as it was before the app was deleted.
 
 </div>
 
 <div>
-### App version update
+
+##
+# App version update
 
 When a user creates a new version of an app, there will be an option to select the `Commit changes`. If you select the `commit changes` option, the new version of the app will be committed to the git repository.
 
@@ -535,6 +569,7 @@ The **JSON** file in the app folder will be replaced with the new version of the
 </div>
 
 <div>
+
 ## Pulling changes from git repo
 
 You can configure the GitSync feature on another workspace to pull the changes from the git repository. To configure the GitSync feature on another workspace, follow the steps mentioned in the [Setting up GitSyncing with GitLab](#setting-up-gitsyncing-with-gitlab) section.
@@ -558,7 +593,9 @@ On clicking the **Import from git repository** option, a modal will open with th
 </div>
 
 <div>
-### Checking for updates
+
+##
+# Checking for updates
 
 You can check for updates in the git repository by clicking on the **GitSync** button on the topbar. On clicking the **GitSync** button, a modal will open with the option to **Check for updates**. Click on the **Check for updates** button to check for updates in the git repository. If there are any updates, you will see the details of the updates such as commit message, author, and the date in the modal. Click on the **Pull changes** button to pull the changes from the git repository.
 

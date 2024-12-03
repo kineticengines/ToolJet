@@ -17,6 +17,7 @@ title: File Picker
 :::
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"135px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -39,6 +40,7 @@ Any file that does not have a size in the range of `Max size limit` and `Min siz
 </div>
 
 <div>
+
 ## Events
 
 | <div style={{ width:"135px"}}> Event </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -54,6 +56,7 @@ Checkout **[this](/docs/how-to/loading-image-pdf-from-db)** guide to learn how t
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 
@@ -65,6 +68,7 @@ Checkout **[this](/docs/how-to/loading-image-pdf-from-db)** guide to learn how t
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables </div> | <div style={{ width:"200px"}}> Description </div> | <div style={{ width:"200px"}}> How To Access </div> |
@@ -74,6 +78,7 @@ Checkout **[this](/docs/how-to/loading-image-pdf-from-db)** guide to learn how t
 </div>
 
 <div>
+
 ## Options
 
 | <div style={{ width:"135px"}}> Option </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -89,6 +94,7 @@ Checkout **[this](/docs/how-to/loading-image-pdf-from-db)** guide to learn how t
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -99,6 +105,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -109,6 +116,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style </div> | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"100px"}}> Default Value </div> |

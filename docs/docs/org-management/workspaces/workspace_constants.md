@@ -8,6 +8,7 @@ title: Workspace Constants and Secrets
 Workspace constants and secrets are predefined values that can be used across your application to maintain consistency, facilitate easy updates, and securely store sensitive information. This document will guide you through the usage and management of workspace constants and secrets within your workspaces.
 
 <div>
+
 ## Types of Constants
 
 ToolJet offers two types of constants:
@@ -38,6 +39,7 @@ Secrets cannot be used in RunJS or RunPy queries.
 
 
 <div>
+
 ## Environment-Specific Configurations
 
 Users can define environment-specific configurations by setting different values for constants and secrets across environments. This is useful for managing sensitive information such as API keys, database credentials, or external service endpoints which may vary between different environments. For example, you can set different API keys for development, staging, and production environments.
@@ -48,6 +50,7 @@ Users can define environment-specific configurations by setting different values
 </div>
 
 <div>
+
 ## Server-Side Resolution and Security
 
 Both workspace constants and secrets are resolved on the server side only. This ensures that sensitive data remains secure and is not exposed to the client-side. All constants and secrets are encrypted before being stored in the database, providing an additional layer of security.
@@ -55,6 +58,7 @@ Both workspace constants and secrets are resolved on the server side only. This 
 </div>
 
 <div>
+
 ## Access Control
 
 Creating, updating, and deleting constants and secrets are exclusive privileges granted to **Admins**. Workspace constants and secrets are specific to the workspace where they are created and cannot be utilized in other workspaces.
@@ -62,6 +66,7 @@ Creating, updating, and deleting constants and secrets are exclusive privileges 
 </div>
 
 <div>
+
 ## Creating Workspace Constants and Secrets
 
 To create workspace constants or secrets, follow these steps:
@@ -117,6 +122,7 @@ You can use global constants in datasource connection forms and queries using th
 </div>
 
 <div>
+
 ## Using Secrets
 
 Secrets are designed for secure storage of sensitive information like API keys, database credentials, and encryption keys.

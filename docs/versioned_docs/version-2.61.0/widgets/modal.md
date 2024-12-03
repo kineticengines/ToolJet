@@ -15,6 +15,7 @@ If the builder attempts to add any of the aforementioned components inside the M
 :::
 
 <div>
+
 ## Add Widgets to Modal
 
 To add widgets to the Modals please refer to **[Tutorial - Adding widgets to a modal](/docs/tutorial/adding-widget#adding-widgets-to-modal)**
@@ -22,6 +23,7 @@ To add widgets to the Modals please refer to **[Tutorial - Adding widgets to a m
 </div>
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property   </div>   | <div style={{ width:"100px"}}> Description </div> | 
@@ -38,6 +40,7 @@ To add widgets to the Modals please refer to **[Tutorial - Adding widgets to a m
 </div>
 
 <div>
+
 ## Events
 
 Modal supports the following two events:
@@ -51,6 +54,7 @@ Just like any other event on ToolJet, you can set multiple handlers for the even
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 Following actions of Modal component can be controlled using the component specific actions(CSA):
@@ -63,6 +67,7 @@ Following actions of Modal component can be controlled using the component speci
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the component.
@@ -70,6 +75,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## Options
 
 | <div style={{ width:"100px"}}> Option  </div>   | <div style={{ width:"100px"}}> Description </div> | 
@@ -84,6 +90,7 @@ A modal can be triggered using the default trigger button, [action](/docs/action
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -94,6 +101,7 @@ A modal can be triggered using the default trigger button, [action](/docs/action
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style   </div>   | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"100px"}}> Value </div> |

@@ -9,6 +9,7 @@ Conditional formatting enhances the visual representation of data by allowing yo
 </div>
 
 <div>
+
 ## Create a New Application and Set Up Data Source
 
 - Create a new application and add a Table component to the canvas.
@@ -31,6 +32,7 @@ https://fakestoreapi.com/products
 </div>
 
 <div>
+
 ## Display Data on the Table
 
 - Hide the Query Panel and click on the Table component to open its properties panel.
@@ -47,6 +49,7 @@ https://fakestoreapi.com/products
 </div>
 
 <div>
+
 ## Enabling Conditional Formatting
 
 - Go to the `Columns` property of the Table component.
@@ -64,10 +67,13 @@ https://fakestoreapi.com/products
 </div>
 
 <div>
+
 ## Conditional Formatting using Cell Value
 
 <div>
-### Example 1: Changing Text Color Based on Cell Value
+
+##
+# Example 1: Changing Text Color Based on Cell Value
 
 - Select the `Rate` column which has a column type of `Default`/`String`. This column contains the rating of each product on a scale of 1 to 5.
 
@@ -86,7 +92,9 @@ The above condition will change the text color to red if the cell value is less 
 </div>
 
 <div>
-### Example 2: Changing Cell Background Color Based on Cell Value
+
+##
+# Example 2: Changing Cell Background Color Based on Cell Value
 
 - Select the `Rate` column, enter the following condition under the `Cell background color` property:
   
@@ -105,10 +113,13 @@ The above condition will change the cell background color to lightgreen if the c
 </div>
 
 <div>
+
 ## Conditional Formatting using Row Data
 
 <div>
-### Example 1: Changing Text Color Based on Row Data
+
+##
+# Example 1: Changing Text Color Based on Row Data
 
 - Select the `Title` column, enter the following condition under the `Text color` property:
   
@@ -125,7 +136,9 @@ The above condition will change the text color of the `Title` based on the value
 </div>
 
 <div>
-### Example 2: Changing Cell Background Color based on Row Data
+
+##
+# Example 2: Changing Cell Background Color based on Row Data
 
 - In this example, we will change the cell background color of the `Title` column based on the category of the product.
 

@@ -14,6 +14,7 @@ Furthermore, the dashboard serves as a gateway to various essential sections, su
 </div>
 
 <div>
+
 ## Workspace Manager
 
 The workspace manager is located on the bottom left corner of the dashboard. Clicking on the workspace manager will open a dropdown menu listing all the workspaces you belong to. You can switch between workspaces by clicking on the workspace name from the dropdown menu.
@@ -27,7 +28,9 @@ The workspace manager is located on the bottom left corner of the dashboard. Cli
 </div>
 
 <div>
-### Add New Workspace
+
+##
+# Add New Workspace
 
 On clicking the `Add new workspace` button, a modal will open where you can enter the name of the workspace, enter the unique workspace slug, and can see the preview of the workspace URL. Click on the `+ Create Workspace` button to create a new workspace.
 
@@ -50,13 +53,16 @@ Previously, the workspace slug was an automatically generated workspace ID, like
 </div>
 
 <div>
-### Edit Workspace
+
+##
+# Edit Workspace
 
 Similar to the `Add new workspace` button, clicking on the `Edit workspace` button will open a modal where you can edit the name of the workspace and the workspace slug. Click on the `Save` button to update the changes.
 
 </div>
 
 <div>
+
 ## Create a New App
 
 To create a new app, click on the `Create new app` button on the top left corner of the dashboard. Clicking on this button will open a modal where you can enter the name of the app and then click on the `+ Create app` button to create a new app.
@@ -76,7 +82,9 @@ There are three dots on the right side of the `Create new app` button. Clicking 
 </div>
 
 <div>
-### Choose from Templates
+
+##
+# Choose from Templates
 
 This option will open a modal with a list of pre-built templates. You can choose any template from this list to create a new app.
 
@@ -89,7 +97,9 @@ This option will open a modal with a list of pre-built templates. You can choose
 </div>
 
 <div>
-### Import
+
+##
+# Import
 
 This option will open a file picker to import a JSON file. This JSON file should contain the app data exported from ToolJet.
 
@@ -102,7 +112,9 @@ This option will open a file picker to import a JSON file. This JSON file should
 </div>
 
 <div>
-### Importing an App Connected to Marketplace Plugins
+
+##
+# Importing an App Connected to Marketplace Plugins
 
 When importing an app with Marketplace plugins, the Marketplace plugin should be installed in the ToolJet workspace where the app is being imported. If the Marketplace plugin is not installed, the app will be imported without the queries for that plugin.
 
@@ -117,7 +129,9 @@ If you have an app with a query linked to a Marketplace plugin, and you import t
 </div>
 
 <div>
-### Importing App Connected to ToolJet Table
+
+##
+# Importing App Connected to ToolJet Table
 
 When the app(JSON file) that includes the table schema is imported, and the table is not present in the ToolJet database of the workspace where the app is being imported, a new table will be created in the ToolJet database with the same name as the table in the imported app.
 
@@ -126,17 +140,22 @@ If the table with the same name is already present in the workspace, the new tab
 </div>
 
 <div>
+
 ## Folders
 
 <div>
-### Create a new folder
+
+##
+# Create a new folder
 
 Folders can be created to organize your apps. To create a new folder, click on the `+` button on the left drawer of the dashboard. Clicking on this button will open a modal, enter the name of the folder and click on the `Create Folder` button to create a new folder.
 
 </div>
 
 <div>
-### Delete or Edit Folder
+
+##
+# Delete or Edit Folder
 
 A folder can be **deleted** or **renamed**. To delete or rename a folder, click on the kebab menu on the right side of the folder name. Clicking on kebab menu will open a dropdown menu with two options:
 
@@ -152,7 +171,9 @@ A folder can be **deleted** or **renamed**. To delete or rename a folder, click 
 </div>
 
 <div>
-### Search Folders
+
+##
+# Search Folders
 
 Folders can be searched by clicking on the search icon on the left drawer of the dashboard. Clicking on the search icon will open a search bar, enter the name of the folder to search.
 
@@ -165,7 +186,9 @@ Folders can be searched by clicking on the search icon on the left drawer of the
 </div>
 
 <div>
-### Slug for Folders
+
+##
+# Slug for Folders
 
 The folder's URL slug is generated automatically from its name, providing direct access to the folder using the slug.
 
@@ -184,6 +207,7 @@ Example: If the name of the folder is `Customer Support`, The folder can be acce
 </div>
 
 <div>
+
 ## App Cards
 
 The dashboard displays all the apps created in the workspace as cards. These cards are displayed in a grid layout. The app cards display the **name of the app**, the **name of the creator**, and the **date of creation**. The app cards also display the app **icon**, which can be changed by clicking on the `Change Icon` option from the app menu.
@@ -197,6 +221,7 @@ The dashboard displays all the apps created in the workspace as cards. These car
 </div>
 
 <div>
+
 ## App Menu
 
 The app menu is located on the top right corner of the app card. Clicking on the app menu will open a dropdown menu containing various options. These options are:
@@ -217,7 +242,9 @@ The app menu is located on the top right corner of the app card. Clicking on the
 </div>
 
 <div>
-### Rename App
+
+##
+# Rename App
 
 This option will open a modal that will allow you to rename your app.
 
@@ -230,7 +257,9 @@ This option will open a modal that will allow you to rename your app.
 </div>
 
 <div>
-### Change Icon
+
+##
+# Change Icon
 
 This option will open a modal with a list of icons. You can choose any icon from this list to change the app icon.
 
@@ -243,7 +272,9 @@ This option will open a modal with a list of icons. You can choose any icon from
 </div>
 
 <div>
-### Add to Folder
+
+##
+# Add to Folder
 
 This option will open a modal with a list of folders. You can choose any folder from this list to add the app to the folder.
 
@@ -256,7 +287,9 @@ This option will open a modal with a list of folders. You can choose any folder 
 </div>
 
 <div>
-### Clone App
+
+##
+# Clone App
 
 Selecting this option will open a modal where you can enter the desired name for the cloned app. After providing the desired name, click on the Clone app button. This will immediately open the cloned app in the app builder with the same configuration as the original app.
 
@@ -269,7 +302,9 @@ Selecting this option will open a modal where you can enter the desired name for
 </div>
 
 <div>
-### Export App
+
+##
+# Export App
 
 This option downloads a JSON file containing the application data. This JSON file can be [imported](#import) to ToolJet to create a new app. The exported app will include all the queries connected to global data sources including the data source created from Marketplace plugins.
 
@@ -290,7 +325,9 @@ This JSON file can be used to [import](#importing-app-connected-to-tooljet-table
 </div>
 
 <div>
-### Delete App
+
+##
+# Delete App
 
 This option will open a confirmation modal to delete the app. Click on the `Delete` button to delete the app.
 
@@ -303,6 +340,7 @@ This option will open a confirmation modal to delete the app. Click on the `Dele
 </div>
 
 <div>
+
 ## App Search
 
 Apps can be searched by clicking on the search bar on the center of the dashboard. Click on the search bar and enter the name of the app to search.
@@ -316,6 +354,7 @@ Apps can be searched by clicking on the search bar on the center of the dashboar
 </div>
 
 <div>
+
 ## Current ToolJet Version
 
 The current version of ToolJet is displayed on the top right corner of the dashboard.

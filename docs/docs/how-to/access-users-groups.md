@@ -16,7 +16,9 @@ Let's take a look at the exposed variables of the currentUser property by clicki
 </div>
 
 <div>
-### Example: Disable a Button if a User is Not Admin
+
+##
+# Example: Disable a Button if a User is Not Admin
 
 - Click on the **Button** handle to open its properties. On the **Styles** tab, go to the **Disable** property. 
 

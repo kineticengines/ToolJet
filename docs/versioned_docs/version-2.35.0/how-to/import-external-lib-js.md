@@ -9,6 +9,7 @@ ToolJet allows you to integrate external JavaScript libraries into your applicat
 </div>
 
 <div>
+
 ## Choosing Libraries
 
 You can import various JavaScript libraries using their Content Delivery Network (CDN) links. Find the CDN links for your desired open-source projects on [jsDelivr](https://www.jsdelivr.com/).
@@ -16,6 +17,7 @@ You can import various JavaScript libraries using their Content Delivery Network
 </div>
 
 <div>
+
 ## Creating a New App and RunJS Query
 
 - Create a new app from the ToolJet Dashboard.
@@ -28,6 +30,7 @@ You can import various JavaScript libraries using their Content Delivery Network
 </div>
 
 <div>
+
 ## Importing Libraries
 
 Once the query is created, add the following code:
@@ -74,12 +77,15 @@ Enable the **Run this query on application load?** option to make the libraries 
 </div>
 
 <div>
+
 ## Examples
 
 </div>
 
 <div>
-### 1. Flattening JSON Objects using FlattenJS
+
+##
+# 1. Flattening JSON Objects using FlattenJS
 
 - Create a new *RunJS* query using the Flatten library (imported earlier) to flatten a JSON object.
 - In the code section of the query, add the following code:
@@ -105,7 +111,9 @@ return flatten({
 </div>
 
 <div>
-### 2. Computation using MathJS
+
+##
+# 2. Computation using MathJS
 
 - Create another *RunJS* query utilizing the MathJS library for a calculation.
 - In the code section of the query, add the following code:

@@ -8,6 +8,7 @@ title: Tree Select
 The **Tree Select** widget is a group checkboxes in a TreeView which can be expanded or collapsed.
 
 <div>
+
 ## Properties
 
 ### Title
@@ -86,6 +87,7 @@ Similar to checked values, expanded values is an array of values passed to expan
 </div>
 
 <div>
+
 ## Events
 
 :::info
@@ -101,6 +103,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -108,6 +111,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables  </div>  | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div>|
@@ -120,6 +124,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Layout
 
 |  <div style={{ width:"100px"}}> Layout </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"135px"}}> Expected Value </div>|
@@ -130,6 +135,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Styles
 
 |  <div style={{ width:"100px"}}> Style </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"100px"}}> Default Value </div>|

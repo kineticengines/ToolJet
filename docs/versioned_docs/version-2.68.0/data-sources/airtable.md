@@ -6,6 +6,7 @@ title: Airtable
 ToolJet can connect to your **Airtable** account to read and write data.
 
 <div>
+
 ## Connection
 
 To establish a connection with the **Airtable** data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview/)** page from the ToolJet dashboard.
@@ -27,6 +28,7 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 
 
 <div>
+
 ## Querying Airtable
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -39,6 +41,7 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[List records](#list-records)**

@@ -6,6 +6,7 @@ title: BigQuery
 ToolJet can connect to **BigQuery** databases to run BigQuery queries.
 
 <div>
+
 ## Connection
 
 To establish a connection with the **BigQuery** data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page from the ToolJet dashboard and choose BigQuery as the data source.
@@ -42,6 +43,7 @@ How to get a Private key?
 </div>
 
 <div>
+
 ## Querying BigQuery
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -62,6 +64,7 @@ Query results can be transformed using transformations. Read our transformations
 </div>
 
 <div>
+
 ## Supported Operations
 
 -  **[Query](#query)**

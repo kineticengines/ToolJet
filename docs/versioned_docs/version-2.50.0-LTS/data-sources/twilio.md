@@ -6,6 +6,7 @@ title: Twilio
 ToolJet can connect to Twilio account to send sms.
 
 <div>
+
 ## Connection
 
 To establish a connection with the Twilio data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page from the ToolJet dashboard and choose Twilio as the data source.
@@ -28,6 +29,7 @@ For **Messaging Service SID**, you'll need to create a messaging service first f
 </div>
 
 <div>
+
 ## Querying Twilio
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -38,6 +40,7 @@ For **Messaging Service SID**, you'll need to create a messaging service first f
 </div>
 
 <div>
+
 ## Supported operations
 
 ### Send message

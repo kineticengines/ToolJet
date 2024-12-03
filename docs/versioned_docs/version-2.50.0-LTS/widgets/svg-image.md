@@ -9,6 +9,7 @@ It is used to render vector images. We can display images, icons, and texts usin
 Developers prefer having SVG **(Scalable Vector Graphics)** files as they are scalable and will render pixel-perfect at any resolution whereas JPEGs, PNGs, and GIFs will not. 
 
 <div>
+
 ## Properties
 
 ### SVG data
@@ -26,6 +27,7 @@ Refer to the resources where SVG files are downloaded for free. You can copy-pas
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -33,6 +35,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the component.
@@ -40,6 +43,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## General
 
 ### Tooltip
@@ -51,20 +55,23 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
-## Layout
 
-| <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
+## Devices
+
+| <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
 |:--------------- |:----------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
-| Show on desktop | Toggle on or off to display desktop view. | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}`. |
-| Show on mobile  | Toggle on or off to display mobile view.  | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}`. |
+| Show on desktop | Makes the component visible in desktop view. | You can set it with the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
+| Show on mobile  | Makes the component visible in mobile view.  | You can set it with the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
 
 </div>
 
 <div>
+
 ## Styles
 
-| <div style={{ width:"100px"}}> Style </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"100px"}}> Default Value </div> |
+| <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> |  Configuration Options  |
 |:------------ |:-------------|:--------- |
-| Visibility | Toggle on or off to control the visibility of the component. You can programmatically change its value by clicking on the **fx** button next to it. If `{{false}}` the component will not be visible after the app is deployed. | By default, it's set to `{{true}}`. |
+| Visibility | Controls component visibility. Toggle or set dynamically. | Enable/disable the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
+| Box-shadow | Sets the box shadow properties of the component. | Select the box shadow color and adjust the related properties or programmatically set it using **fx**. |
 
 </div>

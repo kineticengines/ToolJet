@@ -6,6 +6,7 @@ title: Oracle DB
 ToolJet can connect to Oracle databases to read and write data.
 
 <div>
+
 ## Connection
 
 To establish a connection with the OracleDB datasource, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -49,6 +50,7 @@ The instant client version affects which Oracle Database versions you can connec
 </div>
 
 <div>
+
 ## Querying Oracle DB
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -59,6 +61,7 @@ The instant client version affects which Oracle Database versions you can connec
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[SQL mode](/docs/data-sources/oracledb#sql-mode)**

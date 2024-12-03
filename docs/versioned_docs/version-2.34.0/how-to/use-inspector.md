@@ -13,6 +13,7 @@ This guide introduces **Inspector** in the app-builder, a feature that lets you 
 </div>
 
 <div>
+
 ## Sections
 
 The Inspector panel has 6 main sections:
@@ -27,21 +28,27 @@ The Inspector panel has 6 main sections:
 </div>
 
 <div>
-### Queries
+
+##
+# Queries
 
 Queries allow you to inspect the specifics of your queries. However, the data related to these queries will only be visible after they have been executed or triggered.
 
 </div>
 
 <div>
-### Components
+
+##
+# Components
 
 Under Components, you can view and analyze the properties and values of the components you've added to the canvas, providing insights into how each component functions within your app.
 
 </div>
 
 <div>
-### Globals
+
+##
+# Globals
 
 Globals give you access to global information related to the app. 
 
@@ -61,20 +68,26 @@ All the global variables can be accessed anywhere within ToolJet applications. H
 </div>
 
 <div>
-### Variables
+
+##
+# Variables
 
 Variables shows user-defined variables in a key-value format. These variables, set through event handlers or queries, are accessible across the entire application. You can set variables from the [event handler](/docs/actions/set-variable) or using [JavaScript code](/docs/how-to/run-actions-from-runjs#set-variables).
 
 </div>
 
 <div>
-### Page
+
+##
+# Page
 Page lets you view page-specific properties like page name, handle and variables. Page variables are restricted to their respective pages and are not accessible application-wide.
 
 </div>
 
 <div>
-### Constants
+
+##
+# Constants
 
 Under **[Constants](/docs/org-management/workspaces/workspace_constants/)**, you can find the predefined values (usually tokens/secret keys/API keys) that can be used across your application to maintain consistency and facilitate easy updates. 
 

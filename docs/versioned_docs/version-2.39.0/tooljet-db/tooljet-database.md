@@ -10,6 +10,7 @@ Use the ToolJet-hosted database to build apps faster, and manage your data with 
 </div>
 
 <div>
+
 ## Enabling the ToolJet Database for your instance
 
 Requires:
@@ -19,7 +20,9 @@ Requires:
 This feature is only enabled if [`ENABLE_TOOLJET_DB`](/docs/setup/env-vars#enable-tooljet-database--optional-) is set to `true`.
 
 <div>
-### PostgREST Server
+
+##
+# PostgREST Server
 
 PostgREST is a standalone web server that turns your PostgreSQL database directly into queryable RESTful APIs which is utilized for Tooljet Database. This server only communicates with the ToolJet server and therefore does not need to be publicly exposed.
 
@@ -66,6 +69,7 @@ In case you want to trigger it manually, use the command `npm run db:create` on 
 </div>
 
 <div>
+
 ## Features
 
 ToolJet database allows you to:
@@ -78,6 +82,7 @@ ToolJet database allows you to:
 </div>
 
 <div>
+
 ## Accessing ToolJet Database
 
 Once you log-in to your ToolJet account, from the left sidebar of the dashboard you can navigate to **ToolJet Database**.

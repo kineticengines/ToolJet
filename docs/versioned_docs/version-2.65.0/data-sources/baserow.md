@@ -10,6 +10,7 @@ ToolJet can connect to your Baserow account to read and write data.
 </div>
 
 <div>
+
 ## Connection
 
 To connect to Baserow, you need to provide the following details:
@@ -27,6 +28,7 @@ To connect to Baserow, you need to provide the following details:
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[List fields](#list-fields)**
@@ -40,7 +42,9 @@ To connect to Baserow, you need to provide the following details:
 </div>
 
 <div>
-### List fields
+
+##
+# List fields
 
 This query lists all the fields in a table.
 
@@ -99,7 +103,9 @@ Example response from Baserow:
 </div>
 
 <div>
-### List rows
+
+##
+# List rows
 
 This query lists all the rows in a table.
 
@@ -153,7 +159,9 @@ Example response from Baserow:
 </div>
 
 <div>
-### Get row
+
+##
+# Get row
 
 #### Required parameters:
 
@@ -184,7 +192,9 @@ Example response from Baserow:
 </div>
 
 <div>
-### Create row
+
+##
+# Create row
 
 #### Required parameters:
 
@@ -226,7 +236,9 @@ Example response from Baserow:
 </div>
 
 <div>
-### Update row
+
+##
+# Update row
 
 #### Required parameters:
 
@@ -267,7 +279,9 @@ Example response from Baserow:
 </div>
 
 <div>
-### Move row
+
+##
+# Move row
 
 #### Required parameters:
 
@@ -301,7 +315,9 @@ Example response from Baserow:
 </div>
 
 <div>
-### Delete row
+
+##
+# Delete row
 
 #### Required parameters:
 

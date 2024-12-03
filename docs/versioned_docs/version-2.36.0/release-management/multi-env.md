@@ -14,7 +14,9 @@ ToolJet's **multi-environment** helps in streamlining workflows, thereby minimiz
 </div>
 
 <div>
-### Environments
+
+##
+# Environments
 
 ToolJet provides three default **environments** that serve different purposes in the application development lifecycle:
 
@@ -31,7 +33,9 @@ The default environments cannot be removed or renamed.
 </div>
 
 <div>
-### Configuring Connections for Environments
+
+##
+# Configuring Connections for Environments
 
 To configure connection settings for different environments, follow these steps:
 
@@ -49,7 +53,9 @@ To configure connection settings for different environments, follow these steps:
 </div>
 
 <div>
-### Using Environments
+
+##
+# Using Environments
 
 <div style={{textAlign: 'center'}}>
 

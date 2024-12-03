@@ -9,6 +9,7 @@ ToolJet supports three libraries: **Moment.js**, **Lodash**, and **Axios**. This
 </div>
 
 <div>
+
 ## GET Requests
 
 We'll use **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)**, a free API, to demonstrate GET and PUT requests.
@@ -34,6 +35,7 @@ return data
 </div>
 
 <div>
+
 ## POST Requests
 
 - Create a RunJS query and paste the code below:

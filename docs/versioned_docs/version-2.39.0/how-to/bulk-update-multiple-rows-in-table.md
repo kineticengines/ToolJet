@@ -8,6 +8,7 @@ For the purpose of this guide, it's presumed that you've already established a s
 </div>
 
 <div>
+
 ## 1. Create a Query to Get the Data
 
 - Create a PostgreSQL query in SQL mode, rename it to *users* and enter the below code.
@@ -25,6 +26,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 </div>
 
 <div>
+
 ## 2. Display the Data on the Table
 
 - Drag and drop a **Table** component onto the canvas from the components library on the right.
@@ -41,6 +43,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 </div>
 
 <div>
+
 ## 3. Make the Columns Editable
 
 - Under the Columns accordion, click on the column name that you want to make editable.
@@ -53,6 +56,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 </div>
 
 <div>
+
 ## 4. Enable Multiple Row Selection
 
 - Under the Row Selection accordion, enable the `Allow Selection`, `Highlight Selected Row`, and `Bulk Selection` option.
@@ -64,6 +68,7 @@ SELECT * FROM <table name> // *replace <table name> with your table name*
 </div>
 
 <div>
+
 ## 5. Create a Custom JS query
 
 - Create a new Run Javascript query and use the code below to generate the SQL query for updating multiple rows. The query will be named as *runjs1* by default. 
@@ -96,6 +101,7 @@ Here the unique identifier is **id** and Table component's name is **table1**. Y
 </div>
 
 <div>
+
 ## 6. Create an Update Query
 
 - Create a PostgreSQL query in SQL mode and rename it to *update*:
@@ -113,6 +119,7 @@ Here the unique identifier is **id** and Table component's name is **table1**. Y
 </div>
 
 <div>
+
 ## 7. Adding Event Handlers to Execute Queries in Sequence
 
 - Edit the Table component and add an event handler for `Save Changes` event so that whenever a user will edit the Table and hit the Save Changes button the *runjs1* query will run.

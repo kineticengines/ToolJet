@@ -8,6 +8,7 @@ Pages allow you to have multiple pages in a single application, making your Tool
 <img className="screenshot-full" src="/img/v2-beta/pages/v3/pages-v3.png" alt="Multi-page app" />
 
 <div>
+
 ## Pages Panel
 
 You can open the **Pages Panel** by clicking on the **Pages** icon on the left sidebar of the app-builder.
@@ -17,6 +18,7 @@ You can open the **Pages Panel** by clicking on the **Pages** icon on the left s
 </div>
 
 <div>
+
 ## Panel Options
 
 ### Add Page
@@ -53,6 +55,7 @@ You can open the **Pages Panel** by clicking on the **Pages** icon on the left s
 </div>
 
 <div>
+
 ## Page Options
 
 There are several options available for a Page. To use these options, click on the kebab menu on the right of the page card.
@@ -86,9 +89,9 @@ The duplicate page option allows you to create and add a copy of the page in the
 
 Like other ToolJet components, pages can also be attached to event handlers. For pages, the **On page load** event is available. You can use all the available actions for this event, along with the new actions added specifically for Pages.
 
-- **[Switch Page](../actions/switch-page)**
-- **[Set Page Variable](../actions/set-page-variable)**
-- **[Unset Page Variable](../actions/unset-page-variable)**
+- **[Switch Page](/docs/actions/switch-page)**
+- **[Set Page Variable](/docs/actions/set-page-variable)**
+- **[Unset Page Variable](/docs/actions/unset-page-variable)**
 
 ### Disable Page
 
@@ -103,6 +106,7 @@ You can **delete** a page from an application using this option. <br/>
 </div>
 
 <div>
+
 ## Exposed variables
 
 | Variable    | Description |
@@ -110,6 +114,6 @@ You can **delete** a page from an application using this option. <br/>
 | handle | The handle represents the slug of the page within an app. In the URL `https://app.tooljet.com/applications/crm2/home`, **crm2** refers to the app name, and **home** corresponds to the handle. The handle is automatically set when a page is added, and you can also [rename](#rename) the handle from the Page options. To access the value of the handle variable dynamically, use `{{page.handle}}`|
 | name | The name indicates the name of the page set during its creation. To access the value of the name variable dynamically, use `{{page.name}}` |
 | id | Each page in the ToolJet app receives a unique identifier upon creation. To access the value of the id dynamically, use `{{page.id}}` |
-| variables | Variables is an object that contains all the variables created for a specific page using the [Set Page Variable](../actions/set-page-variable) action. The value of a specific variable can be accessed dynamically using `{{page.variables.<pageVariableName>}}`, where `<pageVariableName>` refers to the variable created for that page using the Set Page variable action. |
+| variables | Variables is an object that contains all the variables created for a specific page using the [Set Page Variable](/docs/actions/set-page-variable) action. The value of a specific variable can be accessed dynamically using `{{page.variables.<pageVariableName>}}`, where `<pageVariableName>` refers to the variable created for that page using the Set Page variable action. |
 
 </div>

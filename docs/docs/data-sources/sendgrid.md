@@ -6,6 +6,7 @@ title: SendGrid
 ToolJet can connect to your SendGrid account to send emails.
 
 <div>
+
 ## Connection
 
 To establish a connection with the SendGrid datasource, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -22,6 +23,7 @@ The SendGrid API Datasource supports for interaction with the mail endpoint of t
 </div>
 
 <div>
+
 ## Querying SendGrid
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -32,6 +34,7 @@ The SendGrid API Datasource supports for interaction with the mail endpoint of t
 </div>
 
 <div>
+
 ## Supported Operations
 
 ### Email Service

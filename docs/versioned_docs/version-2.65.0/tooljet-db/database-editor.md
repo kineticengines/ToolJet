@@ -15,6 +15,7 @@ The sidebar on the left can also be collapsed to give more space to the database
     <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/collapse-v2.gif" alt="ToolJet database"/>
 </div>
 <div>
+
 ## Create New Table
 
 To create a new table in the ToolJet Database:
@@ -44,6 +45,7 @@ To create a new table in the ToolJet Database:
 </div>
 
 <div>
+
 ## Column Constraints
 
 ToolJet Database supports several column constraints to maintain data integrity and enforce rules on the data stored in the tables. These constraints include:
@@ -132,6 +134,7 @@ You cannot delete a Primary Key of a target table if it is being used as a forei
 </div>
 
 <div>
+
 ## Foreign Key
 
 A foreign key relation refers to linking one column or set of columns of the current table with one column or set of columns in an existing table. This relationship establishes a connection between the two tables, enabling the current source table to reference the existing target table. While creating a Foreign Key relationship, you can select the desired [action](#foreign-key-actions) to be performed on the source row when the referenced(target) row is updated or deleted.
@@ -244,6 +247,7 @@ Now, whenever you try to insert or update a record in the `Orders` table, the `c
 
 
 <div>
+
 ## Table Operations
 
 ### Search Table
@@ -257,7 +261,9 @@ Open the Search bar by clicking on the **Search** button and search for a table 
 </div>
 
 <div>
-### Rename Table
+
+##
+# Rename Table
 
 To rename a table, click on the kebab menu icon on the right of the table name and then select the **Edit table** option. A drawer will open from the right from where you can edit the table name.
 
@@ -268,7 +274,9 @@ To rename a table, click on the kebab menu icon on the right of the table name a
 </div>
 
 <div>
-### Add New Column
+
+##
+# Add New Column
 
 To add a new column to a table, either click on the kebab menu icon on the right of the table name and then select the **Add new column** option or click on the **+** button present at the end of the column header.
 
@@ -286,7 +294,9 @@ A drawer from the right will open up where you can enter the details for the new
 </div>
 
 <div>
-### Export Schema
+
+##
+# Export Schema
 
 The export schema option allows you to download the selected table schema in a JSON file. This does not export the table data or the relationships.<br/>
 While exporting the app, you can choose to export the app with or without a table schema connected to the app.<br/>
@@ -299,7 +309,9 @@ To export the table schema, click on the three vertical dots icon on the right o
 </div>
 
 <div>
-### Delete Table
+
+##
+# Delete Table
 
 To delete a table, click on the three vertical dots icon on the right of the table name and then click on the **Delete** option. A confirmation modal will appear, click on the **Delete** button to delete the table.
 
@@ -310,7 +322,9 @@ To delete a table, click on the three vertical dots icon on the right of the tab
 </div>
 
 <div>
-### Edit Column
+
+##
+# Edit Column
 
 To edit a column, click on the kebab menu on the column name and select the option to **Edit column**. When you edit the column, the data type cannot be changed.
 
@@ -321,7 +335,9 @@ To edit a column, click on the kebab menu on the column name and select the opti
 </div>
 
 <div>
-### Delete Column
+
+##
+# Delete Column
 
 To delete a column, click on the kebab menu on the column name and select the option to **Delete**. You cannot delete a column if it is being used as a primary key. You will have to remove the primary key constraint from the column before deleting it.
 
@@ -332,6 +348,7 @@ To delete a column, click on the kebab menu on the column name and select the op
 </div>
 
 <div>
+
 ## Adding and Modifying Data
 
 ### Add New Data
@@ -345,7 +362,9 @@ The Add new data button on the top of the table editor allows you to add data to
 </div>
 
 <div>
-### Add New Row
+
+##
+# Add New Row
 
 To add a new row to a table, either click on the `Add new data` button on top and then select the **Add new row** option or click on the **+** button present at the bottom left.<br/>
 A drawer from the right will open up where the values for the new row can be provided.
@@ -357,7 +376,9 @@ A drawer from the right will open up where the values for the new row can be pro
 </div>
 
 <div>
-### Edit Row
+
+##
+# Edit Row
 
 To edit a row, hover on the row that you want to edit and the expand icon will appear next to the checkbox of that row. Click on the Expand icon to open the drawer and edit the row.
 
@@ -368,7 +389,9 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 </div>
 
 <div>
-### Edit a Cell
+
+##
+# Edit a Cell
 
 - Double-click on the cell you want to edit.
 - Enter the new value.
@@ -382,7 +405,9 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 </div>
 
 <div>
-### Bulk Upload Data
+
+##
+# Bulk Upload Data
 
 You can bulk upload data to the ToolJet database by clicking the **Bulk upload data** button at the top of the database editor. On clicking the button, a drawer will open from the right from where you can upload a **CSV** file. This file is used to insert records onto the table. If data for the id column is missing, it will insert a new record with the row data; if the id is present, it will update the corresponding record with the row data.
 
@@ -406,7 +431,9 @@ Once the CSV file is ready, click on the file picker to select the file or drag 
 </div>
 
 <div>
-### Delete Records
+
+##
+# Delete Records
 
 To delete one or many records/rows, click the checkbox to the right of the record or records you want to delete. As soon as you select a single record, the button to delete the record will appear on the top, click on the **Delete record** button to delete the selected records.
 
@@ -417,6 +444,7 @@ To delete one or many records/rows, click the checkbox to the right of the recor
 </div>
 
 <div>
+
 ## Filter
 
 You can add as many filters as you want into the table by clicking on the **Filter** button present on the top of the database editor.
@@ -449,6 +477,7 @@ You can add as many filters as you want into the table by clicking on the **Filt
 </div>
 
 <div>
+
 ## Sort
 
 To sort the table data, click on the **Sort** button on top, select a **column** from the dropdown, and then choose an order **ascending** or **descending**.

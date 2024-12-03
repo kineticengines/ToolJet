@@ -10,6 +10,7 @@ Only self-hosted deployments will have access to a gRPC datasource that is capab
 :::
 
 <div>
+
 ## Setup
 
 ### Step 1: Upgrade ToolJet to the Version 2.5 or Above
@@ -42,6 +43,7 @@ docker-compose up -d
 </div>
 
 <div>
+
 ## Querying gRPC
 
 After setting up your proto files, you should be able to establish a connection to gRPC by going to the [global datasource](/docs/data-sources/overview) page.

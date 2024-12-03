@@ -9,6 +9,7 @@ This guide demonstrates the utilization of the `to_py()` function in *RunPy* que
 </div>
 
 <div>
+
 ## The to_py() Function
 
 The **to_py()** function within the **Pyodide** library serves as the counterpart to the **to_js()** function. Its purpose is to transform JavaScript objects into their equivalent Python structures. This conversion becomes essential when handling JavaScript objects within the Pyodide environment and manipulating them using Python code.
@@ -20,6 +21,7 @@ Similar to **to_js()**, **to_py()** facilitates the mapping and conversion of da
 </div>
 
 <div>
+
 ## Using the to_py() Function
 
 To test the working of `to_py`function, follow the steps mentioned below:
@@ -55,6 +57,7 @@ Both **to_js()** and **to_py()** functions offer a convenient means to exchange 
 </div>
 
 <div>
+
 ## Why the Use of to_py() is Essential?
 
 - When previewing results in a *RunPy* query, discrepancies between the JSON and Raw tabs may arise due to the conversion and display mechanisms in **Pyodide**. By default, **Python dictionaries** are converted to **JavaScript Map objects** in Pyodide, ensuring compatibility between the two languages.

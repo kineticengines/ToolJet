@@ -10,6 +10,7 @@ This action allows you to specify a `key` and its corresponding `value` to be st
 - Storing any kind of data that is not going to be transferred to the database
 
 <div>
+
 ## Example: Setting a Component Value Based on Local Storage
 
 1. Add **Text Input**, **Button** and **Text** components to the canvas.

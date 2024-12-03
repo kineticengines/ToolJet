@@ -10,6 +10,7 @@ Components like **Kanban**, **Calendar**, **Modal**, **Container**, **ListView**
 :::
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Properties </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -25,6 +26,7 @@ If you need a step-by-step guide on using a **Form** component, you can checkout
 </div>
 
 <div>
+
 ## Events
 
 To add an event to the **Form** component, go to the **Events** section and click on **Add handler**.
@@ -37,6 +39,7 @@ To add an event to the **Form** component, go to the **Events** section and clic
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 Following actions of form component can be controlled using the Component Specific Actions(CSA):
@@ -49,6 +52,7 @@ Following actions of form component can be controlled using the Component Specif
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables </div>  | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -58,6 +62,7 @@ Following actions of form component can be controlled using the Component Specif
 </div>
 
 <div>
+
 ## Using Custom Schema
 
 To provide the form schema in JSON format, we'll pass a JavaScript object with **title**, **properties** and **submitButton**.
@@ -169,6 +174,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -181,6 +187,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -191,6 +198,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -204,6 +212,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 </div>
 
 <div>
+
 ## General
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -213,6 +222,7 @@ A Tooltip is often used to specify the extra information when the user hovers th
 </div>
 
 <div>
+
 ## Custom Schema Examples
 - **[Datepicker](#datepicker)**
 - **[Number Input](#number-input)**
@@ -233,7 +243,9 @@ A Tooltip is often used to specify the extra information when the user hovers th
 </div>
 
 <div>
-### Datepicker
+
+##
+# Datepicker
 
 Properties that can be used in Datepicker schema are:
 
@@ -269,7 +281,9 @@ datepicker1: {
 </div>
 
 <div>
-### Number Input
+
+##
+# Number Input
 
 **Properties**
 
@@ -311,7 +325,9 @@ numberInput1: {
 </div>
 
 <div>
-### Password
+
+##
+# Password
 
 **Properties**
 
@@ -352,7 +368,9 @@ passwordInput1: {
 </div>
 
 <div>
-### Checkbox
+
+##
+# Checkbox
 
 **Properties**
 
@@ -384,7 +402,9 @@ checkbox1: {
 </div>
 
 <div>
-### Toggle
+
+##
+# Toggle
 
 **Properties**
 
@@ -416,7 +436,9 @@ toggleswitch1: {
 </div>
 
 <div>
-### Text Area
+
+##
+# Text Area
 
 **Properties**
 
@@ -448,7 +470,9 @@ textArea1: {
 </div>
 
 <div>
-### Date Range Picker
+
+##
+# Date Range Picker
 
 **Properties**
 
@@ -482,7 +506,9 @@ daterangepicker1: {
 </div>
 
 <div>
-### Multiselect
+
+##
+# Multiselect
 
 **Properties**
 
@@ -518,7 +544,9 @@ multiselect1: {
 </div>
 
 <div>
-### Star Rating
+
+##
+# Star Rating
 
 **Properties**
 
@@ -556,7 +584,9 @@ starRating1: {
 </div>
 
 <div>
-### File Picker
+
+##
+# File Picker
 
 **Properties**
 
@@ -598,7 +628,9 @@ filepicker1: {
 </div>
 
 <div>
-### Text Input
+
+##
+# Text Input
 
 **Properties**
 
@@ -641,7 +673,9 @@ textinput1: {
 </div>
 
 <div>
-### Dropdown
+
+##
+# Dropdown
 
 **Properties**
 
@@ -679,7 +713,9 @@ dropdown1: {
 </div>
 
 <div>
-### Button
+
+##
+# Button
 
 **Properties**
 
@@ -717,7 +753,9 @@ button1: {
 </div>
 
 <div>
-### Text
+
+##
+# Text
 
 **Properties**
 
@@ -749,7 +787,9 @@ text1: {
 </div>
 
 <div>
-### Radio
+
+##
+# Radio
 
 **Properties**
 

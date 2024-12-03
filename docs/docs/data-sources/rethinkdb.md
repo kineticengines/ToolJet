@@ -7,6 +7,7 @@ title: RethinkDB
 ToolJet can connect to RethinkDB databases to read and write data. For more info visit this [Rethink Docs](https://rethinkdb.com/api/javascript).
 
 <div>
+
 ## Connection
 
 To establish a connection with the RethinkDB data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -24,6 +25,7 @@ ToolJet requires the following to connect to a RethinkDB data source:
 </div>
 
 <div>
+
 ## Querying RethinkDB
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -36,6 +38,7 @@ ToolJet requires the following to connect to a RethinkDB data source:
 </div>
 
 <div>
+
 ## Supported Queries
 
 - **[Create database](#create-database)**

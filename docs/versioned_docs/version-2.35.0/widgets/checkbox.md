@@ -11,6 +11,7 @@ The Checkbox widget consists of a single checkbox input.
 :::
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property </div>     | <div style={{ width:"100px"}}> Description </div> |
@@ -21,6 +22,7 @@ The Checkbox widget consists of a single checkbox input.
 </div>
 
 <div>
+
 ## Events
 
 To add an event to a Checkbox component, click on the widget handle to open the widget properties on the right sidebar. Go to the **Events** section and click on **+ Add handler**.
@@ -37,6 +39,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 Following actions of Checkbox component can be controlled using the component specific actions(CSA):
@@ -48,6 +51,7 @@ Following actions of Checkbox component can be controlled using the component sp
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables  </div>    | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div> |
@@ -57,6 +61,7 @@ Following actions of Checkbox component can be controlled using the component sp
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -67,6 +72,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"135px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -77,6 +83,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Styles
 
 |  <div style={{ width:"100px"}}> Style </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"100px"}}> Default Value </div>|

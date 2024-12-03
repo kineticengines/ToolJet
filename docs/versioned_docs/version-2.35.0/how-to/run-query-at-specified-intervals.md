@@ -9,6 +9,7 @@ In this guide, we'll walk through the process of building a ToolJet application 
 </div>
 
 <div>
+
 ## Step 1: Create a New Application
 
 Begin by creating a new application in the ToolJet dashboard. Once the app builder opens, Drag a table component onto the canvas. This component will display the data fetched from the REST API query.
@@ -20,6 +21,7 @@ Begin by creating a new application in the ToolJet dashboard. Once the app build
 </div>
 
 <div>
+
 ## Step 2: Set Up a REST API Query
 
 From the query panel, create a new REST API query. Utilize mock REST API data by choosing the 'GET' method and specifying the endpoint (e.g., `https://jsonplaceholder.typicode.com/posts`). Name the query 'post' and `Run` the query to ensure that the data is fetched successfully.
@@ -31,6 +33,7 @@ From the query panel, create a new REST API query. Utilize mock REST API data by
 </div>
 
 <div>
+
 ## Step 3: Configure Table Properties
 
 In the Table properties, link the query data to the table by setting the 'table data' property to `{{queries.post.data}}`. This establishes the connection between the REST API query and the table component.
@@ -42,6 +45,7 @@ In the Table properties, link the query data to the table by setting the 'table 
 </div>
 
 <div>
+
 ## Step 4: Implement the RunJS Query
 
 Create a RunJS query to set up intervals for triggering the REST API query. Use the following script:
@@ -68,6 +72,7 @@ async function countdown(){
 </div>
 
 <div>
+
 ## Step 5: Advanced Configuration
 
 
@@ -80,6 +85,7 @@ From the Settings section of the RunJS query, enable 'Run query on page load.' T
 </div>
 
 <div>
+
 ## Step 6: Prevent Indefinite Triggering
 
 Create another RunJS query named 'clearInrternal' to stop the query from triggering indefinitely. Use the `clearInterval()` method to clear the interval. This method retrieves the value from the variable set in the 'setInterval' query.
@@ -91,6 +97,7 @@ clearInterval(variables.interval);
 </div>
 
 <div>
+
 ## Step 7: Add a Button
 
 Drag a button on the canvas to act as a user-triggered stop mechanism. Attach an event handler to execute the 'clear' query when the button is clicked.

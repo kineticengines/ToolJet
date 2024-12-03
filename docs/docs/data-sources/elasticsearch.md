@@ -31,6 +31,7 @@ ToolJet also supports SSL certificate-based connections:
 </div>
 
 <div>
+
 ## Querying Elasticsearch
 
 1. Click the **+ Add** button in the query manager at the bottom of the editor and select the Elasticsearch data source added earlier.
@@ -43,6 +44,7 @@ Query results can be transformed using transformations. Refer to our transformat
 </div>
 
 <div>
+
 ## Supported Operations
 
 ToolJet supports the following Elasticsearch operations:

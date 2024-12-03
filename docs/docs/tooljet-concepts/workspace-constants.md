@@ -9,6 +9,7 @@ Workspace Constants and Secrets in ToolJet help in maintaining consistency and s
     <iframe width="560" height="315" src="https://www.youtube.com/embed/rwXruKCUOqA?si=u3Cly11OeRYjqVmf&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div>
+
 ## Types of Constants
 
 1. **Global Constants**: Used for reusable values that can be applied consistently across the product.
@@ -27,6 +28,7 @@ To enhance security, both Global Constants and Secrets are resolved server-side.
 </div>
 
 <div>
+
 ## Access Control and Usage in Application Development
 
 Access to creating, updating, or deleting Workspace Constants and Secrets is restricted to Admins, ensuring tight control over these critical values. Users with editing permissions can utilize these constants in various parts of the application:

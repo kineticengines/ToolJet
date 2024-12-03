@@ -6,6 +6,7 @@ title: Icon
 An Icon widget can be used to add icons(sourced from icon library). It supports events like on hover and on click.
 
 <div>
+
 ## Properties
 
 |  <div style={{ width:"100px"}}> Properties </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"135px"}}> Expected Value </div> |
@@ -15,6 +16,7 @@ An Icon widget can be used to add icons(sourced from icon library). It supports 
 </div>
 
 <div>
+
 ## Events
 
 To add an event, click on the icon widget's configuration handle to open the widget properties on the components drawer on the right. Go to the **Events** section and click on **+ Add handler**.
@@ -35,6 +37,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 Following actions of the component can be controlled using the component specific actions(CSA):
@@ -47,6 +50,7 @@ Following actions of the component can be controlled using the component specifi
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the component.
@@ -54,6 +58,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## General
 
 <b>Tooltip:</b> Set a tooltip text to specify the information when the user moves the mouse pointer over the widget.
@@ -61,6 +66,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -71,6 +77,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |

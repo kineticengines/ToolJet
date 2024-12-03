@@ -26,6 +26,7 @@ Example, we have set a favicon image and page title as `Bon Ton` in the below im
   </div>
 
 <div>
+
 ## Configuration
 
 To enable white labelling, click on the gear icon on the bottom left of the dashboard and select `Settings`. From the settings page, click on the `White labelling` tab. On the White labelling page, you'll be able to configure the following:
@@ -41,6 +42,7 @@ To enable white labelling, click on the gear icon on the bottom left of the dash
 </div>
 
 <div>
+
 ## ToolJet Cloud
 
 If you are using ToolJet Cloud, click on the gear icon on the bottom left of the dashboard and select `Settings`. From the settings page, click on the `White labelling` tab. On the White labelling page, you'll be able to configure the following:

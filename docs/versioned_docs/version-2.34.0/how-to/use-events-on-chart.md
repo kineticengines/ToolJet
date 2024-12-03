@@ -13,6 +13,7 @@ This guide will use the Custom Component to create a chart using a third-party l
 </div>
 
 <div>
+
 ## Step 1: Add a Custom Component
 
 - Open the App Builder and add a Custom Component to the page. 
@@ -23,6 +24,7 @@ Note: If you are not familiar with the Custom Component, please read the [Custom
 </div>
 
 <div>
+
 ## Step 2: Add the Code to the Custom Component
 
 In the Code section of the `Custom Component` properties, add the following code:
@@ -232,6 +234,7 @@ ReactDOM.render(<ConnectedComponent />, document.body); // render the component
 </div>
 
 <div>
+
 ## Step 3: Using Events from the Custom Component
 
 In the code above, we created a function called `barOnClick` that will be called when the user clicks on the bar. This function holds the code that will be executed when the user clicks on the bar. 

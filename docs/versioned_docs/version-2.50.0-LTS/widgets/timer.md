@@ -8,6 +8,7 @@ title: Timer
 The **Timer** component allows users to track time by counting both upward and downward. It's useful for tasks like setting countdowns, tracking elapsed time, or timing events.
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div>                                                                                                                                                        |
@@ -18,6 +19,7 @@ The **Timer** component allows users to track time by counting both upward and d
 </div>
 
 <div>
+
 ## Events
 
 | <div style={{ width:"100px"}}> Event </div> | <div style={{ width:"100px"}}> Description </div>    |
@@ -35,6 +37,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -42,6 +45,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables </div> | <div style={{ width:"100px"}}> Description </div>                                                                    | <div style={{ width:"135px"}}> How To Access </div>                         |
@@ -51,6 +55,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## General
 
 ### Tooltip
@@ -62,6 +67,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Devices
 
 | <div style={{ width:"100px"}}> Devices </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"100px"}}> Expected Value </div>                                                                              |
@@ -74,6 +80,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 <hr/>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div>             | <div style={{ width:"100px"}}> Configuration Options </div>                                                                  |

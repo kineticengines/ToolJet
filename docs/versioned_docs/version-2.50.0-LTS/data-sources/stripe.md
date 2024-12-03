@@ -10,6 +10,7 @@ Check out the **[Stripe Refund App tutorial](https://blog.tooljet.com/build-a-st
 :::
 
 <div>
+
 ## Connection
 
 To establish a connection with the Stripe data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview/)** page from the ToolJet dashboard and choose Stripe as the data source.
@@ -26,6 +27,7 @@ You can get the Stripe API key from the dashboard of your Stripe account. Go to 
 </div>
 
 <div>
+
 ## Querying Stripe
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -40,6 +42,7 @@ Query results can be transformed using transformations. Read our transformations
 </div>
 
 <div>
+
 ## Supported Operations
 
 You can check out the some of the operations mentioned below. All the operations for Stripe are available and can be performed from ToolJet. Check out the **[Stripe API documentation](https://stripe.com/docs/api/)** for the detailed information about each operation.

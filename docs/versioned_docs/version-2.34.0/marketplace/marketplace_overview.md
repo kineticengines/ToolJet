@@ -12,6 +12,7 @@ ToolJet Marketplace allows users to enhance their workspaces by adding custom pl
 </div>
 
 <div>
+
 ## Enabling Marketplace 
 
 To **Enable** the marketplace feature, users need to add the following environment variable to their **[`.env`](/docs/setup/env-vars#marketplace)** file:
@@ -29,6 +30,7 @@ The logged-in user should be an **Administrator** to access the marketplace page
 </div>
 
 <div>
+
 ## Installing a Plugin
 
 To navigate to the Marketplace page, click on the settings icon on the bottom left of the dashboard, and click on **Marketplace** from the selection menu.
@@ -44,6 +46,7 @@ Under the **Marketplace** tab, you will see a list of all the available plugins 
 </div>
 
 <div>
+
 ## Using Marketplace Plugins
 
 You can access any installed plugins by following these steps:

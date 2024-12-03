@@ -7,6 +7,7 @@ title: Date Picker
 The **Date Picker** component allows users to select a single value for date and time from a pre-determined set.
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property  </div>    | <div style={{ width:"100px"}}> Description </div> |
@@ -27,13 +28,14 @@ Now user won't be able to select the mentioned date since it will be disabled.
 </div>
 
 <div>
+
 ## Events
 
 To add an event to a date-picker component, click on the component handle to open the component properties on the right sidebar. Go to the **Events** section and click on **+ Add handler**.
 
 | <div style={{ width:"100px"}}> Event  </div>    | <div style={{ width:"100px"}}> Description </div> |
 |:----------- |:----------- |
-| On select | On select event is triggered when an date is selected. |
+| On select | Triggers whenever the user selects a date. |
 
 :::info
 Check [Action Reference](/docs/category/actions-reference) docs to get the detailed information about all the **Actions**.
@@ -42,6 +44,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -49,15 +52,17 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables </div>  | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div> |
 |:----------- |:----------- | :---------- |
-| value | This variable holds the date selected on the component, the date value will be returned according to the format set in the Date Picker properties. | Access the value dynamically using JS: `{{components.datepicker1.value}}`.|
+| value | Holds the value entered by the user in the component. | Accessible dynamically with JS (for e.g.,`{{components.datepicker1.value}}`).|
 
 </div>
 
 <div>
+
 ## Validation
 
 ### Custom Validation
@@ -72,6 +77,7 @@ Example of validation for selecting dates that are after the current date:
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -82,12 +88,13 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
-| <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
+| <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
 |:--------------- |:----------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
-| Show on desktop | Toggle on or off to display desktop view. | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}`. |
-| Show on mobile  | Toggle on or off to display mobile view.  | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}`. |
+| Show on desktop | Makes the component visible in desktop view. | You can set it with the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
+| Show on mobile  | Makes the component visible in mobile view. | You can set it with the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
 
 </div>
 

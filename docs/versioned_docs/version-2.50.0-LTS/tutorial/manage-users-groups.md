@@ -6,6 +6,7 @@ title: Managing Users and Groups
 # Managing Users and Groups
 
 <div>
+
 ## Managing Users
 
 Admins of a workspace can invite users to the workspace or archive/unarchive the existing users of a workspace. To manage users in a workspace, go to the **Workspace Settings** from the left sidebar on the dashboard and select **Users**.
@@ -57,7 +58,9 @@ Admins can invite anyone to a workspace using the email address. To invite a use
   </div>
 
 <div>
-### Edit User Details
+
+##
+# Edit User Details
 
 Admins of a workspace can edit the details of any user in their workspace. The details include **adding** or **removing** the user from a group. To edit the details of a user:
 
@@ -74,7 +77,9 @@ Admins of a workspace can edit the details of any user in their workspace. The d
 </div>
 
 <div>
-### Archive User from a Workspace
+
+##
+# Archive User from a Workspace
 
 Admins of a workspace can archive any user from their workspace. Archiving a user will disable their access to the workspace. 
 
@@ -95,7 +100,9 @@ To archive a user:
 </div>
 
 <div>
-### Unarchive User from a Workspace
+
+##
+# Unarchive User from a Workspace
 
 Admins of a workspace can unarchive any user from their workspace. Unarchiving a user will enable their access to the workspace. 
 
@@ -116,6 +123,7 @@ To unarchive a user:
 </div>
 
 <div>
+
 ## Managing Groups
 
 On ToolJet, Admins and Super Admins can create groups for users added in a workspace and grant them access to particular app(s) with specific permissions. To manage groups, just go to the **Workspace Settings** from the left-sidebar of the dashboard and click on the **Groups**.
@@ -129,7 +137,9 @@ On ToolJet, Admins and Super Admins can create groups for users added in a works
 </div>
 
 <div>
-### Group properties
+
+##
+# Group properties
 
 Every group on ToolJet has **four** sections:
 
@@ -189,7 +199,9 @@ All the activities performed by any Admin, Super Admin or any user in a workspac
 </div>
 
 <div>
-### Predefined Groups
+
+##
+# Predefined Groups
 
 By default, every workspace will have two User Groups:
 
@@ -224,7 +236,9 @@ This group contains admins by default. Admins can add more admins or remove the 
 </div>
 
 <div>
-### Creating new group (Paid plans only)
+
+##
+# Creating new group (Paid plans only)
 
 Option to create a new group is available in the **paid plans** only. To create a new group:
 
@@ -252,7 +266,9 @@ Option to create a new group is available in the **paid plans** only. To create 
 </div>
 
 <div>
-### Deleting a Group
+
+##
+# Deleting a Group
 
 To delete a group, click on `Delete` next to it. It will confirm whether you want to delete it or not, Click on `Yes` to delete the group.
 

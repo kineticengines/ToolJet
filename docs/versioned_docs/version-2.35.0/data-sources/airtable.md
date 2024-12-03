@@ -19,6 +19,7 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[List records](#list-records)**
@@ -30,7 +31,9 @@ Airtable API has a rate limit, and at the time of writing this documentation, th
 </div>
 
 <div>
-### List records
+
+##
+# List records
 
 This operation returns a list of records from the specified table.
 
@@ -83,7 +86,9 @@ Example response from Airtable:
 </div>
 
 <div>
-### Retrieve record
+
+##
+# Retrieve record
 
 #### Required parameters:
 
@@ -110,7 +115,9 @@ Example response from Airtable:
 </div>
 
 <div>
-### Create record
+
+##
+# Create record
 
 #### Required parameters:
 
@@ -167,7 +174,9 @@ Query returns the following response when the records are created successfully:
 </div>
 
 <div>
-### Update record
+
+##
+# Update record
 
 #### Required parameters:
 
@@ -204,7 +213,9 @@ Query returns the following response when the record is updated successfully:
 </div>
 
 <div>
-### Delete record
+
+##
+# Delete record
 
 #### Required parameters:
 

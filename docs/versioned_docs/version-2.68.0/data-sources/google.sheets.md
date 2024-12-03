@@ -6,6 +6,7 @@ title: Google Sheets
 ToolJet has the capability to establish a connection with Google Sheet for both reading and writing data. By utilizing OAuth 2.0, ToolJet can establish a secure connection with Google Sheet, ensuring that the application's access to a user's account is restricted and limited appropriately.
 
 <div>
+
 ## Self-Hosted Configuration
 
 If you decide to self-host ToolJet, there are a few additional steps you need to take:
@@ -20,6 +21,7 @@ If you decide to self-host ToolJet, there are a few additional steps you need to
 </div>
 
 <div>
+
 ## Connection
 
 To establish a connection with the Google Sheet datasource, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -40,6 +42,7 @@ When connecting to a Google Sheets datasource, you can choose between two permis
 </div>
 
 <div>
+
 ## Querying Google Sheet
 
 1. Click the **+ Add** button in the query manager located at the bottom panel of the editor. 

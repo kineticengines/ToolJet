@@ -6,6 +6,7 @@ title: Baserow
 ToolJet can connect to your Baserow account to read and write data.
 
 <div>
+
 ## Connection
 
 To establish a connection with the **Baserow** data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -25,6 +26,7 @@ ToolJet requires the following to connect to Baserow:
 </div>
 
 <div>
+
 ## Querying Baserow
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -37,6 +39,7 @@ ToolJet requires the following to connect to Baserow:
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[List fields](#list-fields)**

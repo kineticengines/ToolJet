@@ -10,6 +10,7 @@ title: DynamoDB
 </div>
 
 <div>
+
 ## Connection
 
 To establish a connection with the **DynamoDB** data source, you can either click on the **+Add new Data source** button located on the query panel or navigate to the **[Data sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -62,6 +63,7 @@ Click on the **Test Connection** button to verify the correctness of the provide
 </div>
 
 <div>
+
 ## Querying DynamoDB
 
 To perform queries on **DynamoDB**, click on the **+Add** button in the query manager located at the bottom panel of the editor. Select the previously added database as the data source for the query. Choose the desired operation and click on the **Run** button to run the query.
@@ -79,6 +81,7 @@ You can apply transformations to the query results. Refer to our transformations
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[List Tables](#list-tables)**
@@ -94,7 +97,9 @@ You can apply transformations to the query results. Refer to our transformations
 </div>
 
 <div>
-### List Tables
+
+##
+# List Tables
 
 Returns an array of table names associated with the current account and endpoint. The output from *List Tables* is paginated, with each page returning a maximum of 100 table names.
 
@@ -107,7 +112,9 @@ Returns an array of table names associated with the current account and endpoint
 </div>
 
 <div>
-### Get Item
+
+##
+# Get Item
 
 Retrieves a single item from a table. You must specify the primary key for the item that you want. You can retrieve the entire item, or just a subset of its attributes.
 
@@ -139,7 +146,9 @@ Syntax for Key name:
 </div>
 
 <div>
-### Query Table
+
+##
+# Query Table
 
 Retrieves all items that have a specific partition key. You must specify the partition key value. You can retrieve entire items, or just a subset of their attributes. Optionally, you can apply a condition to the sort key values so that you only retrieve a subset of the data that has the same partition key. You can use this operation on a table, provided that the table has both a partition key and a sort key. You can also use this operation on an index, provided that the index has both a partition key and a sort key.
 
@@ -175,7 +184,9 @@ Syntax for Query condition:
 </div>
 
 <div>
-### Scan Table
+
+##
+# Scan Table
 
 Retrieves all items in the specified table or index. You can retrieve entire items, or just a subset of their attributes. Optionally, you can apply a filtering condition to return only the values that you are interested in and discard the rest.
 
@@ -198,7 +209,9 @@ Syntax for Scan condition:
 </div>
 
 <div>
-### Delete Item
+
+##
+# Delete Item
 
 Deletes a single item from a table. You must specify the primary key for the item that you want to delete.
 
@@ -233,7 +246,9 @@ Syntax for Key name:
 </div>
 
 <div>
-### Update Item
+
+##
+# Update Item
 
 Update an item in DynamoDB by specifying the primary key and providing new attribute values. If the primary key does not exist in the table then instead of updating it will insert a new row.
 
@@ -267,7 +282,9 @@ Syntax for Update Condition:
 </div>
 
 <div>
-### Describe Table
+
+##
+# Describe Table
 
 This operation in DynamoDB retrieves metadata and configuration details about a specific table. It provides information such as the table's name, primary key schema, provisioned throughput settings, and any secondary indexes defined on the table.
 
@@ -284,7 +301,9 @@ This operation in DynamoDB retrieves metadata and configuration details about a 
 </div>
 
 <div>
-### Create Table
+
+##
+# Create Table
 
 This operation in DynamoDB enables you to create a new table by specifying its name, primary key schema, and optional configurations.
 
@@ -350,7 +369,9 @@ Syntax for Table Parameters:
 </div>
 
 <div>
-### Put Item
+
+##
+# Put Item
 
 This operation allows you to create or replace an item in a table. It enables you to specify the table name, provide the attribute values for the new item, and define the primary key attributes to uniquely identify the item.
 

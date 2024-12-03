@@ -32,7 +32,9 @@ title: OpenID Setup
 - Find and set **Name**, **Client Id**, **Client Secret**, and **Well Known URL** from your Open Id provider.
 
 <div>
-### Exposed ssoUserInfo
+
+##
+# Exposed ssoUserInfo
 
 Once the OpenID is configured (on ToolJet version **`v2.6.2-ee2.1.0`** or above), ToolJet will expose the user info returned by the OpenID provider. The user info will be available under the `ssoUserInfo` property of the `currentUser` variable. Check the **[Inspector](/docs/how-to/use-inspector)** doc to learn more.
 

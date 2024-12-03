@@ -10,9 +10,10 @@ The Mailgun API Datasource supports for interaction with the mail endpoint of th
 :::
 
 <div>
+
 ## Connection
 
-To establish a connection with the **Mailgun** data source, click on the **+ Add new data source** button located on the query panel or navigate to the [Data Sources](https://docs.tooljet.com/docs/data-sources/overview) page from the ToolJet dashboard.
+To establish a connection with the **Mailgun** data source, click on the **+ Add new data source** button located on the query panel or navigate to the [Data Sources](/docs/data-sources/overview) page from the ToolJet dashboard.
 
 ToolJet requires the following to connect to your Mailgun:
 - **API key**
@@ -26,6 +27,7 @@ Mailgun API key is required to create an Mailgun datasource on ToolJet. You can 
 </div>
 
 <div>
+
 ## Supported Operations
 
 ### Email Service

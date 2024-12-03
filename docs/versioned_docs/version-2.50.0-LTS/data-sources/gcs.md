@@ -6,6 +6,7 @@ title: Google Cloud Storage
 ToolJet can connect to GCS buckets and perform various operation on them.
 
 <div>
+
 ## Connection
 
 To establish a connection with the Google Cloud Storage data source, you can either click on the **+ Add new Data source** button located on the query panel or navigate to the **[Data Sources](/docs/data-sources/overview)** page through the ToolJet dashboard.
@@ -20,6 +21,7 @@ You can follow the [google documentation](https://cloud.google.com/docs/authenti
 </div>
 
 <div>
+
 ## Querying GCS
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.

@@ -9,6 +9,7 @@ This guide shows how to change the text color and background color of certain ce
 </div>
 
 <div>
+
 ## Create a New Application and Set up the Data Source
 - Create a new app and add a **[Table](/docs/widgets/table)** component to the canvas.
 - Open the Query Panel at the bottom and click on the `+ Add` button.
@@ -22,6 +23,7 @@ https://fakestoreapi.com/products
 </div>
 
 <div>
+
 ## Display Data on the Table
 
 - Hide the Query Panel and click on the **Table** component to open its properties panel on the right.
@@ -36,6 +38,7 @@ https://fakestoreapi.com/products
 </div>
 
 <div>
+
 ## Change Text Color Based on Cell Value
 
 - Select the **Table** component and go to Columns.
@@ -56,6 +59,7 @@ Now, if the cell value is `electronics`, the text color will be red; otherwise, 
 </div>
 
 <div>
+
 ## Change Text Color Using Row Data
 
 - Under Cell Background Color for the `title` column, paste the below code: 

@@ -6,6 +6,7 @@ title: Pagination
 This guide explains how to perform serverside pagination on a **Table** component in ToolJet.
 
 <div>
+
 ## Add Table Component
 
 Before performing the serverside pagination, lets setup the **Table** component and populate it with the data:
@@ -27,6 +28,7 @@ Before performing the serverside pagination, lets setup the **Table** component 
 </div>
 
 <div>
+
 ## Serverside Pagination
 
 Follow the following steps to perform server side pagination on **Table**:

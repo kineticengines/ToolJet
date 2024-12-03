@@ -38,6 +38,7 @@ await micropip.install('numpy')
 </div>
 
 <div>
+
 ## Generating Random Numbers with NumPy
 
 - Create a RunPy query using NumPy's random module to generate random numbers.
@@ -57,6 +58,7 @@ print(x)
 </div>
 
 <div>
+
 ## Parse CSV data
 
 - Create a RunPy query to parse CSV data using `StringIO`, `csv`, and `Pandas` module.

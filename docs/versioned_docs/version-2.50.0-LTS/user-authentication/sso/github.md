@@ -41,7 +41,9 @@ To enable GitHub Single Sign-on (SSO) for your ToolJet instance, follow these st
 7. Obtain the Login URL from the **[General Settings](/docs/user-authentication/general-settings#login-url)** of the SSO page.
 
 <div>
-### Setting Default SSO
+
+##
+# Setting Default SSO
 
 To set GitHub as the default SSO for the instance, use the following environment variables:
 
@@ -56,7 +58,9 @@ To set GitHub as the default SSO for the instance, use the following environment
 </div>
 
 <div>
-### Exposed ssoUserInfo
+
+##
+# Exposed ssoUserInfo
 
 Once the GitHub SSO is configured (on ToolJet version **`2.28.0-ee2.12.2`** or above), ToolJet will expose the user info returned by the GitHub. The user info will be available under the `ssoUserInfo` property of the `currentUser` global variable. Check the **[Inspector](/docs/how-to/use-inspector)** doc to learn more.
 
@@ -107,7 +111,9 @@ The following is an example of the user info returned by GitHub:
 </div>
 
 <div>
-### Example: Getting User Information Using the access_token
+
+##
+# Example: Getting User Information Using the access_token
 
 Once a user is logged in to ToolJet using GitHub SSO, the access token of the user becomes available. This access token can be utilized within ToolJet apps to retrieve detailed user information from the GitHub API.
 

@@ -7,6 +7,7 @@ title: Chart
 The Chart component allows you to visualize your data. In this document, we'll go through all the configuration options for the **Chart** component. 
 
 <div>
+
 ## Title
 
 Under the `Title` property, you can enter a title that displays at the top of the chart component.
@@ -14,6 +15,7 @@ Under the `Title` property, you can enter a title that displays at the top of th
 </div>
 
 <div>
+
 ## Plotly JSON Chart Schema
 
 You can use the toggle to enable or disable `Use Ploty JSON Schema`. Additional, you can enable or disable it dynamically configure the value by clicking on `fx` and entering a logical expression.
@@ -21,6 +23,7 @@ You can use the toggle to enable or disable `Use Ploty JSON Schema`. Additional,
 </div>
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property </div>     | <div style={{ width:"100px"}}> Description </div> |
@@ -30,6 +33,7 @@ You can use the toggle to enable or disable `Use Ploty JSON Schema`. Additional,
 </div>
 
 <div>
+
 ## Events
 
 | <div style={{ width:"100px"}}> Event </div>     | <div style={{ width:"100px"}}> Description </div> |
@@ -44,6 +48,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get detailed 
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -51,6 +56,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | Variable|  Description  | How To Access  |
@@ -63,6 +69,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Chart data
 The data needs to be in JSON format and should have `x` and `y` keys. The component supports string and object JSON data types. 
 
@@ -81,12 +88,14 @@ The data needs to be in JSON format and should have `x` and `y` keys. The compon
 </div>
 
 <div>
+
 ## Marker Color
 Available for line and bar charts, `Marker Color` defines the color of the line or bars on the chart.
 
 </div>
 
 <div>
+
 ## Options
 | <div style={{ width:"100px"}}> Option </div> | <div style={{ width:"150px"}}> Description </div> | <div style={{ width:"250px"}}> Configuration Options </div>|
 |:------------------|:------------|:------------------------------|
@@ -97,6 +106,7 @@ Available for line and bar charts, `Marker Color` defines the color of the line 
 </div>
 
 <div>
+
 ## Devices
 
 | <div style={{ width:"135px"}}> Device </div>     | <div style={{ width:"100px"}}> Description </div> |
@@ -107,6 +117,7 @@ Available for line and bar charts, `Marker Color` defines the color of the line 
 </div>
 
 <div>
+
 ## Plotly Configuration
 
 You can refer to the **[Ploty's documentation](https://plotly.com/chart-studio-help/json-chart-schema/)** for information on Ploty's JSON Chart Schema.
@@ -336,6 +347,7 @@ Check the **[Plotly documentation](https://plotly.com/chart-studio-help/json-cha
 ---
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Field Property </div> | <div style={{ width:"150px"}}> Description </div> | <div style={{ width:"250px"}}> Configuration Options </div>|

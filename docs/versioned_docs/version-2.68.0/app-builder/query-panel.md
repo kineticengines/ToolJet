@@ -17,6 +17,7 @@ The Query Panel consists of two sections:
 </div>
 
 <div>
+
 ## Query Manager
 
 The Query Manager on the left lists all the queries that have been created in the application. Query Manager helps in managing the queries that have been created.

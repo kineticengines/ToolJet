@@ -17,6 +17,7 @@ Certain components are restricted from being placed within the **Popout** of the
 :::
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | 
@@ -27,7 +28,9 @@ Certain components are restricted from being placed within the **Popout** of the
 </div>
 
 <div>
-### Events
+
+##
+# Events
 `Events` property should contain an array of objects, each of which describes the events that the calendar needs to display.
   
 Assuming that you set the date format to `MM-DD-YYYY HH:mm:ss A Z`, setting the `Events` property to the following code snippet will display an event titled `Sample Event` at the first hour of this day, as displayed in the image of calendar at the beginning of this page.
@@ -47,7 +50,9 @@ Assuming that you set the date format to `MM-DD-YYYY HH:mm:ss A Z`, setting the 
 </div>
 
 <div>
-### Event Object Properties
+
+##
+# Event Object Properties
 
 | <div style={{ width:"100px"}}> Name </div> | <div style={{ width:"100px"}}> Description </div> |
 |:------|:-------------|
@@ -67,7 +72,9 @@ exposes any of the events via its exposed variables.
 </div>
 
 <div>
-### Resources
+
+##
+# Resources
 
 Specifying resources will make the calendar categorize `week` view and `day` view for each of the resources specified.  
 
@@ -92,7 +99,9 @@ If we specify the `resourceId` of any of the events as `1`, then that event will
 </div>
 
 <div>
-### Default View
+
+##
+# Default View
 
 Determines whether the calendar would display a `day`, a `week` or a `month`. Setting this property to anything other than these values will make the calendar default to `month` view.
 
@@ -101,48 +110,61 @@ The view that is currently selected will be exposed as the variable `currentView
 </div>
 
 <div>
-### Start Time on Week and Day View
+
+##
+# Start Time on Week and Day View
 
 This determines the time at which week view and day view cells begins. Keep in mind that this field accepts a date, but still only the time and timezone(if provided) are taken from this date. The date should be provided in the date format chosen by you in the first property field.
 
 </div>
 
 <div>
-### End Time on Week and Day View
+
+##
+# End Time on Week and Day View
 
 This determines the time at which week view and day view cells ends. Keep in mind that this field accepts a date, but still only the time and timezone(if provided) are taken from this date. The date should be provided in the date format chosen by you in the first property field.
 
 </div>
 
 <div>
-### Show Toolbar
+
+##
+# Show Toolbar
 
 Determines whether the calendar toolbar should be displayed or not. Click on `Fx` button to programmatically determine the field value to `{{true}}` or `{{false}}`.
 
 </div>
 
 <div>
-### Show View Switcher
+
+##
+# Show View Switcher
 
 Determines whether the calendar's buttons that allow user to switch between `month`, `week` and `day` level views will be displayed. Click on `Fx` button to programmatically determine the field value to `{{true}}` or `{{false}}`.
 
 </div>
 
 <div>
-### Highlight Today
+
+##
+# Highlight Today
 
 Determines whether the today's card on the calendar should be highlighted or not. Click on `Fx` button to programmatically determine the field value to `{{true}}` or `{{false}}`.
 
 </div>
 
 <div>
-### Show Popover When the Event is Clicked
+
+##
+# Show Popover When the Event is Clicked
 
 Determines whether to display a popover whenever an event is clicked. Click on `Fx` button to programmatically determine the field value to `{{true}}` or `{{false}}`.
 
 </div>
 
 <div>
+
 ## Events
 
 | Event | Description |
@@ -159,6 +181,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the Calendar component.
@@ -166,6 +189,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | Variables      | Description |
@@ -178,6 +202,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## General
 #### Tooltip
 
@@ -186,6 +211,7 @@ A Tooltip is often used to specify extra information about something when the us
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"150px"}}> Description </div> | <div style={{ width:"250px"}}> Configuration Options </div>|
@@ -196,6 +222,7 @@ A Tooltip is often used to specify extra information about something when the us
 </div>
 
 <div>
+
 ## Styles
 
 | Style | Description |

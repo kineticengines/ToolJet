@@ -6,6 +6,7 @@ title: Run Actions from RunJS query
 ToolJet allows you to execute various [actions](/docs/actions/show-alert) within RunJS queries. This guide outlines the syntax and examples for each action.
 
 <div>
+
 ## Run Query Action
 
 **Syntax:**
@@ -29,6 +30,7 @@ In the following screenshot, we demonstrate triggering two different queries, `g
 </div>
 
 <div>
+
 ## Set Variable Action
 
 **Syntax:**
@@ -48,6 +50,7 @@ In this example, we set two variables, `test` and `test2`. Note that `test` cont
 </div>
 
 <div>
+
 ## Unset Variable Action
 
 **Syntax:**
@@ -67,6 +70,7 @@ In the following screenshot, we unset the variable `test2` that was created in t
 </div>
 
 <div>
+
 ## Logout Action
 
 **Syntax:**
@@ -86,6 +90,7 @@ Executing `actions.logout()` will log out the current user from ToolJet and redi
 </div>
 
 <div>
+
 ## Show Modal Action
 
 **Syntax:**
@@ -105,6 +110,7 @@ In this example, a modal named `formModal` is present on the canvas, and we use 
 </div>
 
 <div>
+
 ## Close Modal Action
 
 **Syntax:**
@@ -124,6 +130,7 @@ Here, we use a RunJS query to close the modal that was shown in the previous ste
 </div>
 
 <div>
+
 ## Set Local Storage Action
 
 **Syntax:**
@@ -139,6 +146,7 @@ actions.setLocalStorage('key', 'value');
 </div>
 
 <div>
+
 ## Copy to Clipboard Action
 
 **Syntax:**
@@ -154,6 +162,7 @@ actions.copyToClipboard('contentToCopy');
 </div>
 
 <div>
+
 ## Generate File Action
 
 **Syntax:**
@@ -187,6 +196,7 @@ actions.generateFile('Pdffile1', 'pdf', '{{components.table1.currentPageData}}')
 </div>
 
 <div>
+
 ## Go to App Action
 
 **Syntax:**
@@ -206,6 +216,7 @@ actions.goToApp('slug', queryparams)
 </div>
 
 <div>
+
 ## Show Alert Action
 
 **Syntax:**
@@ -227,6 +238,7 @@ actions.showAlert('error', 'This is an error')
 </div>
 
 <div>
+
 ## Run Multiple Actions from RunJS Query
 
 To run multiple actions from a RunJS query, use **async-await** in the function. Here's an example code snippet for running queries and showing an alert at specific intervals:
@@ -244,10 +256,13 @@ async function countdown() {
 </div>
 
 <div>
+
 ## Actions on pages
 
 <div>
-### Switch page
+
+##
+# Switch page
 
 To switch to a page from the JavaScript query, use the following syntax:
 
@@ -258,7 +273,9 @@ await actions.switchPage('<page-handle>')
 </div>
 
 <div>
-### Switch page with query parameters
+
+##
+# Switch page with query parameters
 
 Query parameters can be passed through action such as Switch Page. The parameters are appended to the end of the application URL and are preceded by a question mark (?). Multiple parameters are separated by an ampersand (&).
 
@@ -271,7 +288,9 @@ actions.switchPage('<pageHandle>', [['param1', 'value1'], ['param2', 'value2']])
 </div>
 
 <div>
-### Set page variable
+
+##
+# Set page variable
 
 Page variables are restricted to the page where they are created and cannot be accessed throughout the entire application like regular variables.
 

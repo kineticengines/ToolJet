@@ -7,6 +7,7 @@ title: Button
 **Button** component can be used to trigger an action. It can be used to submit a form, navigate to another page, or trigger a query.
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -17,6 +18,7 @@ title: Button
 </div>
 
 <div>
+
 ## Events
 
 Events are actions that can be triggered programmatically when the user interacts with the component. Click on the component handle to open its properties on the right. Go to the **Events** accordion and click on **+ Add handler**.
@@ -33,6 +35,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 Following actions of Button component can be controlled using the component specific actions(CSA):
@@ -48,6 +51,7 @@ Following actions of Button component can be controlled using the component spec
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variable </div> | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div> |
@@ -57,6 +61,7 @@ Following actions of Button component can be controlled using the component spec
 </div>
 
 <div>
+
 ## General
 #### Tooltip
 
@@ -71,6 +76,7 @@ A Tooltip is often used to display additional information when the user hovers t
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | 
@@ -81,6 +87,7 @@ A Tooltip is often used to display additional information when the user hovers t
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"135px"}}> Style </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |

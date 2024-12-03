@@ -12,6 +12,7 @@ The Query Panel consists of two sections:
 <img className="screenshot-full" src="/img/v2-beta/app-builder/walkthrough/create-queries/query-panel-preview-v2.png" alt="Create a query" />
 
 <div>
+
 ## Creating a New Query
 
 - Click on the **+** button in the Query Panel to open a menu listing the available data sources or you can add a new data source by clicking on **+ Add new Data Source** button.
@@ -44,6 +45,7 @@ Here, `{{parameters.id}}` is a parameter that you can define by clicking on the 
 </div>
 
 <div>
+
 ## Query Examples
 
 Let's look at some examples with a PostgreSQL data source with a database table named *feature_requests*.
@@ -115,6 +117,7 @@ DELETE FROM feature_requests WHERE votes < {{parameters.minimumVotes}};
 </div>
 
 <div>
+
 ## Using Transformations and Events
 
 **Transformations**: After fetching data, you might want to format it (e.g., filtering out unnecessary fields or converting data types). ToolJet allows using JavaScript or Python for these transformations.
@@ -124,6 +127,7 @@ DELETE FROM feature_requests WHERE votes < {{parameters.minimumVotes}};
 </div>
 
 <div>
+
 ## Advanced Settings and Debugging
 
 **Preview and Run**: Use the **Preview** button to test queries and view results in raw or JSON format before executing them within the app using the **Run** button.

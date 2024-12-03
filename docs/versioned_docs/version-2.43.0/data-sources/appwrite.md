@@ -10,6 +10,7 @@ ToolJet can connect to appwrite database to read/write data.
 </div>
 
 <div>
+
 ## Connection 
 
 ToolJet connects to your Appwrite app using :
@@ -34,6 +35,7 @@ To establish a connection with the Appwrite data source, you can either click on
 </div>
 
 <div>
+
 ## Querying Appwrite 
 
 - After setting up the Appwrite data source, navigate to the query panel and  select the Appwrite data source that you added in the previous step.
@@ -53,6 +55,7 @@ Query results can be transformed using Transformations. Read our **Transformatio
 </div>
 
 <div>
+
 ## Supported operations
 
 -  **[List Documents](#list-documents)**
@@ -65,7 +68,9 @@ Query results can be transformed using Transformations. Read our **Transformatio
 </div>
 
 <div>
-### List Documents
+
+##
+# List Documents
 
 This operation is used to get a list of all the user documents.
 
@@ -89,7 +94,9 @@ This operation is used to get a list of all the user documents.
 </div>
 
 <div>
-### Get Document
+
+##
+# Get Document
 
 Use this operation to get a document from a collection by its unique ID. 
 
@@ -108,7 +115,9 @@ Use this operation to get a document from a collection by its unique ID.
 </div>
 
 <div>
-### Add Document to Collection
+
+##
+# Add Document to Collection
 
 Use this operation to create a new document in a collection.
 
@@ -127,7 +136,9 @@ Use this operation to create a new document in a collection.
 </div>
 
 <div>
-### Update Document
+
+##
+# Update Document
 
 Use this operation to update a document.
 
@@ -148,7 +159,9 @@ Use this operation to update a document.
 </div>
 
 <div>
-### Bulk update using document id
+
+##
+# Bulk update using document id
 
 Use this operation for bulk updating a document in a collection.
 
@@ -170,7 +183,9 @@ and these objects must contain a key-value pair to point unique record in the da
 </div>
 
 <div>
-### Delete Document
+
+##
+# Delete Document
 
 Use this operation for deleting a document in the collection.
 

@@ -11,6 +11,7 @@ ToolJet does not store any data fetched from the data sources. ToolJet acts as a
 :::
 
 <div>
+
 ## Server
 
 :::tip
@@ -20,6 +21,7 @@ Self-hosted version of ToolJet pings our server to fetch the latest product upda
 </div>
 
 <div>
+
 ## Client 
 
 ToolJet tracks anonymous usage data such as page loads and clicks. ToolJet tracks only the events and doesn't capture data from data sources.

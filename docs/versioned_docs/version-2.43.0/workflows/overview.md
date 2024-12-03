@@ -18,6 +18,7 @@ You're currently exploring the beta version of ToolJet Workflows. Please be awar
 :::
 
 <div>
+
 ## Quickstart Guide
 
 This introductory guide will help you understand the basics of ToolJet Workflows. We'll create a workflow that fetches the sales data from the database, transforms the data using JavaScript and sends an SMS notification to the Sales Manager using Twilio. The workflow will also conditionally return a success/failure message that can be used in a ToolJet Application to show a pop-up alert. 
@@ -29,7 +30,9 @@ All data sources that are configured in **Global Datasources** will be available
 </div>
 
 <div>
-### Creating a Workflow
+
+##
+# Creating a Workflow
 
 To create a new workflow, click on the workflow icon in the left sidebar and click on the **Create New Workflow** button. You'll be taken to the flow builder with a new workflow. Let's start by renaming the workflow to *Quickstart Guide*. 
 
@@ -42,7 +45,9 @@ The new workflow will have two nodes on the canvas - **Start Trigger** and **Res
 </div>
 
 <div>
-### Creating a New Node
+
+##
+# Creating a New Node
 
 Click on the blue circle on the **Start trigger** node and drag it to create a new node. Then select **PostgreSQL** node. 
 
@@ -68,7 +73,9 @@ We can now see a node named *postgresql1* connected to the outgoing flow of the 
 </div>
 
 <div>
-### Transforming Data Using The JavaScript Node
+
+##
+# Transforming Data Using The JavaScript Node
 
 Create an outgoing flow from the *fetchSalesData* node that we just created by clicking on the blue circle on its right. Select the **JavaScript** node and rename it to *createNotification*. 
 
@@ -102,7 +109,9 @@ Now that we are ready with our notification text, let's create a way to send it 
 </div>
 
 <div>
-### Sending Notification Using Twilio
+
+##
+# Sending Notification Using Twilio
 
 Create an outgoing flow from the *createNotification* node and select the **Twilio** node. Rename the node to *sendSMS*. Click on the **Operation** dropdown and select **Send SMS** and then enter a  number in the **To Number** field. 
 
@@ -135,7 +144,9 @@ Click on the *sendSMS* node and look at the **Results**. Under the **data** prop
 </div>
 
 <div>
-### Using If Condition Node
+
+##
+# Using If Condition Node
 
 Referring to the **errorMessage** identifier of the *sendSMS* node, we'll use the **If condition** node to end the workflow with a success or failure message. Create an outgoing flow from the *sendSMS* node and select **If condition**. The If condition node can have one or two incoming flows and two outgoing flows. For our use-case we need just one incoming flow. 
 
@@ -157,7 +168,9 @@ Click on the **If condition** node, a dialog box will appear on the right.
 </div>
 
 <div>
-### Setting a Success and Failure Message
+
+##
+# Setting a Success and Failure Message
 
 Click on the green circle on the **If condition** node and drag it, select a new **JavaScript node** and rename it to *successMessage*. Similarly, create one outgoing flow from the red circle and select a JavaScript node. Rename it to *failureMessage*. 
 
@@ -191,7 +204,9 @@ With this basic workflow, we've essentially isolated a complex data-centric task
 </div>
 
 <div>
-### Adding Workflows to ToolJet Applications
+
+##
+# Adding Workflows to ToolJet Applications
 
 You can now use this workflow in your ToolJet Application from the query panel. In your application, simply click on the **+ Add** button in the query panel and select **Run Workflow**. Then select **Quickstart Guide** in the **Workflow** dropdown. Rename the query to *sendNotification*.
 

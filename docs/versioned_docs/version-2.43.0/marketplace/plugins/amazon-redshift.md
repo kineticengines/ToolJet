@@ -15,6 +15,7 @@ ToolJet can connect to Amazon Redshift, enabling your applications to query data
 **NOTE:** **Before following this guide, it is assumed that you have already completed the process of [Using Marketplace plugins](/docs/marketplace/marketplace-overview#using-marketplace-plugins)**.
 
 <div>
+
 ## Configuration
 
 To connect to Amazon Redshift, you need to provide the following details:
@@ -39,6 +40,7 @@ To connect to Amazon Redshift, you need to provide the following details:
 </div>
 
 <div>
+
 ## Supported Queries
 
 Redshift supports a comprehensive set of SQL commands. You can use the SQL editor to run any SQL query on the connected Redshift cluster. Refer to the [Redshift documentation](https://docs.aws.amazon.com/redshift/latest/dg/c_SQL_commands.html) for more information on the supported SQL commands.
@@ -46,7 +48,9 @@ Redshift supports a comprehensive set of SQL commands. You can use the SQL edito
 </div>
 
 <div>
-### Read Data 
+
+##
+# Read Data 
 
 The following example demonstrates how to read data from a table in the connected Redshift cluster. The query selects all the columns from the `employee` table.
 
@@ -57,7 +61,9 @@ SELECT * FROM employee
 </div>
 
 <div>
-### Write Data 
+
+##
+# Write Data 
 
 The following example demonstrates how to write data to a table in the connected Redshift cluster. The query inserts a new row into the `employee` table.
 
@@ -86,7 +92,9 @@ INSERT INTO employee (
 </div>
 
 <div>
-### Update Data 
+
+##
+# Update Data 
 
 The following example demonstrates how to update data in a table in the connected Redshift cluster. The query updates the `first_name` and `last_name` columns of the `employee` table.
 
@@ -100,7 +108,9 @@ WHERE employee_id = 8;
 </div>
 
 <div>
-### Delete Data
+
+##
+# Delete Data
 
 The following example demonstrates how to delete data from a table in the connected Redshift cluster. The query deletes a row from the `employee` table.
 

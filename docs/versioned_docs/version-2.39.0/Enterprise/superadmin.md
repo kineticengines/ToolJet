@@ -10,6 +10,7 @@ A Super Admin is the user who has full access to all the Workspaces, Users, and 
 The user details entered while setting up ToolJet will have Super Admin privileges.
 
 <div>
+
 ## How Super Admin is Different from Admin
 
 | <div style={{ width:"100px"}}>Privilege </div>| Admin | Super Admin | 
@@ -38,6 +39,7 @@ The user details entered while setting up ToolJet will have Super Admin privileg
 </div>
 
 <div>
+
 ## Super Admin features
 
 ### Access any workspace
@@ -83,6 +85,7 @@ Super Admins have all the privileges that an Admin of a workspace have, Super Ad
 </div>
 
 <div>
+
 ## Settings
 
 Only Super Admins can access the Settings. To access the Settings page, click on the **⚙️** button and select **Settings** from the dropdown.
@@ -100,6 +103,7 @@ Only Super Admins can access the Settings. To access the Settings page, click on
 </div>
 
 <div>
+
 ## All Users
 
 ### Manage all Users in the Instance
@@ -153,6 +157,7 @@ From the **Edit user details** drawer, Super Admins can make any user as Super A
 </div>
 
 <div>
+
 ## All Workspaces
 
 The All Workspaces tab provides a comprehensive view of all workspaces within the ToolJet instance. Super Admins can use this functionality to monitor and manage workspaces collectively, ensuring efficient administration and organization-wide oversight. 
@@ -166,21 +171,27 @@ Super Admins have the authority to **archive** or **unarchive** workspaces of an
 </div>
 
 <div>
-### Current Workspace
+
+##
+# Current Workspace
 
 The **Current Workspace** label will be displayed next to the workspace that the Super Admin has currently opened. If the Super Admin archives the current workspace, they will be prompted to switch to another active workspace to ensure continuous accessibility.
 
 </div>
 
 <div>
-### Open Active Workspaces
+
+##
+# Open Active Workspaces
 
 In the list of active workspaces, there is an option to open the workspace directly. This feature helps superadmins to quickly navigate to the workspace on the new tab of the browser and manage the workspace.
 
 </div>
 
 <div>
-### Archive Workspaces
+
+##
+# Archive Workspaces
 
 The **Archive** button on the right of the workspace name allows Super Admins to archive the workspace. Once archived, the workspace will be moved to the **Archived Workspaces** section.
 
@@ -191,7 +202,9 @@ The **Archive** button on the right of the workspace name allows Super Admins to
 </div>
 
 <div>
-### Archived Workspaces
+
+##
+# Archived Workspaces
 
 The **Archived** section displays a list of all archived workspaces. Super Admins can unarchive any workspace from this section by clicking the **Unarchive** button.
 
@@ -202,6 +215,7 @@ The **Archived** section displays a list of all archived workspaces. Super Admin
 </div>
 
 <div>
+
 ## Manage Instance Settings
 
 <div style={{textAlign: 'center'}}>
@@ -211,7 +225,9 @@ The **Archived** section displays a list of all archived workspaces. Super Admin
 </div>
 
 <div>
-### Restrict Creation of Personal Workspace of Users
+
+##
+# Restrict Creation of Personal Workspace of Users
 
 When a user joins a workspace, they are provided with their own personal workspace and option to create new workspaces.
 
@@ -220,20 +236,25 @@ Super Admins can **control** this behavior from the Manage Settings page, they c
 </div>
 
 <div>
-### Enable Multiplayer Editing
+
+##
+# Enable Multiplayer Editing
 
 Super Admins can enable multiplayer editing from the Manage Settings page. Once enabled, users will be able to edit the same app simultaneously resulting in real-time collaboration.
 
 </div>
 
 <div>
-### Comments
+
+##
+# Comments
 
 Super Admins can enable comments from the Manage Settings page. Once enabled, users will be able to collaborate by adding comments anywhere on the canvas.
 
 </div>
 
 <div>
+
 ## White Labelling
 This feature allows you to customize the ToolJet instance with your own branding. You can change the logo, favicon, and the name of the instance.
 
@@ -242,6 +263,7 @@ Check out the [White labelling](/docs/enterprise/white-label/) page for more det
 </div>
 
 <div>
+
 ## Instance Login
 
 Instance login configuration at the Settings level allows super admins to set up and manage the default login method for all workspaces within the instance. This ensures a standardized login experience unless individual workspace admins choose to configure a different method for their specific workspace.
@@ -249,14 +271,18 @@ Instance login configuration at the Settings level allows super admins to set up
 </div>
 
 <div>
-### Access and Permissions
+
+##
+# Access and Permissions
 
 Only super admins have the authority to configure **Instance login** settings. This ensures centralized control over the default login method across the entire instance.
 
 </div>
 
 <div>
-### Super Admin URL
+
+##
+# Super Admin URL
 
 This URL serves as a fail-safe in scenarios where password login is disabled, SSO is not configured, or a paid plan expires. Importantly, this URL exclusively supports password login and is accessible only by the super admin, preventing any unauthorized access.
 
@@ -265,21 +291,27 @@ The default URL for super admin login is `https://<domain>/login/super-admin`. T
 </div>
 
 <div>
-### Enable sign-up
+
+##
+# Enable sign-up
 
 The "Enable Sign Up" option allows users to sign up without being invited. It is important to note that this feature includes both password login and SSO, providing a seamless onboarding experience for users.
 
 </div>
 
 <div>
-### Password login
+
+##
+# Password login
 
 Super admins can enable or disable password login for the entire instance. This setting ensures that all workspaces within the instance adhere to the same login method, unless individual workspace admins choose to configure a different method for their specific workspace.
 
 </div>
 
 <div>
-### Enable Workspace Configuration
+
+##
+# Enable Workspace Configuration
 
 Turning off this option restricts workspace admins from configuring the login method for their workspace. This configuration hides the Workspace Login option from the workspace settings tab.
 
@@ -290,6 +322,7 @@ Turning off this option restricts workspace admins from configuring the login me
 </div>
 
 <div>
+
 ## License
 
 Manage the instance license via the **Settings** page. Super Admins have the capability to update the instance's license key from this page.

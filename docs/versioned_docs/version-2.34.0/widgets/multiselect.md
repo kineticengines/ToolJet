@@ -7,6 +7,7 @@ title: Multiselect
 Multiselect widget can be used to collect multiple user inputs from a list of options.
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property   </div>   | <div style={{ width:"100px"}}> Description </div> | 
@@ -19,6 +20,7 @@ Multiselect widget can be used to collect multiple user inputs from a list of op
 </div>
 
 <div>
+
 ## Events
 
 | <div style={{ width:"135px"}}> Event </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -33,6 +35,7 @@ For comprehensive information on all available **Actions**, refer to the [Action
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 `await components.multiselect1.clearSelections()` <br/>
 `await components.multiselect1.deselectOption(2)`
@@ -48,6 +51,7 @@ Following actions of multselect component can be controlled using the component 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables  </div>  | <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div> |
@@ -58,6 +62,7 @@ Following actions of multselect component can be controlled using the component 
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -68,6 +73,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -78,6 +84,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style   </div>   | <div style={{ width:"100px"}}> Description </div> | 
@@ -89,6 +96,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Actions
 
 | <div style={{ width:"100px"}}> Action   </div>   | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"100px"}}> Properties </div> |

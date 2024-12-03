@@ -39,7 +39,9 @@ Optionally, you can also create a header by placing **[Text](/docs/widgets/text)
 </div>
 
 <div>
-### 2. Create a Database Table
+
+##
+# 2. Create a Database Table
 Now, create a new table in **[ToolJet’s Database](/docs/tooljet-db/tooljet-database/)** to store employee records. 
 
 <div class="video-container">
@@ -53,7 +55,9 @@ Now, create a new table in **[ToolJet’s Database](/docs/tooljet-db/tooljet-dat
 </div>
 
 <div>
-### 3. Fetch Data
+
+##
+# 3. Fetch Data
 
 To display employees in the application, we first need to fetch data from the database using a query.
 
@@ -73,7 +77,9 @@ To display employees in the application, we first need to fetch data from the da
 </div>
 
 <div>
-### 4. Bind Data to the Table
+
+##
+# 4. Bind Data to the Table
 
 Now, we need to bind the data returned by the `getEmployees` query with the Table created in the first step. 
 
@@ -94,7 +100,9 @@ Now the Table component is filled with the data returned by the `getEmployees` q
 </div>
 
 <div>
-### 5. Create a Query to Add Data
+
+##
+# 5. Create a Query to Add Data
 
 In the bottom-right corner of the Table component, there is a `+` (Add new row) button that opens a form to add new data to the Table. Follow the steps below to create an `addEmployee` query and execute it when you click the **Save** button on the add new rows form.
 
@@ -118,7 +126,9 @@ Frame all the remaining keys in the same format.
 </div>
 
 <div>
-### 6. Use Events to Trigger Queries
+
+##
+# 6. Use Events to Trigger Queries
 
 The `addEmployees` query should run when you click on the **Save** button on the `+` (Add new row) form. And the Table component should reload and display updated data each time a new employee is added. Follow the below steps to use events to setup this functionality. 
 
@@ -137,7 +147,9 @@ Now when you click the `+` (Add new row) button, enter the employee data, and cl
 </div>
 
 <div>
-### 7. Preview, Release And Share
+
+##
+# 7. Preview, Release And Share
 
 The preview, release and share buttons are at the top-right of the App-Builder.
 

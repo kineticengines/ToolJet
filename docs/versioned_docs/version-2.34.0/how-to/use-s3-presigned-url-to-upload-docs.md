@@ -11,6 +11,7 @@ For this guide, we are going to use one of the existing templates on ToolJet: **
 </div>
 
 <div>
+
 ## Create an App Using Templates
 
 - On ToolJet Dashboard, click on the ellipses on the right of the **Create new app** button, from the dropdown choose the **Choose from template** option. Select **AWS S3 file explorer** and click on the **Create application from template**.
@@ -37,6 +38,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 </div>
 
 <div>
+
 ## Get the Buckets
 
 - Once the data source is connected successfully, go to the query manager and **Run** the *getBuckets* query. The operation selected in the *getBuckets* query is **List buckets**, which will fetch an array of all the buckets.
@@ -60,6 +62,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 </div>
 
 <div>
+
 ## Get the Objects Inside the Bucket
 
 - To fetch the data inside a bucket, select the bucket from the buckets table, go to the query manager and choose the *getObjects* query. Choose the relevant data source in the **Data Source** section, and for the **Operation** parameter, choose `List objects in a bucket` option from the dropdown. Replace the **Bucket** parameter with, `{{components.table2.selectedRow.Name}}` and click on the **Run** to list all the files from the selected bucket on the table.
@@ -75,6 +78,7 @@ Check the [AWS S3 data source reference](/docs/data-sources/s3) to learn more ab
 </div>
 
 <div>
+
 ## Get the Signed URL for Downlaod
 
 The object owner can optionally share objects with others by creating a presigned URL, using their own security credentials, to grant time-limited permission to download the objects. For creating a presigned URL, in the query panel replace the parameters with the following:
@@ -96,6 +100,7 @@ After setting up the parameters, click **Run** to run the query, and the URL can
 </div>
 
 <div>
+
 ## Upload Objects to the Bucket
 
 The `Upload Object` operation allows users to select a bucket and then upload their chosen data into that bucket. To upload objects in a bucket, follow the steps below:
@@ -119,6 +124,7 @@ Once the query has been created, choose the desired bucket, click on the **Uploa
 </div>
 
 <div>
+
 ## Access the Signed URL
 
 After uploading the file to your bucket, in the files table, click on the **Copy signed URL** button from the **Actions** section of the table, which will copy the URL on the clipboard. You can go to another tab and paste the URL to open the file on the browser.

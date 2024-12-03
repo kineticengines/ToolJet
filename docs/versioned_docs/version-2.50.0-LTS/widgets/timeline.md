@@ -8,6 +8,7 @@ title: Timeline
 The **Timeline** component provides a visual representation of a sequence of events. It's useful for displaying historical data, project milestones, or any chronological information in a clear and engaging format.
 
 <div>
+
 ## Properties
 
 ### Timeline Data
@@ -39,6 +40,7 @@ Toggle this option to hide the date/time information in the Timeline component.
 </div>
 
 <div>
+
 ## Component-Specific Actions (CSA)
 
 There are currently no Component-Specific Actions implemented for the Timeline component.
@@ -46,6 +48,7 @@ There are currently no Component-Specific Actions implemented for the Timeline c
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the Timeline component.
@@ -53,6 +56,7 @@ There are currently no exposed variables for the Timeline component.
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -61,6 +65,7 @@ A Tooltip provides additional information when users hover over the component. S
 </div>
 
 <div>
+
 ## Devices
 
 | Property        | Description                               | Expected Value |
@@ -71,6 +76,7 @@ A Tooltip provides additional information when users hover over the component. S
 </div>
 
 <div>
+
 ## Styles
 
 | Property | Description | Configuration Options |

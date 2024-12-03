@@ -12,6 +12,7 @@ import TabItem from '@theme/TabItem';
 The GitSync feature enables synchronization of workspace applications with a git repository, streamlining application management and version control on ToolJet.
 
 <div>
+
 ## Overview
 
 ToolJet applications can be synchronized with a Git repository, offering the flexibility to tailor your application development and deployment processes across various environments while aligning with best practices for the application development lifecycle.
@@ -31,6 +32,7 @@ Facilitating the movement of applications across different ToolJet deployments (
 </div>
 
 <div>
+
 ## Setting up GitSync
 
 :::info
@@ -168,6 +170,7 @@ Go back to the **Configure git** tab on ToolJet, and click on the **Finalize set
 </div>
 
 <div>
+
 ## Auto-commit on Promoting Environment
 
 When you promote an environment, from **Developement to Staging**, the changes will be automatically committed to the git repository. The commit message will be `<version_number> Version of <app_name> promoted from <source_environment> to <destination_environment>`. The author will be the user who promoted the environment. When you promote an environment, from **Staging to Production**, no changes will be committed to the git repository.
@@ -181,6 +184,7 @@ This option can be enabled or disabled from the **Configure git** tab on the **W
 </div>
 
 <div>
+
 ## Enable/Disable GitSync
 
 To enable or disable the GitSync feature, go to the **Configure git** tab on the **Workspace settings** page, and toggle on/off the **Connect** switch. This is only available if the GitSync feature is configured.
@@ -199,6 +203,7 @@ On clicking the GitSync button, the users will be able to commit changes to the 
 </div>
 
 <div>
+
 ## Delete GitSync Configuration
 
 To delete the GitSync configuration, go to the **Configure git** tab on the **Workspace settings** page, and click on the **Delete configuration** button. This will delete the SSH key from the ToolJet configuration and the GitSync feature will be disabled.
@@ -210,6 +215,7 @@ To delete the GitSync configuration, go to the **Configure git** tab on the **Wo
 </div>
 
 <div>
+
 ## Git Repo
 
 Once the initial commit is made, you can see the app files in the git repository. The repository will have the individual app folders and a **.meta** folder. The app folders will be named as the app name and will have the respective **JSON** file of the application. The **.meta** folder will have the **meta.json** file that contains the meta information of each application synced to git repo.
@@ -235,6 +241,7 @@ The **meta.json** file holds information about apps such as the **App name**, **
 </div>
 
 <div>
+
 ## Pushing Changes to Git Repo
 
 Once the GitSync feature is configured, you can start pushing changes to the git repository. 
@@ -344,6 +351,7 @@ The **JSON** file in the app folder will be replaced with the new version of the
 </div>
 
 <div>
+
 ## Pulling Changes from Git Repo
 
 You can configure the GitSync feature on another workspace to pull the changes from the git repository. To configure the GitSync feature on another workspace, follow the steps mentioned in the [Setting up GitSync](#setting-up-gitsync) section.

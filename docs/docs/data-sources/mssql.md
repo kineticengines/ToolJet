@@ -6,6 +6,7 @@ title: MS SQL Server / Azure SQL Databases
 ToolJet can connect to MS SQL Server & Azure SQL databases to read and write data. 
 
 <div>
+
 ## Connection
 
 To establish a connection with the MS SQL Server data source, click on the **+ Add new Data source** button located on the query panel or navigate to the [Data Sources](/docs/data-sources/overview) page from the ToolJet dashboard.
@@ -30,6 +31,7 @@ ToolJet requires the following to connect to your PostgreSQL database.
 </div>
 
 <div>
+
 ## Querying SQL Server / Azure SQL Databases
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.

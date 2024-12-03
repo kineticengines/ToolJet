@@ -5,9 +5,7 @@ title: Database Editor
 
 You can manage the ToolJet Database directly from the Database Editor. ToolJet Database organizes the data into **tables** that can have different structures. All the tables will be listed lexicographically on the left. Click on any of the tables to view the table data.
 
-<div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/tables-v2.png" alt="ToolJet database" />
-</div>
+<img className="screenshot-full" src="/img/v2-beta/database/ux2/tables-v2.png" alt="ToolJet database" />
 
 The sidebar on the left can also be collapsed to give more space to the database editor.
 
@@ -15,6 +13,7 @@ The sidebar on the left can also be collapsed to give more space to the database
     <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/collapse-v2.gif" alt="ToolJet database"/>
 </div>
 <div>
+
 ## Create New Table
 
 To create a new table in the ToolJet Database:
@@ -25,16 +24,14 @@ To create a new table in the ToolJet Database:
 - Enter a **Table name**.
 - By default, an **id** column with **serial** data type is automatically created as the **primary key** of the table. You can change the primary key to any other column.
 
-<div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/create-table-v2.png" alt="ToolJet database" />
-</div>
+<img className="screenshot-full" src="/img/v2-beta/database/ux2/create-table-v2.png" alt="ToolJet database" />
 
 - Add Columns:
 
 | **Option** | **Description** |
 | --- | --- |
 | **Column name** | Enter a unique name for the column. |
-| **Data type** | Select the appropriate data type for the column from the dropdown menu. For more information on available data types, see the [Supported Data Types](./data-types#supported-data-types) section. |
+| **Data type** | Select the appropriate data type for the column from the dropdown menu. For more information on available data types, see the [Supported Data Types](/docs/tooljet-db/data-types#supported-data-types) section. |
 | **Default value (optional)** | Specify any default value to be assigned to the column. If left blank, the column will allow null values. |
 | **Primary Key** | Check this box to designate the column as the [Primary Key](#primary-key). Multiple columns can be selected, creating a composite primary key. |
 | **NULL/NOT NULL toggle** | Use this toggle to determine whether the column should allow null values or require a value. By default, null values are permitted. |
@@ -44,6 +41,7 @@ To create a new table in the ToolJet Database:
 </div>
 
 <div>
+
 ## Column Constraints
 
 ToolJet Database supports several column constraints to maintain data integrity and enforce rules on the data stored in the tables. These constraints include:
@@ -58,80 +56,12 @@ ToolJet Database supports several column constraints to maintain data integrity 
 
 **Not Null**: The not null constraint ensures that the designated column(s) cannot have null values, requiring a value for every row in the table.
 
-For a detailed overview of which constraints are allowed for each data type, refer to the [Permissible Constraints per Data Type](./data-types#permissible-constraints-per-data-type) table.
-
-## Primary Key
-
-ToolJet Database supports both single field and composite primary keys.
-
-### Creating Single Field Primary Key
-
-When creating a new table, an `id` column with the `serial` data type is automatically generated to serve as the primary key. However, you can designate any other column as the primary key if desired. The primary key column can be of any supported data type except Boolean.
-The constraints for the primary key column ensure the integrity and uniqueness of the primary key, which is essential for properly identifying and referencing records within the table. To create a single field primary key, follow these steps:
-
- - Create or edit an existing table.
- - Check the **Primary** checkbox on the column which you want to set as the primary key. 
- - This will automatically add the primary key constraint to the column.
- - Click on the **Create** button to create the table.
-
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/single-field-pk.gif" alt="ToolJet database"/>
-
-#### Constraints
-- The primary key column cannot contain null values.
-- The primary key column must have unique values across all rows.
-
-#### Limitations
-- Every table must have at least one primary key.
-- The primary key column cannot have the Boolean data type.
-
-### Creating Composite Primary Key
-
-You have the option to convert an existing primary key column into a composite primary key, consisting of two or more columns.
-By utilizing a composite primary key, you can uniquely identify records based on multiple column values, providing greater flexibility and control over your data structure. To create a composite primary key, follow these steps:
-
- - Create or edit an existing table.
- - Check the **Primary** checkbox on multiple columns to set them as the composite primary key. 
- - This will automatically add the primary key constraint to the selected columns.
- - Click on the **Save changes/Create** button to update/create the table.
-
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/composite-pk.gif" alt="ToolJet database"/>
-
-#### Constraints
-- None of the composite key columns can contain null values.
-- The combination of values across all composite key columns must be unique for each row in the table.
-
-#### Limitation
-- The composite key columns cannot be of the Boolean data type.
-
-### Modifying Primary Key
-
-After creating a table, you can designate any column as the primary key, provided it adheres to the required constraints. If the chosen column already contains data, the existing values must comply with the primary key constraints. However, you cannot update or modify the primary key of a target table if it is currently being referenced as a foreign key in any other source tables. To modify the primary key, follow these steps:
-
- - Edit an existing table.
- - Check the **Primary** checkbox on the column which you want to set as the primary key.
- - This will automatically add the primary key constraint to the column.
- - Uncheck the **Primary** checkbox on the existing primary key column. The primary key constraints will still stay in place for this column but are no longer necessary.
- - Click on the **Save changes** button to update the table.
-
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/modify-pk.gif" alt="ToolJet database"/>
-
-### Deleting Primary Key
-
-An existing primary key column can be deleted through the **Edit Table** panel. To delete the primary key column, follow these steps:
-
-- Edit an existing table.
-- Select a different column to serve as the new primary key for the table.
-- Once the new primary key column is designated, you can proceed to the existing primary key column.
-- Uncheck the **Primary** checkbox for the existing primary key column to remove its primary key status.
-- After removing the primary key constraint, you can delete this column from the table.
-
-You cannot delete a Primary Key of a target table if it is being used as a foreign key in any source table(s).
-
-<img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/delete-pk.gif" alt="ToolJet database"/>
+For a detailed overview of which constraints are allowed for each data type, refer to the [Permissible Constraints per Data Type](/docs/tooljet-db/data-types#permissible-constraints-per-data-type) table.
 
 </div>
 
 <div>
+
 ## Foreign Key
 
 A foreign key relation refers to linking one column or set of columns of the current table with one column or set of columns in an existing table. This relationship establishes a connection between the two tables, enabling the current source table to reference the existing target table. While creating a Foreign Key relationship, you can select the desired [action](#foreign-key-actions) to be performed on the source row when the referenced(target) row is updated or deleted.
@@ -244,6 +174,7 @@ Now, whenever you try to insert or update a record in the `Orders` table, the `c
 
 
 <div>
+
 ## Table Operations
 
 ### Search Table
@@ -257,7 +188,9 @@ Open the Search bar by clicking on the **Search** button and search for a table 
 </div>
 
 <div>
-### Rename Table
+
+##
+# Rename Table
 
 To rename a table, click on the kebab menu icon on the right of the table name and then select the **Edit table** option. A drawer will open from the right from where you can edit the table name.
 
@@ -268,7 +201,9 @@ To rename a table, click on the kebab menu icon on the right of the table name a
 </div>
 
 <div>
-### Add New Column
+
+##
+# Add New Column
 
 To add a new column to a table, either click on the kebab menu icon on the right of the table name and then select the **Add new column** option or click on the **+** button present at the end of the column header.
 
@@ -286,7 +221,9 @@ A drawer from the right will open up where you can enter the details for the new
 </div>
 
 <div>
-### Export Schema
+
+##
+# Export Schema
 
 The export schema option allows you to download the selected table schema in a JSON file. This does not export the table data or the relationships.<br/>
 While exporting the app, you can choose to export the app with or without a table schema connected to the app.<br/>
@@ -299,7 +236,9 @@ To export the table schema, click on the three vertical dots icon on the right o
 </div>
 
 <div>
-### Delete Table
+
+##
+# Delete Table
 
 To delete a table, click on the three vertical dots icon on the right of the table name and then click on the **Delete** option. A confirmation modal will appear, click on the **Delete** button to delete the table.
 
@@ -310,7 +249,9 @@ To delete a table, click on the three vertical dots icon on the right of the tab
 </div>
 
 <div>
-### Edit Column
+
+##
+# Edit Column
 
 To edit a column, click on the kebab menu on the column name and select the option to **Edit column**. When you edit the column, the data type cannot be changed.
 
@@ -321,7 +262,9 @@ To edit a column, click on the kebab menu on the column name and select the opti
 </div>
 
 <div>
-### Delete Column
+
+##
+# Delete Column
 
 To delete a column, click on the kebab menu on the column name and select the option to **Delete**. You cannot delete a column if it is being used as a primary key. You will have to remove the primary key constraint from the column before deleting it.
 
@@ -332,6 +275,7 @@ To delete a column, click on the kebab menu on the column name and select the op
 </div>
 
 <div>
+
 ## Adding and Modifying Data
 
 ### Add New Data
@@ -345,7 +289,9 @@ The Add new data button on the top of the table editor allows you to add data to
 </div>
 
 <div>
-### Add New Row
+
+##
+# Add New Row
 
 To add a new row to a table, either click on the `Add new data` button on top and then select the **Add new row** option or click on the **+** button present at the bottom left.<br/>
 A drawer from the right will open up where the values for the new row can be provided.
@@ -357,7 +303,9 @@ A drawer from the right will open up where the values for the new row can be pro
 </div>
 
 <div>
-### Edit Row
+
+##
+# Edit Row
 
 To edit a row, hover on the row that you want to edit and the expand icon will appear next to the checkbox of that row. Click on the Expand icon to open the drawer and edit the row.
 
@@ -368,7 +316,9 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 </div>
 
 <div>
-### Edit a Cell
+
+##
+# Edit a Cell
 
 - Double-click on the cell you want to edit.
 - Enter the new value.
@@ -382,7 +332,9 @@ To edit a row, hover on the row that you want to edit and the expand icon will a
 </div>
 
 <div>
-### Bulk Upload Data
+
+##
+# Bulk Upload Data
 
 You can bulk upload data to the ToolJet database by clicking the **Bulk upload data** button at the top of the database editor. On clicking the button, a drawer will open from the right from where you can upload a **CSV** file. This file is used to insert records onto the table. If data for the id column is missing, it will insert a new record with the row data; if the id is present, it will update the corresponding record with the row data.
 
@@ -406,17 +358,18 @@ Once the CSV file is ready, click on the file picker to select the file or drag 
 </div>
 
 <div>
-### Delete Records
+
+##
+# Delete Records
 
 To delete one or many records/rows, click the checkbox to the right of the record or records you want to delete. As soon as you select a single record, the button to delete the record will appear on the top, click on the **Delete record** button to delete the selected records.
 
-<div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/delete-rows-v2.png" alt="ToolJet database" />
-</div>
+<img className="screenshot-full" src="/img/v2-beta/database/ux2/delete-rows-v2.png" alt="ToolJet database" />
 
 </div>
 
 <div>
+
 ## Filter
 
 You can add as many filters as you want into the table by clicking on the **Filter** button present on the top of the database editor.
@@ -442,19 +395,16 @@ You can add as many filters as you want into the table by clicking on the **Filt
 | **in** | This operation is used to check if the value of the column is in the list of values entered in the input field. ex: `(1,2,3)` |
 | **is** | This operation is used to check if the value of the column is equal to the value entered in the input field. This operation is used for boolean data types. |
 
-<div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/filter-data-v2.png" alt="ToolJet database" />
-</div>
+<img className="screenshot-full" src="/img/v2-beta/database/ux2/filter-data-v2.png" alt="ToolJet database" />
 
 </div>
 
 <div>
+
 ## Sort
 
 To sort the table data, click on the **Sort** button on top, select a **column** from the dropdown, and then choose an order **ascending** or **descending**.
 
-<div style={{textAlign: 'center'}}>
-    <img style={{ border:'0', marginBottom:'15px', borderRadius:'5px', boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' }} className="screenshot-full" src="/img/v2-beta/database/ux2/sort-v2.png" alt="ToolJet database" />
-</div>
+<img className="screenshot-full" src="/img/v2-beta/database/ux2/sort-v2.png" alt="ToolJet database" />
 
 </div>

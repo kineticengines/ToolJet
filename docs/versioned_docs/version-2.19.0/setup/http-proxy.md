@@ -13,6 +13,7 @@ The server will connect to the internet via the configured HTTP proxy when the b
 
 
 <div>
+
 ## Package Information
 
 We use the [global-agent](https://www.npmjs.com/package/global-agent) package to manage HTTP proxies.
@@ -22,6 +23,7 @@ This package allows you to configure global HTTP/HTTPS proxies for your Node.js 
 </div>
 
 <div>
+
 ## URL Format
 
 The environment variable format follows the standard host and port notation:

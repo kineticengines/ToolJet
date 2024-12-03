@@ -7,6 +7,7 @@ title: Spinner
 Spinner widget can be used to provide a visual indication that an action is in progress by awaiting a change.
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -14,6 +15,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the component.
@@ -21,6 +23,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -31,6 +34,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -41,6 +45,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style </div> | <div style={{ width:"100px"}}>  Description </div> | 

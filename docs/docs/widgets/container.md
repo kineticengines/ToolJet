@@ -14,6 +14,7 @@ If the builder attempts to add any of the aforementioned components inside the c
 :::
 
 <div>
+
 ## Enabling Vertical Scroll on Container
 
 To enable the vertical scroll on the container, drag and place any component to the bottom grid of the container and the container will automatically enable the scrolling.
@@ -21,6 +22,7 @@ To enable the vertical scroll on the container, drag and place any component to 
 </div>
 
 <div>
+
 ## Loading State
 
 To activate the loader on the Container component, access its properties and dynamically adjust the **Loading State** property by clicking the **fx** button. You can set it to either `{{true}}` or `{{false}}`.
@@ -30,6 +32,7 @@ For instance, if you wish to display the loader on the container when the query 
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -37,6 +40,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the component.
@@ -44,6 +48,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -54,6 +59,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> |
@@ -66,6 +72,7 @@ Under the **General** accordion, you can set the value in the string format. Now
 ---
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"100px"}}> Default Value </div> |

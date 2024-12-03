@@ -6,6 +6,7 @@ title: MinIO
 ToolJet can connect to minio and perform various operation on them.
 
 <div>
+
 ## Connection
 
 To establish a connection with the MiniIo data source, click on the **+ Add new data source** button located on the query panel or navigate to the [Data Sources](/docs/data-sources/overview) page from the ToolJet dashboard.
@@ -23,6 +24,7 @@ ToolJet requires the following to connect to your DynamoDB:
 </div>
 
 <div>
+
 ## Querying Minio
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -39,6 +41,7 @@ Query results can be transformed using transformations. Read our transformations
 </div>
 
 <div>
+
 ## Supported Operations
 
 - **[Read object](#read-object)**

@@ -9,7 +9,9 @@ In this step-by-step guide, we'll walk you through the process of creating a Run
 </div>
 
 <div>
-### Creating the Error-Throwing RunJS Query
+
+##
+# Creating the Error-Throwing RunJS Query
 
 1. Create a new RunJS query by clicking the `+ Add` button on the query panel.
 
@@ -21,7 +23,9 @@ In this step-by-step guide, we'll walk you through the process of creating a Run
 </div>
 
 <div>
-### Adding an Event Handler for Failure
+
+##
+# Adding an Event Handler for Failure
 
 3. Now, enhance the query by adding an event handler that will display an alert when the query fails.
 

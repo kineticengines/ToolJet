@@ -10,11 +10,12 @@ You might have to stick to the Safari browser in IOS as camera access is restric
 :::
 
 <div>
+
 ## Events
 
 | <div style={{ width:"100px"}}> Event </div> | <div style={{ width:"100px"}}> Description </div> |
 |:------------------|:---------------------|
-| On Detect | Triggers whenever the component successfully scans a QR code. |
+| On detect | Triggers whenever the component successfully scans a QR code. |
 
 :::info
 Check [Action Reference](/docs/category/actions-reference) docs to get the detailed information about all the **Actions**.
@@ -30,6 +31,7 @@ So if you're testing it out, be sure to either use `localhost` or `https`.
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -37,15 +39,17 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 | <div style={{ width:"100px"}}> Variables </div> | <div style={{ width:"200px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div>|
 |:----------- |:----------- |:--------- |
-| lastDetectedValue | This variable holds the data contained in the last QR code scanned by the component. | To fetch the data use `{{components.qrscanner1.lastDetectedValue}}`. |
+| lastDetectedValue | Holds the data from the last QR code scanned by the component.  | Accessible dynamically with JS (for e.g., `{{components.qrscanner1.lastDetectedValue}}`). |
 
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -58,12 +62,13 @@ Now hovering over the component will display the string as the tooltip.
 </div>
 
 <div>
-## Layout
 
-| <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
+## Devices
+
+| <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
 |:--------------- |:----------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
-| Show on desktop | Toggle on or off to display desktop view. | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}`. |
-| Show on mobile  | Toggle on or off to display mobile view.  | You can programmatically determining the value by clicking on **fx** to set the value `{{true}}` or `{{false}}`. |
+| Show on desktop | Makes the component visible in desktop view. | You can set it with the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
+| Show on mobile  | Makes the component visible in mobile view.  | You can set it with the toggle button or dynamically configure the value by clicking on **fx** and entering a logical expression. |
 
 </div>
 

@@ -12,6 +12,7 @@ Certain components, namely **Calendar** and **Kanban**, are restricted from bein
 :::
 
 <div>
+
 ## Setting List Data
 
 To dynamically populate List View components, you can use specific data properties.
@@ -41,6 +42,7 @@ Similarly, for an Image component inside List View, you can use the below code t
 </div>
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -56,6 +58,7 @@ Similarly, for an Image component inside List View, you can use the below code t
 </div>
 
 <div>
+
 ## Events
 
 To attach an event handler to the List View component, follow these steps:
@@ -90,6 +93,7 @@ To get detailed information about all the **Actions**, please consult the [Actio
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 There are currently no CSA (Component-Specific Actions) implemented to regulate or control the component.
@@ -97,6 +101,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## Exposed Variables
 
 |  <div style={{ width:"100px"}}> Variables </div>   |  <div style={{ width:"135px"}}> Description </div> | <div style={{ width:"135px"}}> How To Access </div> |
@@ -111,6 +116,7 @@ There are currently no CSA (Component-Specific Actions) implemented to regulate 
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -121,6 +127,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -131,6 +138,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style  </div>    | <div style={{ width:"100px"}}> Description </div> |
@@ -148,6 +156,7 @@ Any property having `Fx` button next to its field can be **programmatically conf
 </div>
 
 <div>
+
 ## Example: Displaying Data in the List View
 
 - Let's start by creating a new app and then dragging the List View component onto the canvas.
@@ -194,6 +203,7 @@ Use `{{listItem.key}}` to display data on the nested components. Example: For di
 </div>
 
 <div>
+
 ## Controlling Child Components
 
 All the child components of the List View component are exposed through the `children` variable. This variable is an array of objects, where each object represents a record in the listview and contains the data of the child components.

@@ -10,6 +10,7 @@ In this guide, we will implement printing data from multiple tabs in ToolJet. Th
 </div>
 
 <div>
+
 ## UI of the App
 
 On the ToolJet homepage, click on the ellipses on the `Create new app` button. Choose an app with a set of tabs for each record. Each tab will have a set of fields to display. For this guide, we will be using the **Lead Management System** app.
@@ -27,6 +28,7 @@ In the example below, we have the **Tabs** component and each tab has a set of f
 </div>
 
 <div>
+
 ## Load Data from Database
 
 - To load the data from the database, we will use the **lead_management_system** table.
@@ -43,6 +45,7 @@ Once the data is successfully loaded on the tabs and the app is working as expec
 </div>
 
 <div>
+
 ## Printing Data from Multiple Tabs
 
 To print data from multiple tabs, we will create few JavaScript queries. Using event handlers, we will run these JavaScript queries in a sequence to print data from all the tabs. 
@@ -63,10 +66,13 @@ Before we start creating the JavaScript queries, we need to add a few events to 
 </div>
 
 <div>
+
 ## Creating Queries
 
 <div>
-### viewTabs Query
+
+##
+# viewTabs Query
 
 The *viewTabs* query is a JavaScript query that will run a loop to print data from all the tabs. The query will set a variable `tabIndex` that will store the id of the tab to print data from. The query for this app will loop and increment the tabsIndex variable by 1, using the setVariable action, till the value is less than 4.
 
@@ -124,7 +130,9 @@ Now that we have created the *viewTabs* query, we can go to the **[Download PDF]
 </div>
 
 <div>
-### getTabsHTML Query
+
+##
+# getTabsHTML Query
 
 The *getTabsHTML* is a JavaScript query that will get the HTML of the current tab and store it in a variable. The query will have a variable `tabsHtml` that will store the HTML of all the tabs in the form of an array.
 
@@ -161,7 +169,9 @@ Now that we have created the *getTabsHTML* query, we can go to the *viewTabs* qu
 </div>
 
 <div>
-### printPDF Query
+
+##
+# printPDF Query
 
 The *printPDF* query is a JavaScript query that generates a printable document from the HTML content stored in the `tabsHtml` variable. This query will open a new window and write the HTML content of all the tabs. This will allow the user to download a PDF document that includes the formatted content of all the tabs.
 

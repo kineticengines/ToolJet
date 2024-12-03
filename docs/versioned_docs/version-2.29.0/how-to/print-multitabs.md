@@ -83,7 +83,9 @@ For the first Query Success event, we will add a `Control component` action whic
 </div>
 
 <div>
-#### 2. Query Success:
+
+##
+## 2. Query Success:
 
 For the second Query Success event, we will select `Run Query` action which will `Run only if` `{{parseInt(variables.tabIndex) < 5}}` is true. The query for this event handler will be `getTabsHTML`. We will also add a `debounce` of `100` milliseconds to this event handler.
 
@@ -96,7 +98,9 @@ For the second Query Success event, we will select `Run Query` action which will
 </div>
 
 <div>
-#### 3. Query Success:
+
+##
+## 3. Query Success:
 
 For the third Query Success event, we will select `Run Query` action which will `Run only if` `{{parseInt(variables.tabIndex) === 5}}` is true. The query for this event handler will be `printPDF`. This action will only run when the `tabIndex` is equal to 5, i.e. the last iteration of the loop and we will print the data from all the tabs in this iteration.
 
@@ -146,7 +150,9 @@ This event will have an action to `Run Query` named `viewTabs`. This will run th
 Now that we have created the `getTabsHTML` query, we can go to the [viewTabs](/docs/how-to/print-multi-tabs-report#2-query-success) query and add the `getTabsHTML` query to the `Query Success` event handler.
 
 <div>
-### printPDF query
+
+##
+# printPDF query
 
 The `printPDF` query is a JavaScript query that generates a printable document from the HTML content stored in the `tabsHtml` variable. This query will open a new window and write the HTML content of all the tabs. This will allow the user to download a PDF document that includes the formatted content of all the tabs.
 
@@ -195,7 +201,9 @@ This event will have an action to `Unset Variable` named `tabsIndex`. This will 
 </div>
 
 <div>
-#### 2. Query Success:
+
+##
+## 2. Query Success:
 
 This event will have an action to `Unset Variable` named `tabsHtml`. This will unset the `tabsHtml` variable after the `printPDF` query is successfully executed.
 
@@ -206,7 +214,9 @@ This event will have an action to `Unset Variable` named `tabsHtml`. This will u
 </div>
 
 <div>
-#### 3. Query Success:
+
+##
+## 3. Query Success:
 
 This event will have an action to `Control component`. This will control the `Tabs` component to `Set current tab` to `{{variables.lastSelectedTab}}` after the `printPDF` query is successfully executed. This will set the current tab to the tab that was selected before the `Download` button was clicked.
 

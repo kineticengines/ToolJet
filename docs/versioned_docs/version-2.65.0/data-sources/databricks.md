@@ -10,6 +10,7 @@ Databricks is a cloud-based platform for data processing, analytics, and machine
 </div>
 
 <div>
+
 ## Configuration
 
 ToolJet's Databricks integration relies on a configuration form that supports the following parameters:
@@ -43,6 +44,7 @@ ToolJet's Databricks integration relies on a configuration form that supports th
 </div>
 
 <div>
+
 ## Querying Databricks
 
 1. Click on **+ Add** button of the query manager at the bottom panel of the editor.
@@ -64,6 +66,7 @@ You can apply transformations to the query results. Refer to our transformations
 </div>
 
 <div>
+
 ## Supported Queries
 
 Databricks supports standard SQL commands for data manipulation tasks.

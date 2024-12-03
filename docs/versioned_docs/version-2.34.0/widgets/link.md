@@ -8,6 +8,7 @@ title: Link
 Link widget allows you to add a hyperlink and navigate to the external URL.
 
 <div>
+
 ## Properties
 
 | <div style={{ width:"100px"}}> Properties </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -19,6 +20,7 @@ Link widget allows you to add a hyperlink and navigate to the external URL.
 </div>
 
 <div>
+
 ## Events
 To add an event to a link, click on the widget handle to open the widget properties on the right sidebar. Go to the **Events** section and click on **Add handler**.
 
@@ -34,6 +36,7 @@ Check [Action Reference](/docs/category/actions-reference) docs to get the detai
 </div>
 
 <div>
+
 ## Component Specific Actions (CSA)
 
 Following actions of link component can be controlled using the component specific actions(CSA):
@@ -45,6 +48,7 @@ Following actions of link component can be controlled using the component specif
 </div>
 
 <div>
+
 ## Exposed Variables
 
 There are currently no exposed variables for the component.
@@ -52,6 +56,7 @@ There are currently no exposed variables for the component.
 </div>
 
 <div>
+
 ## General
 ### Tooltip
 
@@ -62,6 +67,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Layout
 
 | <div style={{ width:"100px"}}> Layout </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
@@ -72,6 +78,7 @@ Under the <b>General</b> accordion, you can set the value in the string format. 
 </div>
 
 <div>
+
 ## Styles
 
 | <div style={{ width:"100px"}}> Style  </div>    | <div style={{ width:"100px"}}> Description </div> |

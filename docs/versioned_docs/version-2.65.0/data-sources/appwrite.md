@@ -27,6 +27,7 @@ To establish a connection with the Appwrite data source, you can either click on
 </div>
 
 <div>
+
 ## Querying Appwrite 
 
 - After setting up the Appwrite data source, navigate to the query panel and  select the **Appwrite** data source that you added in the previous step.
@@ -45,6 +46,7 @@ Query results can be transformed using Transformations. Read our **Transformatio
 </div>
 
 <div>
+
 ## Supported Operations
 
 -  **[List Documents](#list-documents)**

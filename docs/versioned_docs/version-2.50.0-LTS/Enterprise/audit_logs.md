@@ -15,7 +15,9 @@ The audit log is the report of all the activities done in your ToolJet account. 
 </div>
 
 <div>
-### Date Range
+
+##
+# Date Range
 
 Retrieve the log of events that occurred within the specified date and time range using the range picker. By default, the system loads 24-hour logs for the initial view. The maximum duration that can be specified for the "from" and "to" dates is 30 days.
 
@@ -32,6 +34,7 @@ Pagination at the bottom allows navigation through the pages, with each page dis
 </div>
 
 <div>
+
 ## Filter Audit Logs
 
 You can apply filters to the audited events based on the following criteria.
@@ -78,6 +81,7 @@ The dropdown will display all the apps associated with your account. Select an a
 </div>
 
 <div>
+
 ## Understanding Log Information
 
 <div style={{textAlign: 'center'}}>
@@ -102,7 +106,9 @@ The dropdown will display all the apps associated with your account. Select an a
 </div>
 
 <div>
-### Log File
+
+##
+# Log File
 
 The file will contain all the data from audit logs. The log file can be created by specifying the path in the [environment variables](/docs/setup/env-vars). The log file is rotated on a daily basis and is updated dynamically every time a new audit log is generated.
 

@@ -10,6 +10,7 @@ ToolJet can connect to **BigQuery** databases to run BigQuery queries.
 </div>
 
 <div>
+
 ## Connection
 
 - To establish a connection with the BigQuery data source, you need to enable BigQuery API in your Google Cloud Console. You can follow the steps to enable BigQuery API from **[Google Cloud](https://cloud.google.com/bigquery/docs/bigquery-web-ui)**. 
@@ -49,6 +50,7 @@ Click on the **Test Connection** button to verify if the credentials are correct
 </div>
 
 <div>
+
 ## Querying BigQuery
 
 Click on the **+Add** button of the query manager at the bottom panel of the editor and select the database added in the previous step as the data source. Select the operation that you want to perform from the **Operation** dropdown and click on the **Run** button to run the query.
@@ -66,6 +68,7 @@ Query results can be transformed using transformations. Read our transformations
 </div>
 
 <div>
+
 ## Supported Operations
 
 -  **[Query](#query)**
@@ -81,7 +84,9 @@ Query results can be transformed using transformations. Read our transformations
 </div>
 
 <div>
-### Query
+
+##
+# Query
 
 This operation returns the data based on the `Query`. 
 
@@ -102,7 +107,9 @@ This operation returns the data based on the `Query`.
 </div>
 
 <div>
-### List Datasets
+
+##
+# List Datasets
 
 This operation returns the list of datasets.
 
@@ -115,7 +122,9 @@ This operation returns the list of datasets.
 </div>
 
 <div>
-### List Tables
+
+##
+# List Tables
 
 This operation returns the list of tables within a dataset.
 
@@ -132,7 +141,9 @@ This operation returns the list of tables within a dataset.
 </div>
 
 <div>
-### Create Table
+
+##
+# Create Table
 
 This operation is used to create a table.
 
@@ -155,7 +166,9 @@ NOTE: visit -https://github.com/googleapis/nodejs-bigquery/blob/main/samples/cre
 </div>
 
 <div>
-### Delete Table
+
+##
+# Delete Table
 
 This operation is used to delete a table.
 
@@ -173,7 +186,9 @@ This operation is used to delete a table.
 </div>
 
 <div>
-### Create View
+
+##
+# Create View
 
 This operation is used to create a view.
 
@@ -196,7 +211,9 @@ This operation is used to create a view.
 </div>
 
 <div>
-### Insert Record
+
+##
+# Insert Record
 
 This operation is used to insert a record.
 
@@ -215,7 +232,9 @@ This operation is used to insert a record.
 </div>
 
 <div>
-### Delete Record 
+
+##
+# Delete Record 
 Use this operation to delete a record.
 
 #### Required parameters: 
@@ -241,7 +260,9 @@ NOTE: Be careful when deleting records in a table. If you omit the WHERE clause,
 </div>
 
 <div>
-### Update Record
+
+##
+# Update Record
 Use this operation to update a record.
 
 #### Required parameters: 

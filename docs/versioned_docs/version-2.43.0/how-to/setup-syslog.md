@@ -9,6 +9,7 @@ The **log file** serves as a comprehensive record of audit logs, capturing cruci
 </div>
 
 <div>
+
 ## Activation and Configuration
 
 ### Environment Variable Setup
@@ -34,6 +35,7 @@ The **log file** serves as a comprehensive record of audit logs, capturing cruci
 </div>
 
 <div>
+
 ## Log Rotation and Organization
 
 ### Daily Log Rotation
