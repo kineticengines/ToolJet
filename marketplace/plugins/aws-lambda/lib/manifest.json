@@ -5,7 +5,7 @@
   "type": "api",
   "source": {
     "name": "AWS Lambda",
-    "kind": "aws-lambda",
+    "kind": "AWS Lambda",
     "exposedVariables": {
       "isLoading": false,
       "data": {},
